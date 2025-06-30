@@ -1,0 +1,1303 @@
+id,name,base_experience,height,weight,abilities,primary_type,secondary_type,move_1,move_2,move_3,move_4,move_5,hp,attack,defense,special-attack,special-defense,speed
+1,bulbasaur,64,7,69,"overgrow, chlorophyll",grass,poison,razor-wind,swords-dance,cut,bind,vine-whip,45,49,49,65,65,45
+2,ivysaur,142,10,130,"overgrow, chlorophyll",grass,poison,swords-dance,cut,bind,vine-whip,headbutt,60,62,63,80,80,60
+3,venusaur,236,20,1000,"overgrow, chlorophyll",grass,poison,swords-dance,cut,bind,vine-whip,headbutt,80,82,83,100,100,80
+4,charmander,62,6,85,"blaze, solar-power",fire,,mega-punch,fire-punch,thunder-punch,scratch,swords-dance,39,52,43,60,50,65
+5,charmeleon,142,11,190,"blaze, solar-power",fire,,mega-punch,fire-punch,thunder-punch,scratch,swords-dance,58,64,58,80,65,80
+6,charizard,240,17,905,"blaze, solar-power",fire,flying,mega-punch,fire-punch,thunder-punch,scratch,swords-dance,78,84,78,109,85,100
+7,squirtle,63,5,90,"torrent, rain-dish",water,,mega-punch,ice-punch,mega-kick,headbutt,tackle,44,48,65,50,64,43
+8,wartortle,142,10,225,"torrent, rain-dish",water,,mega-punch,ice-punch,mega-kick,headbutt,tackle,59,63,80,65,80,58
+9,blastoise,239,16,855,"torrent, rain-dish",water,,mega-punch,ice-punch,mega-kick,headbutt,tackle,79,83,100,85,105,78
+10,caterpie,39,3,29,"shield-dust, run-away",bug,,tackle,string-shot,snore,bug-bite,electroweb,45,30,35,20,20,45
+11,metapod,72,7,99,shed-skin,bug,,string-shot,harden,iron-defense,bug-bite,electroweb,50,20,55,25,25,30
+12,butterfree,178,11,320,"compound-eyes, tinted-lens",bug,flying,razor-wind,gust,whirlwind,headbutt,tackle,60,45,50,90,80,70
+13,weedle,39,3,32,"shield-dust, run-away",bug,poison,poison-sting,string-shot,bug-bite,electroweb,,40,35,30,20,20,50
+14,kakuna,72,6,100,shed-skin,bug,poison,string-shot,harden,iron-defense,bug-bite,electroweb,45,25,50,25,25,35
+15,beedrill,178,10,295,"swarm, sniper",bug,poison,swords-dance,cut,headbutt,fury-attack,take-down,65,90,40,45,80,75
+16,pidgey,50,3,18,"keen-eye, tangled-feet, big-pecks",normal,flying,razor-wind,gust,wing-attack,whirlwind,fly,40,45,40,35,35,56
+17,pidgeotto,122,11,300,"keen-eye, tangled-feet, big-pecks",normal,flying,razor-wind,gust,wing-attack,whirlwind,fly,63,60,55,50,50,71
+18,pidgeot,216,15,395,"keen-eye, tangled-feet, big-pecks",normal,flying,razor-wind,gust,wing-attack,whirlwind,fly,83,80,75,70,70,101
+19,rattata,51,3,35,"run-away, guts, hustle",normal,,cut,headbutt,tackle,body-slam,take-down,30,56,35,25,35,72
+20,raticate,145,7,185,"run-away, guts, hustle",normal,,swords-dance,cut,headbutt,tackle,body-slam,55,81,60,50,70,97
+21,spearow,52,3,20,"keen-eye, sniper",normal,flying,razor-wind,wing-attack,whirlwind,fly,headbutt,40,60,30,31,31,70
+22,fearow,155,12,380,"keen-eye, sniper",normal,flying,razor-wind,wing-attack,whirlwind,fly,headbutt,65,90,65,61,61,100
+23,ekans,58,20,69,"intimidate, shed-skin, unnerve",poison,,bind,slam,headbutt,body-slam,wrap,35,60,44,40,54,55
+24,arbok,157,35,650,"intimidate, shed-skin, unnerve",poison,,bind,slam,headbutt,body-slam,wrap,60,95,69,65,79,80
+25,pikachu,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,double-kick,35,55,40,50,50,90
+26,raichu,218,8,300,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,60,90,55,90,80,110
+27,sandshrew,60,6,120,"sand-veil, sand-rush",ground,,scratch,swords-dance,cut,sand-attack,headbutt,50,75,85,20,30,40
+28,sandslash,158,10,295,"sand-veil, sand-rush",ground,,scratch,swords-dance,cut,sand-attack,headbutt,75,100,110,45,55,65
+29,nidoran-f,55,4,70,"poison-point, rivalry, hustle",poison,,scratch,cut,double-kick,headbutt,tackle,55,47,52,40,40,41
+30,nidorina,128,8,200,"poison-point, rivalry, hustle",poison,,scratch,cut,double-kick,headbutt,horn-drill,70,62,67,55,55,56
+31,nidoqueen,227,13,600,"poison-point, rivalry, sheer-force",poison,ground,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,90,92,87,75,85,76
+32,nidoran-m,55,5,90,"poison-point, rivalry, hustle",poison,,cut,double-kick,headbutt,horn-attack,fury-attack,46,57,40,40,40,50
+33,nidorino,128,9,195,"poison-point, rivalry, hustle",poison,,cut,double-kick,headbutt,horn-attack,fury-attack,61,72,57,55,55,65
+34,nidoking,227,14,620,"poison-point, rivalry, sheer-force",poison,ground,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,81,102,77,85,75,85
+35,clefairy,113,6,75,"cute-charm, magic-guard, friend-guard",fairy,,pound,double-slap,mega-punch,fire-punch,ice-punch,70,45,48,60,65,35
+36,clefable,217,13,400,"cute-charm, magic-guard, unaware",fairy,,pound,double-slap,mega-punch,fire-punch,ice-punch,95,70,73,95,90,60
+37,vulpix,60,6,99,"flash-fire, drought",fire,,headbutt,tackle,body-slam,take-down,double-edge,38,41,40,50,65,65
+38,ninetales,177,11,199,"flash-fire, drought",fire,,headbutt,tackle,body-slam,take-down,double-edge,73,76,75,81,100,100
+39,jigglypuff,95,5,55,"cute-charm, competitive, friend-guard",normal,fairy,pound,double-slap,mega-punch,fire-punch,ice-punch,115,45,20,45,25,20
+40,wigglytuff,196,10,120,"cute-charm, competitive, frisk",normal,fairy,pound,double-slap,mega-punch,fire-punch,ice-punch,140,70,45,85,50,45
+41,zubat,49,8,75,"inner-focus, infiltrator",poison,flying,razor-wind,gust,wing-attack,whirlwind,fly,40,45,35,30,40,55
+42,golbat,159,16,550,"inner-focus, infiltrator",poison,flying,razor-wind,gust,wing-attack,whirlwind,fly,75,80,70,65,75,90
+43,oddish,64,5,54,"chlorophyll, run-away",grass,poison,swords-dance,cut,headbutt,take-down,double-edge,45,50,55,75,65,30
+44,gloom,138,8,86,"chlorophyll, stench",grass,poison,swords-dance,cut,headbutt,take-down,double-edge,60,65,70,85,75,40
+45,vileplume,221,12,186,"chlorophyll, effect-spore",grass,poison,swords-dance,cut,headbutt,body-slam,take-down,75,80,85,110,90,50
+46,paras,57,3,54,"effect-spore, dry-skin, damp",bug,grass,scratch,swords-dance,cut,headbutt,body-slam,35,70,55,45,55,25
+47,parasect,142,10,295,"effect-spore, dry-skin, damp",bug,grass,scratch,swords-dance,cut,headbutt,body-slam,60,95,80,60,80,30
+48,venonat,61,10,300,"compound-eyes, tinted-lens, run-away",bug,poison,headbutt,tackle,take-down,double-edge,supersonic,60,55,50,40,55,45
+49,venomoth,158,15,125,"shield-dust, tinted-lens, wonder-skin",bug,poison,razor-wind,gust,whirlwind,headbutt,tackle,70,65,60,90,75,90
+50,diglett,53,2,8,"sand-veil, arena-trap, sand-force",ground,,scratch,swords-dance,cut,sand-attack,headbutt,10,55,25,35,45,95
+51,dugtrio,149,7,333,"sand-veil, arena-trap, sand-force",ground,,scratch,swords-dance,cut,sand-attack,headbutt,35,100,50,50,70,120
+52,meowth,58,4,42,"pickup, technician, unnerve",normal,,pay-day,scratch,cut,headbutt,body-slam,40,45,35,40,40,90
+53,persian,154,10,320,"limber, technician, unnerve",normal,,pay-day,scratch,cut,headbutt,body-slam,65,70,60,65,65,115
+54,psyduck,64,8,196,"damp, cloud-nine, swift-swim",water,,mega-punch,pay-day,ice-punch,scratch,mega-kick,50,52,48,65,50,55
+55,golduck,175,17,766,"damp, cloud-nine, swift-swim",water,,mega-punch,pay-day,ice-punch,scratch,mega-kick,80,82,78,95,80,85
+56,mankey,61,5,280,"vital-spirit, anger-point, defiant",fighting,,karate-chop,mega-punch,pay-day,fire-punch,ice-punch,40,80,35,35,45,70
+57,primeape,159,10,320,"vital-spirit, anger-point, defiant",fighting,,karate-chop,mega-punch,pay-day,fire-punch,ice-punch,65,105,60,60,70,95
+58,growlithe,70,7,190,"intimidate, flash-fire, justified",fire,,double-kick,headbutt,body-slam,take-down,thrash,55,70,45,70,50,60
+59,arcanine,194,19,1550,"intimidate, flash-fire, justified",fire,,headbutt,body-slam,take-down,double-edge,leer,90,110,80,100,80,95
+60,poliwag,60,6,124,"water-absorb, damp, swift-swim",water,,pound,double-slap,headbutt,body-slam,take-down,40,50,40,40,40,90
+61,poliwhirl,135,10,200,"water-absorb, damp, swift-swim",water,,pound,double-slap,mega-punch,ice-punch,mega-kick,65,65,65,50,50,90
+62,poliwrath,230,13,540,"water-absorb, damp, swift-swim",water,fighting,pound,double-slap,mega-punch,ice-punch,mega-kick,90,95,95,70,90,70
+63,abra,62,9,195,"synchronize, inner-focus, magic-guard",psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,25,20,15,105,55,90
+64,kadabra,140,13,565,"synchronize, inner-focus, magic-guard",psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,40,35,30,120,70,105
+65,alakazam,225,15,480,"synchronize, inner-focus, magic-guard",psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,55,50,45,135,95,120
+66,machop,61,8,195,"guts, no-guard, steadfast",fighting,,karate-chop,mega-punch,fire-punch,ice-punch,thunder-punch,70,80,50,35,35,35
+67,machoke,142,15,705,"guts, no-guard, steadfast",fighting,,karate-chop,mega-punch,fire-punch,ice-punch,thunder-punch,80,100,70,50,60,45
+68,machamp,227,16,1300,"guts, no-guard, steadfast",fighting,,karate-chop,mega-punch,fire-punch,ice-punch,thunder-punch,90,130,80,65,85,55
+69,bellsprout,60,7,40,"chlorophyll, gluttony",grass,poison,swords-dance,cut,bind,slam,vine-whip,50,75,35,70,30,40
+70,weepinbell,137,10,64,"chlorophyll, gluttony",grass,poison,swords-dance,cut,bind,slam,vine-whip,65,90,50,85,45,55
+71,victreebel,221,17,155,"chlorophyll, gluttony",grass,poison,swords-dance,cut,bind,slam,vine-whip,80,105,65,100,70,70
+72,tentacool,67,9,455,"clear-body, liquid-ooze, rain-dish",water,poison,swords-dance,cut,bind,headbutt,wrap,40,40,35,50,100,70
+73,tentacruel,180,16,550,"clear-body, liquid-ooze, rain-dish",water,poison,swords-dance,cut,bind,headbutt,wrap,80,70,65,80,120,100
+74,geodude,60,4,200,"rock-head, sturdy, sand-veil",rock,ground,mega-punch,fire-punch,thunder-punch,sand-attack,headbutt,40,80,100,30,30,20
+75,graveler,137,10,1050,"rock-head, sturdy, sand-veil",rock,ground,mega-punch,fire-punch,thunder-punch,sand-attack,headbutt,55,95,115,45,45,35
+76,golem,223,14,3000,"rock-head, sturdy, sand-veil",rock,ground,mega-punch,fire-punch,thunder-punch,mega-kick,sand-attack,80,120,130,55,65,45
+77,ponyta,82,10,300,"run-away, flash-fire, flame-body",fire,,stomp,double-kick,headbutt,horn-drill,tackle,50,85,55,65,65,90
+78,rapidash,175,17,950,"run-away, flash-fire, flame-body",fire,,pay-day,swords-dance,stomp,double-kick,headbutt,65,100,70,80,80,105
+79,slowpoke,63,12,360,"oblivious, own-tempo, regenerator",water,psychic,pay-day,stomp,headbutt,tackle,body-slam,90,65,65,40,40,15
+80,slowbro,172,16,785,"oblivious, own-tempo, regenerator",water,psychic,mega-punch,pay-day,ice-punch,stomp,mega-kick,95,75,110,100,80,30
+81,magnemite,65,3,60,"magnet-pull, sturdy, analytic",electric,steel,headbutt,tackle,take-down,double-edge,supersonic,25,35,70,95,55,45
+82,magneton,163,10,600,"magnet-pull, sturdy, analytic",electric,steel,headbutt,tackle,take-down,double-edge,supersonic,50,60,95,120,70,70
+83,farfetchd,132,8,150,"keen-eye, inner-focus, defiant",normal,flying,razor-wind,swords-dance,cut,gust,whirlwind,52,90,55,58,62,60
+84,doduo,62,14,392,"run-away, early-bird, tangled-feet",normal,flying,swords-dance,wing-attack,whirlwind,fly,jump-kick,35,85,45,35,35,75
+85,dodrio,165,18,852,"run-away, early-bird, tangled-feet",normal,flying,swords-dance,wing-attack,whirlwind,fly,jump-kick,60,110,70,60,60,110
+86,seel,65,11,900,"thick-fat, hydration, ice-body",water,,pay-day,slam,headbutt,horn-drill,body-slam,65,45,55,45,70,45
+87,dewgong,166,17,1200,"thick-fat, hydration, ice-body",water,ice,pay-day,headbutt,horn-drill,body-slam,take-down,90,70,80,70,95,70
+88,grimer,65,9,300,"stench, sticky-hold, poison-touch",poison,,pound,fire-punch,ice-punch,thunder-punch,headbutt,80,80,50,40,50,25
+89,muk,175,12,300,"stench, sticky-hold, poison-touch",poison,,pound,fire-punch,ice-punch,thunder-punch,headbutt,105,105,75,65,100,50
+90,shellder,61,3,40,"shell-armor, skill-link, overcoat",water,,headbutt,tackle,take-down,double-edge,twineedle,30,65,100,45,25,40
+91,cloyster,184,15,1325,"shell-armor, skill-link, overcoat",water,ice,headbutt,tackle,body-slam,take-down,double-edge,50,95,180,85,45,70
+92,gastly,62,13,1,levitate,ghost,poison,fire-punch,ice-punch,thunder-punch,headbutt,disable,30,35,30,100,35,80
+93,haunter,142,16,1,levitate,ghost,poison,fire-punch,ice-punch,thunder-punch,headbutt,mega-drain,45,50,45,115,55,95
+94,gengar,225,15,405,cursed-body,ghost,poison,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,60,65,60,130,75,110
+95,onix,77,88,2100,"rock-head, sturdy, weak-armor",rock,ground,bind,slam,headbutt,tackle,body-slam,35,45,160,30,45,70
+96,drowzee,66,10,324,"insomnia, forewarn, inner-focus",psychic,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,60,48,45,43,90,42
+97,hypno,169,16,756,"insomnia, forewarn, inner-focus",psychic,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,85,73,70,73,115,67
+98,krabby,65,4,65,"hyper-cutter, shell-armor, sheer-force",water,,vice-grip,guillotine,swords-dance,cut,slam,30,105,90,25,25,50
+99,kingler,166,13,600,"hyper-cutter, shell-armor, sheer-force",water,,vice-grip,guillotine,swords-dance,cut,slam,55,130,115,50,50,75
+100,voltorb,66,5,104,"soundproof, static, aftermath",electric,,headbutt,tackle,take-down,double-edge,sonic-boom,40,30,50,55,55,100
+101,electrode,172,12,666,"soundproof, static, aftermath",electric,,headbutt,tackle,take-down,double-edge,sonic-boom,60,50,70,80,80,150
+102,exeggcute,65,4,25,"chlorophyll, harvest",grass,psychic,swords-dance,headbutt,take-down,double-edge,psybeam,60,40,80,60,45,40
+103,exeggutor,186,20,1200,"chlorophyll, harvest",grass,psychic,swords-dance,stomp,headbutt,body-slam,take-down,95,95,85,125,75,55
+104,cubone,64,4,65,"rock-head, lightning-rod, battle-armor",ground,,mega-punch,fire-punch,thunder-punch,swords-dance,double-kick,50,50,95,40,50,35
+105,marowak,149,10,450,"rock-head, lightning-rod, battle-armor",ground,,mega-punch,fire-punch,thunder-punch,swords-dance,mega-kick,60,80,110,50,80,45
+106,hitmonlee,159,15,498,"limber, reckless, unburden",fighting,,mega-punch,swords-dance,double-kick,mega-kick,jump-kick,50,120,53,35,110,87
+107,hitmonchan,159,14,502,"keen-eye, iron-fist, inner-focus",fighting,,comet-punch,mega-punch,fire-punch,ice-punch,thunder-punch,50,105,79,35,110,76
+108,lickitung,77,12,655,"own-tempo, oblivious, cloud-nine",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,90,55,75,60,75,30
+109,koffing,68,6,10,"levitate, neutralizing-gas, stench",poison,,headbutt,tackle,body-slam,take-down,flamethrower,40,65,95,60,45,35
+110,weezing,172,12,95,"levitate, neutralizing-gas, stench",poison,,headbutt,tackle,body-slam,take-down,flamethrower,65,90,120,85,70,60
+111,rhyhorn,69,10,1150,"lightning-rod, rock-head, reckless",ground,rock,swords-dance,stomp,sand-attack,headbutt,horn-attack,80,85,95,30,30,25
+112,rhydon,170,19,1200,"lightning-rod, rock-head, reckless",ground,rock,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,105,130,120,45,45,40
+113,chansey,395,11,346,"natural-cure, serene-grace, healer",normal,,pound,double-slap,mega-punch,fire-punch,ice-punch,250,5,5,35,105,50
+114,tangela,87,10,350,"chlorophyll, leaf-guard, regenerator",grass,,swords-dance,cut,bind,slam,vine-whip,65,55,115,100,40,60
+115,kangaskhan,172,22,800,"early-bird, scrappy, inner-focus",normal,,pound,comet-punch,mega-punch,fire-punch,ice-punch,105,95,80,40,80,90
+116,horsea,59,4,80,"swift-swim, sniper, damp",water,,razor-wind,headbutt,take-down,double-edge,leer,30,40,70,70,25,60
+117,seadra,154,12,250,"poison-point, sniper, damp",water,,headbutt,take-down,double-edge,leer,disable,55,65,95,95,45,85
+118,goldeen,64,6,150,"swift-swim, water-veil, lightning-rod",water,,swords-dance,headbutt,horn-attack,fury-attack,horn-drill,45,67,60,35,50,63
+119,seaking,158,13,390,"swift-swim, water-veil, lightning-rod",water,,swords-dance,headbutt,horn-attack,fury-attack,horn-drill,80,92,65,65,80,68
+120,staryu,68,8,345,"illuminate, natural-cure, analytic",water,,headbutt,tackle,take-down,double-edge,supersonic,30,45,55,70,55,85
+121,starmie,182,11,800,"illuminate, natural-cure, analytic",water,psychic,headbutt,tackle,take-down,double-edge,water-gun,60,75,85,100,85,115
+122,mr-mime,161,13,545,"soundproof, filter, technician",psychic,fairy,pound,double-slap,mega-punch,fire-punch,ice-punch,40,45,65,100,120,90
+123,scyther,100,15,560,"swarm, technician, steadfast",bug,flying,razor-wind,swords-dance,cut,wing-attack,headbutt,70,110,80,55,80,105
+124,jynx,159,14,406,"oblivious, forewarn, dry-skin",ice,psychic,pound,double-slap,mega-punch,ice-punch,mega-kick,65,50,35,115,95,95
+125,electabuzz,172,11,300,"static, vital-spirit",electric,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,65,83,57,95,85,105
+126,magmar,173,13,445,"flame-body, vital-spirit",fire,,mega-punch,fire-punch,thunder-punch,mega-kick,headbutt,65,95,57,100,85,93
+127,pinsir,175,15,550,"hyper-cutter, mold-breaker, moxie",bug,,vice-grip,guillotine,swords-dance,cut,bind,65,125,100,55,70,85
+128,tauros,172,14,884,"intimidate, anger-point, sheer-force",normal,,stomp,headbutt,horn-attack,horn-drill,tackle,75,100,95,40,70,110
+129,magikarp,40,9,100,"swift-swim, rattled",water,,tackle,hydro-pump,splash,flail,bounce,20,10,55,15,20,80
+130,gyarados,189,65,2350,"intimidate, moxie",water,flying,bind,headbutt,tackle,body-slam,take-down,95,125,79,60,100,81
+131,lapras,187,25,2200,"water-absorb, shell-armor, hydration",water,ice,headbutt,horn-drill,body-slam,take-down,double-edge,130,85,80,85,95,60
+132,ditto,101,3,40,"limber, imposter",normal,,transform,,,,,48,48,48,48,48,48
+133,eevee,65,3,65,"run-away, adaptability, anticipation",normal,,pay-day,double-kick,sand-attack,headbutt,tackle,55,55,50,45,65,55
+134,vaporeon,184,10,290,"water-absorb, hydration",water,,pay-day,double-kick,sand-attack,headbutt,tackle,130,65,60,110,95,65
+135,jolteon,184,8,245,"volt-absorb, quick-feet",electric,,pay-day,double-kick,sand-attack,headbutt,tackle,65,65,60,110,95,130
+136,flareon,184,9,250,"flash-fire, guts",fire,,pay-day,double-kick,sand-attack,headbutt,tackle,65,130,60,95,110,65
+137,porygon,79,8,365,"trace, download, analytic",normal,,headbutt,tackle,take-down,double-edge,ice-beam,65,60,70,85,75,40
+138,omanyte,71,4,75,"swift-swim, shell-armor, weak-armor",rock,water,bind,slam,sand-attack,headbutt,horn-attack,35,40,100,90,55,35
+139,omastar,173,10,350,"swift-swim, shell-armor, weak-armor",rock,water,bind,sand-attack,headbutt,horn-attack,horn-drill,70,60,125,115,70,55
+140,kabuto,71,5,115,"swift-swim, battle-armor, weak-armor",rock,water,scratch,sand-attack,headbutt,body-slam,take-down,30,80,90,55,45,55
+141,kabutops,173,13,405,"swift-swim, battle-armor, weak-armor",rock,water,scratch,razor-wind,swords-dance,cut,mega-kick,60,115,105,65,70,80
+142,aerodactyl,180,18,590,"rock-head, pressure, unnerve",rock,flying,razor-wind,wing-attack,whirlwind,fly,headbutt,80,105,65,60,75,130
+143,snorlax,189,21,4600,"immunity, thick-fat, gluttony",normal,,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,160,110,65,65,110,30
+144,articuno,261,17,554,"pressure, snow-cloak",ice,flying,razor-wind,gust,whirlwind,fly,headbutt,90,85,100,95,125,85
+145,zapdos,261,16,526,"pressure, static",electric,flying,razor-wind,whirlwind,fly,headbutt,take-down,90,90,85,125,90,100
+146,moltres,261,20,600,"pressure, flame-body",fire,flying,razor-wind,gust,wing-attack,whirlwind,fly,90,100,90,125,85,90
+147,dratini,60,18,33,"shed-skin, marvel-scale",dragon,,bind,slam,headbutt,body-slam,wrap,41,64,45,50,50,50
+148,dragonair,147,40,165,"shed-skin, marvel-scale",dragon,,bind,slam,headbutt,horn-drill,body-slam,61,84,65,70,70,70
+149,dragonite,270,22,2100,"inner-focus, multiscale",dragon,flying,mega-punch,fire-punch,ice-punch,thunder-punch,razor-wind,91,134,95,100,100,80
+150,mewtwo,306,20,1220,"pressure, unnerve",psychic,,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,106,110,90,154,90,130
+151,mew,270,4,40,synchronize,psychic,,pound,mega-punch,pay-day,fire-punch,ice-punch,100,100,100,100,100,100
+152,chikorita,64,9,64,"overgrow, leaf-guard",grass,,swords-dance,cut,vine-whip,headbutt,tackle,45,49,65,49,65,45
+153,bayleef,142,12,158,"overgrow, leaf-guard",grass,,swords-dance,cut,vine-whip,headbutt,tackle,60,62,80,63,80,60
+154,meganium,236,18,1005,"overgrow, leaf-guard",grass,,swords-dance,cut,vine-whip,headbutt,tackle,80,82,100,83,100,80
+155,cyndaquil,62,5,79,"blaze, flash-fire",fire,,cut,double-kick,headbutt,tackle,body-slam,39,52,43,60,50,65
+156,quilava,142,9,190,"blaze, flash-fire",fire,,cut,double-kick,headbutt,tackle,body-slam,58,64,58,80,65,80
+157,typhlosion,240,17,795,"blaze, flash-fire",fire,,mega-punch,fire-punch,thunder-punch,cut,double-kick,78,84,78,109,85,100
+158,totodile,63,6,95,"torrent, sheer-force",water,,mega-punch,ice-punch,scratch,razor-wind,swords-dance,50,65,64,44,48,43
+159,croconaw,142,11,250,"torrent, sheer-force",water,,mega-punch,ice-punch,scratch,swords-dance,cut,65,80,80,59,63,58
+160,feraligatr,239,23,888,"torrent, sheer-force",water,,mega-punch,ice-punch,scratch,swords-dance,cut,85,105,100,79,83,78
+161,sentret,43,8,60,"run-away, keen-eye, frisk",normal,,fire-punch,ice-punch,thunder-punch,scratch,cut,35,46,34,35,45,20
+162,furret,145,18,325,"run-away, keen-eye, frisk",normal,,fire-punch,ice-punch,thunder-punch,scratch,cut,85,76,64,45,55,90
+163,hoothoot,52,7,212,"insomnia, keen-eye, tinted-lens",normal,flying,wing-attack,whirlwind,fly,tackle,take-down,60,30,30,36,56,50
+164,noctowl,158,16,408,"insomnia, keen-eye, tinted-lens",normal,flying,wing-attack,whirlwind,fly,tackle,body-slam,100,50,50,86,96,70
+165,ledyba,53,10,108,"swarm, early-bird, rattled",bug,flying,comet-punch,mega-punch,ice-punch,thunder-punch,swords-dance,40,20,30,40,80,55
+166,ledian,137,14,356,"swarm, early-bird, iron-fist",bug,flying,comet-punch,mega-punch,ice-punch,thunder-punch,swords-dance,55,35,50,55,110,85
+167,spinarak,50,5,85,"swarm, insomnia, sniper",bug,poison,body-slam,double-edge,poison-sting,twineedle,pin-missile,40,60,40,40,40,30
+168,ariados,140,11,335,"swarm, insomnia, sniper",bug,poison,swords-dance,body-slam,double-edge,poison-sting,pin-missile,70,90,70,60,70,40
+169,crobat,241,18,750,"inner-focus, infiltrator",poison,flying,gust,wing-attack,fly,double-edge,bite,85,90,80,70,80,130
+170,chinchou,66,5,120,"volt-absorb, illuminate, water-absorb",water,electric,take-down,double-edge,supersonic,mist,water-gun,75,38,38,56,56,67
+171,lanturn,161,12,225,"volt-absorb, illuminate, water-absorb",water,electric,take-down,double-edge,supersonic,mist,water-gun,125,58,58,76,76,67
+172,pichu,41,3,20,"static, lightning-rod",electric,,double-slap,mega-punch,thunder-punch,mega-kick,headbutt,20,40,15,35,35,60
+173,cleffa,44,3,30,"cute-charm, magic-guard, friend-guard",fairy,,pound,mega-punch,mega-kick,headbutt,tackle,50,25,28,45,55,15
+174,igglybuff,42,3,10,"cute-charm, competitive, friend-guard",normal,fairy,pound,mega-punch,mega-kick,headbutt,body-slam,90,30,15,40,20,15
+175,togepi,49,3,15,"hustle, serene-grace, super-luck",fairy,,pound,mega-punch,mega-kick,headbutt,tackle,35,20,65,40,65,20
+176,togetic,142,6,32,"hustle, serene-grace, super-luck",fairy,flying,pound,mega-punch,fly,mega-kick,headbutt,55,40,85,80,105,40
+177,natu,64,2,20,"synchronize, early-bird, magic-bounce",psychic,flying,double-edge,leer,peck,drill-peck,solar-beam,40,50,45,70,45,70
+178,xatu,165,15,150,"synchronize, early-bird, magic-bounce",psychic,flying,fly,double-edge,leer,hyper-beam,peck,65,75,70,95,70,95
+179,mareep,56,6,78,"static, plus",electric,,sand-attack,headbutt,tackle,body-slam,take-down,55,40,40,65,45,35
+180,flaaffy,128,8,133,"static, plus",electric,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,70,55,55,80,60,45
+181,ampharos,230,14,615,"static, plus",electric,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,90,75,85,115,90,55
+182,bellossom,221,4,58,"chlorophyll, healer",grass,,swords-dance,cut,double-edge,acid,hyper-beam,75,80,95,90,100,50
+183,marill,88,4,85,"thick-fat, huge-power, sap-sipper",water,fairy,mega-punch,ice-punch,slam,mega-kick,headbutt,70,20,50,20,50,40
+184,azumarill,189,8,285,"thick-fat, huge-power, sap-sipper",water,fairy,mega-punch,ice-punch,slam,mega-kick,headbutt,100,50,80,60,80,50
+185,sudowoodo,144,12,380,"sturdy, rock-head, rattled",rock,,mega-punch,fire-punch,ice-punch,thunder-punch,slam,70,100,115,30,65,30
+186,politoed,225,11,339,"water-absorb, damp, drizzle",water,,pound,double-slap,mega-punch,ice-punch,mega-kick,90,75,75,90,100,70
+187,hoppip,50,4,5,"chlorophyll, leaf-guard, infiltrator",grass,flying,pay-day,swords-dance,headbutt,tackle,take-down,35,35,40,35,55,50
+188,skiploom,119,6,10,"chlorophyll, leaf-guard, infiltrator",grass,flying,swords-dance,headbutt,tackle,take-down,double-edge,55,45,50,45,65,80
+189,jumpluff,207,8,30,"chlorophyll, leaf-guard, infiltrator",grass,flying,swords-dance,headbutt,tackle,take-down,double-edge,75,55,70,55,95,110
+190,aipom,72,8,115,"run-away, pickup, skill-link",normal,,double-slap,mega-punch,fire-punch,ice-punch,thunder-punch,55,70,55,40,55,85
+191,sunkern,36,3,18,"chlorophyll, solar-power, early-bird",grass,,swords-dance,cut,tackle,take-down,double-edge,30,30,30,30,30,30
+192,sunflora,149,8,85,"chlorophyll, solar-power, early-bird",grass,,pound,swords-dance,cut,tackle,take-down,75,75,55,105,85,30
+193,yanma,78,12,380,"speed-boost, compound-eyes, frisk",bug,flying,swords-dance,gust,wing-attack,whirlwind,headbutt,65,65,45,75,45,95
+194,wooper,42,4,85,"damp, water-absorb, unaware",water,ground,ice-punch,slam,double-kick,headbutt,body-slam,55,45,45,25,25,15
+195,quagsire,151,14,750,"damp, water-absorb, unaware",water,ground,mega-punch,ice-punch,slam,mega-kick,headbutt,95,85,85,65,65,35
+196,espeon,184,9,265,"synchronize, magic-bounce",psychic,,pay-day,cut,sand-attack,headbutt,tackle,65,65,60,130,95,110
+197,umbreon,184,10,270,"synchronize, inner-focus",dark,,pay-day,cut,sand-attack,headbutt,tackle,95,65,110,60,130,65
+198,murkrow,81,5,21,"insomnia, super-luck, prankster",dark,flying,gust,wing-attack,whirlwind,fly,take-down,60,85,42,85,42,91
+199,slowking,172,20,795,"oblivious, own-tempo, regenerator",water,psychic,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,95,75,80,100,110,30
+200,misdreavus,87,7,10,levitate,ghost,,headbutt,double-edge,growl,psybeam,hyper-beam,60,60,60,85,85,85
+201,unown-a,118,5,50,levitate,psychic,,hidden-power,,,,,48,72,48,72,48,48
+202,wobbuffet,142,13,285,"shadow-tag, telepathy",psychic,,counter,amnesia,splash,destiny-bond,charm,190,33,58,33,58,33
+203,girafarig,159,15,415,"inner-focus, early-bird, sap-sipper",normal,psychic,razor-wind,stomp,double-kick,headbutt,tackle,70,80,65,90,65,85
+204,pineco,58,6,72,"sturdy, overcoat",bug,,headbutt,tackle,body-slam,take-down,double-edge,50,65,90,35,35,15
+205,forretress,163,12,1258,"sturdy, overcoat",bug,steel,headbutt,tackle,body-slam,take-down,double-edge,75,90,140,60,60,40
+206,dunsparce,145,15,140,"serene-grace, run-away, rattled",normal,,bind,headbutt,body-slam,take-down,double-edge,100,70,70,65,65,45
+207,gligar,86,11,648,"hyper-cutter, sand-veil, immunity",ground,flying,guillotine,razor-wind,swords-dance,cut,wing-attack,65,75,105,35,65,85
+208,steelix,179,92,4000,"rock-head, sturdy, sheer-force",steel,ground,cut,bind,slam,headbutt,tackle,75,85,200,55,65,30
+209,snubbull,60,6,78,"intimidate, run-away, rattled",fairy,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,60,80,50,40,40,30
+210,granbull,158,14,487,"intimidate, quick-feet, rattled",fairy,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,90,120,75,60,60,45
+211,qwilfish,88,5,39,"poison-point, swift-swim, intimidate",water,poison,swords-dance,headbutt,tackle,take-down,double-edge,65,95,85,55,55,85
+212,scizor,175,18,1180,"swarm, technician, light-metal",bug,steel,razor-wind,swords-dance,cut,wing-attack,headbutt,70,130,100,55,80,65
+213,shuckle,177,6,205,"sturdy, gluttony, contrary",bug,rock,bind,headbutt,body-slam,wrap,double-edge,20,10,230,10,230,5
+214,heracross,175,15,540,"swarm, guts, moxie",bug,fighting,swords-dance,cut,headbutt,horn-attack,fury-attack,80,125,75,40,95,85
+215,sneasel,86,9,280,"inner-focus, keen-eye, pickpocket",dark,ice,mega-punch,ice-punch,scratch,swords-dance,cut,55,95,55,35,75,115
+216,teddiursa,66,6,88,"pickup, quick-feet, honey-gather",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,60,80,50,50,50,40
+217,ursaring,175,18,1258,"guts, quick-feet, unnerve",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,90,130,75,75,75,55
+218,slugma,50,7,350,"magma-armor, flame-body, weak-armor",fire,,body-slam,take-down,double-edge,ember,flamethrower,40,40,40,70,40,20
+219,magcargo,151,8,550,"magma-armor, flame-body, weak-armor",fire,rock,body-slam,take-down,double-edge,ember,flamethrower,60,50,120,90,80,30
+220,swinub,50,4,65,"oblivious, snow-cloak, thick-fat",ice,ground,headbutt,tackle,body-slam,take-down,double-edge,50,50,40,30,30,50
+221,piloswine,158,11,558,"oblivious, snow-cloak, thick-fat",ice,ground,headbutt,horn-attack,fury-attack,tackle,body-slam,100,100,80,60,60,50
+222,corsola,144,6,50,"hustle, natural-cure, regenerator",water,rock,headbutt,tackle,body-slam,double-edge,mist,65,55,95,65,95,35
+223,remoraid,60,6,120,"hustle, sniper, moody",water,,double-edge,supersonic,flamethrower,water-gun,hydro-pump,35,65,35,65,35,65
+224,octillery,168,9,285,"suction-cups, sniper, moody",water,,bind,wrap,double-edge,flamethrower,water-gun,75,105,75,105,75,45
+225,delibird,116,9,160,"vital-spirit, hustle, insomnia",ice,flying,mega-punch,ice-punch,fly,mega-kick,headbutt,45,55,45,65,45,75
+226,mantine,170,21,2200,"swift-swim, water-absorb, water-veil",water,flying,wing-attack,slam,headbutt,tackle,body-slam,85,40,70,80,140,70
+227,skarmory,163,17,505,"keen-eye, sturdy, weak-armor",steel,flying,swords-dance,cut,wing-attack,whirlwind,fly,65,80,140,40,70,70
+228,houndour,66,6,108,"early-bird, flash-fire, unnerve",dark,fire,headbutt,body-slam,take-down,double-edge,leer,45,60,30,80,50,65
+229,houndoom,175,14,350,"early-bird, flash-fire, unnerve",dark,fire,headbutt,body-slam,take-down,double-edge,leer,75,90,50,110,80,95
+230,kingdra,243,18,1520,"swift-swim, sniper, damp",water,dragon,headbutt,body-slam,take-down,double-edge,leer,75,95,95,95,95,85
+231,phanpy,66,5,335,"pickup, sand-veil",ground,,slam,headbutt,tackle,body-slam,take-down,90,60,60,40,40,40
+232,donphan,175,11,1200,"sturdy, sand-veil",ground,,slam,headbutt,horn-attack,fury-attack,tackle,90,120,120,60,60,50
+233,porygon2,180,6,325,"trace, download, analytic",normal,,tackle,take-down,double-edge,ice-beam,blizzard,85,80,90,105,95,60
+234,stantler,163,14,712,"intimidate, frisk, sap-sipper",normal,,stomp,double-kick,jump-kick,sand-attack,headbutt,73,95,62,85,65,85
+235,smeargle,88,12,580,"own-tempo, technician, moody",normal,,sketch,,,,,55,20,35,20,45,75
+236,tyrogue,42,7,210,"guts, steadfast, vital-spirit",fighting,,mega-punch,mega-kick,headbutt,tackle,body-slam,35,35,35,35,35,35
+237,hitmontop,159,14,480,"intimidate, technician, steadfast",fighting,,mega-punch,mega-kick,rolling-kick,headbutt,tackle,50,95,95,35,110,70
+238,smoochum,61,4,60,"oblivious, forewarn, hydration",ice,psychic,pound,mega-punch,ice-punch,mega-kick,body-slam,45,30,15,85,65,65
+239,elekid,72,6,235,"static, vital-spirit",electric,,karate-chop,mega-punch,fire-punch,ice-punch,thunder-punch,45,63,37,65,55,95
+240,magby,73,7,214,"flame-body, vital-spirit",fire,,karate-chop,mega-punch,fire-punch,thunder-punch,mega-kick,45,75,37,70,55,83
+241,miltank,172,12,755,"thick-fat, scrappy, sap-sipper",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,stomp,95,80,105,40,70,100
+242,blissey,608,15,468,"natural-cure, serene-grace, healer",normal,,pound,double-slap,mega-punch,fire-punch,ice-punch,255,10,10,75,135,55
+243,raikou,261,19,1780,"pressure, inner-focus",electric,,cut,headbutt,body-slam,take-down,double-edge,90,85,75,115,100,115
+244,entei,261,21,1980,"pressure, inner-focus",fire,,cut,stomp,headbutt,body-slam,take-down,115,115,85,90,75,100
+245,suicune,261,20,1870,"pressure, inner-focus",water,,cut,gust,headbutt,body-slam,take-down,100,75,115,90,115,85
+246,larvitar,60,6,720,"guts, sand-veil",rock,ground,stomp,headbutt,tackle,body-slam,take-down,50,64,50,45,50,41
+247,pupitar,144,12,1520,shed-skin,rock,ground,headbutt,tackle,body-slam,take-down,thrash,70,84,70,65,70,51
+248,tyranitar,270,20,2020,"sand-stream, unnerve",rock,dark,mega-punch,fire-punch,ice-punch,thunder-punch,cut,100,134,110,95,100,61
+249,lugia,306,52,2160,"pressure, multiscale",psychic,flying,gust,whirlwind,fly,headbutt,body-slam,106,90,130,90,154,110
+250,ho-oh,306,38,1990,"pressure, regenerator",fire,flying,gust,whirlwind,fly,body-slam,take-down,106,130,90,110,154,90
+251,celebi,270,6,50,natural-cure,psychic,grass,swords-dance,cut,double-edge,hyper-beam,leech-seed,100,100,100,100,100,100
+252,treecko,62,5,50,"overgrow, unburden",grass,,pound,mega-punch,thunder-punch,razor-wind,swords-dance,40,45,35,65,55,70
+253,grovyle,142,9,216,"overgrow, unburden",grass,,pound,mega-punch,thunder-punch,swords-dance,cut,50,65,45,85,65,95
+254,sceptile,239,17,522,"overgrow, unburden",grass,,pound,mega-punch,thunder-punch,swords-dance,cut,70,85,65,105,85,120
+255,torchic,62,4,25,"blaze, speed-boost",fire,,mega-punch,scratch,swords-dance,cut,mega-kick,45,60,40,70,50,45
+256,combusken,142,9,195,"blaze, speed-boost",fire,fighting,mega-punch,fire-punch,thunder-punch,scratch,swords-dance,60,85,60,85,60,55
+257,blaziken,239,19,520,"blaze, speed-boost",fire,fighting,mega-punch,fire-punch,thunder-punch,scratch,swords-dance,80,120,70,110,70,80
+258,mudkip,62,4,76,"torrent, damp",water,,stomp,headbutt,tackle,body-slam,take-down,50,70,50,50,50,40
+259,marshtomp,142,7,280,"torrent, damp",water,ground,mega-punch,ice-punch,stomp,mega-kick,headbutt,70,85,70,60,70,50
+260,swampert,241,15,819,"torrent, damp",water,ground,mega-punch,ice-punch,stomp,mega-kick,headbutt,100,110,90,85,90,60
+261,poochyena,56,5,136,"run-away, quick-feet, rattled",dark,,sand-attack,headbutt,tackle,body-slam,take-down,35,55,35,30,30,35
+262,mightyena,147,10,370,"intimidate, quick-feet, moxie",dark,,sand-attack,headbutt,tackle,body-slam,take-down,70,90,70,60,60,70
+263,zigzagoon,56,4,175,"pickup, gluttony, quick-feet",normal,,cut,sand-attack,headbutt,tackle,body-slam,38,30,41,30,41,60
+264,linoone,147,5,325,"pickup, gluttony, quick-feet",normal,,cut,sand-attack,headbutt,tackle,body-slam,78,70,61,50,61,100
+265,wurmple,56,3,36,"shield-dust, run-away",bug,,tackle,poison-sting,string-shot,snore,bug-bite,45,45,35,20,30,20
+266,silcoon,72,6,100,shed-skin,bug,,tackle,poison-sting,string-shot,harden,iron-defense,50,35,55,25,25,15
+267,beautifly,178,10,284,"swarm, rivalry",bug,flying,gust,whirlwind,tackle,double-edge,poison-sting,60,70,50,100,50,65
+268,cascoon,72,7,115,shed-skin,bug,,tackle,poison-sting,string-shot,harden,iron-defense,50,35,55,25,25,15
+269,dustox,173,12,316,"shield-dust, compound-eyes",bug,poison,gust,whirlwind,tackle,double-edge,poison-sting,60,50,70,50,90,65
+270,lotad,44,5,26,"swift-swim, rain-dish, own-tempo",water,grass,swords-dance,headbutt,body-slam,take-down,double-edge,40,30,30,40,50,30
+271,lombre,119,12,325,"swift-swim, rain-dish, own-tempo",water,grass,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,60,50,50,60,70,50
+272,ludicolo,216,15,550,"swift-swim, rain-dish, own-tempo",water,grass,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,80,70,70,90,100,70
+273,seedot,44,5,40,"chlorophyll, early-bird, pickpocket",grass,,razor-wind,swords-dance,headbutt,tackle,body-slam,40,40,50,30,30,30
+274,nuzleaf,119,10,280,"chlorophyll, early-bird, pickpocket",grass,dark,pound,razor-wind,swords-dance,cut,mega-kick,70,70,40,60,40,60
+275,shiftry,216,13,596,"chlorophyll, wind-rider, pickpocket",grass,dark,pound,swords-dance,cut,whirlwind,mega-kick,90,100,60,90,60,80
+276,taillow,54,3,23,"guts, scrappy",normal,flying,wing-attack,whirlwind,fly,double-edge,growl,40,55,30,30,30,85
+277,swellow,159,7,198,"guts, scrappy",normal,flying,wing-attack,fly,double-edge,growl,hyper-beam,60,85,60,75,50,125
+278,wingull,54,6,95,"keen-eye, hydration, rain-dish",water,flying,gust,wing-attack,fly,take-down,double-edge,40,30,30,55,30,85
+279,pelipper,154,12,280,"keen-eye, drizzle, rain-dish",water,flying,wing-attack,fly,body-slam,take-down,double-edge,60,50,100,95,70,65
+280,ralts,40,4,66,"synchronize, trace, telepathy",psychic,fairy,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,28,25,25,45,35,40
+281,kirlia,97,8,202,"synchronize, trace, telepathy",psychic,fairy,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,38,35,35,65,55,50
+282,gardevoir,233,16,484,"synchronize, trace, telepathy",psychic,fairy,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,68,65,65,125,115,80
+283,surskit,54,5,17,"swift-swim, rain-dish",bug,water,take-down,double-edge,mist,water-gun,hydro-pump,40,30,32,50,52,65
+284,masquerain,159,8,36,"intimidate, unnerve",bug,flying,gust,whirlwind,take-down,double-edge,supersonic,70,60,62,100,82,80
+285,shroomish,59,4,45,"effect-spore, poison-heal, quick-feet",grass,,swords-dance,headbutt,tackle,body-slam,take-down,60,40,60,40,60,35
+286,breloom,161,12,392,"effect-spore, poison-heal, technician",grass,fighting,mega-punch,thunder-punch,swords-dance,cut,mega-kick,60,130,80,60,60,70
+287,slakoth,56,8,240,truant,normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,60,60,60,35,35,30
+288,vigoroth,154,14,465,vital-spirit,normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,80,80,80,55,55,90
+289,slaking,252,20,1305,truant,normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,150,160,100,95,65,100
+290,nincada,53,5,55,"compound-eyes, run-away",bug,ground,scratch,cut,gust,sand-attack,double-edge,31,45,90,30,30,40
+291,ninjask,160,8,120,"speed-boost, infiltrator",bug,flying,scratch,swords-dance,cut,sand-attack,double-edge,61,90,45,50,50,160
+292,shedinja,83,8,12,wonder-guard,bug,ghost,scratch,cut,sand-attack,double-edge,hyper-beam,1,90,45,30,30,40
+293,whismur,48,6,163,"soundproof, rattled",normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,64,51,23,51,23,28
+294,loudred,126,10,405,"soundproof, scrappy",normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,84,71,43,71,43,48
+295,exploud,221,15,840,"soundproof, scrappy",normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,104,91,63,91,73,68
+296,makuhita,47,10,864,"thick-fat, guts, sheer-force",fighting,,mega-punch,fire-punch,ice-punch,thunder-punch,whirlwind,72,60,30,20,30,25
+297,hariyama,166,23,2538,"thick-fat, guts, sheer-force",fighting,,mega-punch,fire-punch,ice-punch,thunder-punch,whirlwind,144,120,60,40,60,50
+298,azurill,38,2,20,"thick-fat, huge-power, sap-sipper",normal,fairy,slam,headbutt,body-slam,take-down,double-edge,50,20,40,20,40,20
+299,nosepass,75,10,970,"sturdy, magnet-pull, sand-force",rock,,fire-punch,ice-punch,thunder-punch,headbutt,tackle,30,45,135,45,90,30
+300,skitty,52,6,110,"cute-charm, normalize, wonder-skin",normal,,double-slap,headbutt,tackle,body-slam,double-edge,50,45,45,35,35,50
+301,delcatty,140,11,326,"cute-charm, normalize, wonder-skin",normal,,double-slap,headbutt,tackle,body-slam,double-edge,70,65,65,55,55,90
+302,sableye,133,5,110,"keen-eye, stall, prankster",dark,ghost,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,50,75,75,65,65,50
+303,mawile,133,6,115,"hyper-cutter, intimidate, sheer-force",steel,fairy,mega-punch,ice-punch,thunder-punch,vice-grip,swords-dance,50,85,85,55,55,50
+304,aron,66,4,600,"sturdy, rock-head, heavy-metal",steel,rock,cut,stomp,headbutt,tackle,body-slam,50,70,100,40,40,30
+305,lairon,151,9,1200,"sturdy, rock-head, heavy-metal",steel,rock,cut,headbutt,tackle,body-slam,take-down,60,90,140,50,50,40
+306,aggron,239,21,3600,"sturdy, rock-head, heavy-metal",steel,rock,mega-punch,fire-punch,ice-punch,thunder-punch,cut,70,110,180,60,60,50
+307,meditite,56,6,112,"pure-power, telepathy",fighting,psychic,pound,mega-punch,fire-punch,ice-punch,thunder-punch,30,40,55,40,55,60
+308,medicham,144,13,315,"pure-power, telepathy",fighting,psychic,pound,mega-punch,fire-punch,ice-punch,thunder-punch,60,60,75,60,75,80
+309,electrike,59,6,152,"static, lightning-rod, minus",electric,,headbutt,tackle,body-slam,double-edge,leer,40,45,40,65,40,65
+310,manectric,166,15,402,"static, lightning-rod, minus",electric,,headbutt,tackle,body-slam,double-edge,leer,70,75,60,105,60,105
+311,plusle,142,4,42,"plus, lightning-rod",electric,,mega-punch,thunder-punch,mega-kick,headbutt,body-slam,60,50,40,85,75,95
+312,minun,142,4,42,"minus, volt-absorb",electric,,mega-punch,thunder-punch,mega-kick,headbutt,body-slam,60,40,50,75,85,95
+313,volbeat,151,7,177,"illuminate, swarm, prankster",bug,,mega-punch,ice-punch,thunder-punch,mega-kick,tackle,65,73,75,47,85,85
+314,illumise,151,6,177,"oblivious, tinted-lens, prankster",bug,,mega-punch,ice-punch,thunder-punch,mega-kick,tackle,65,47,75,73,85,85
+315,roselia,140,3,20,"natural-cure, poison-point, leaf-guard",grass,poison,swords-dance,cut,body-slam,double-edge,poison-sting,50,60,45,100,80,65
+316,gulpin,60,4,103,"liquid-ooze, sticky-hold, gluttony",poison,,pound,fire-punch,ice-punch,thunder-punch,swords-dance,70,43,53,43,53,40
+317,swalot,163,17,800,"liquid-ooze, sticky-hold, gluttony",poison,,pound,fire-punch,ice-punch,thunder-punch,swords-dance,100,73,83,73,83,55
+318,carvanha,61,8,208,"rough-skin, speed-boost",water,dark,take-down,thrash,double-edge,leer,bite,45,90,20,65,20,65
+319,sharpedo,161,18,888,"rough-skin, speed-boost",water,dark,take-down,double-edge,leer,bite,roar,70,120,40,95,40,95
+320,wailmer,80,20,1300,"water-veil, oblivious, pressure",water,,headbutt,body-slam,thrash,double-edge,growl,130,70,35,70,35,60
+321,wailord,175,145,3980,"water-veil, oblivious, pressure",water,,headbutt,body-slam,double-edge,growl,roar,170,90,45,90,45,60
+322,numel,61,7,240,"oblivious, simple, own-tempo",fire,ground,stomp,headbutt,tackle,body-slam,take-down,60,60,40,65,45,35
+323,camerupt,161,19,2200,"magma-armor, solid-rock, anger-point",fire,ground,headbutt,tackle,body-slam,take-down,double-edge,70,100,70,105,75,40
+324,torkoal,165,5,804,"white-smoke, drought, shell-armor",fire,,headbutt,body-slam,take-down,double-edge,ember,70,85,140,85,70,20
+325,spoink,66,7,306,"thick-fat, own-tempo, gluttony",psychic,,whirlwind,headbutt,body-slam,take-down,double-edge,60,25,35,70,80,60
+326,grumpig,165,9,715,"thick-fat, own-tempo, gluttony",psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,80,45,65,90,110,80
+327,spinda,126,11,50,"own-tempo, tangled-feet, contrary",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,60,60,60,60,60,60
+328,trapinch,58,7,150,"hyper-cutter, arena-trap, sheer-force",ground,,gust,sand-attack,headbutt,body-slam,take-down,45,100,45,45,45,10
+329,vibrava,119,11,153,levitate,ground,dragon,gust,fly,sand-attack,headbutt,body-slam,50,70,50,50,50,70
+330,flygon,234,20,820,levitate,ground,dragon,mega-punch,fire-punch,thunder-punch,gust,fly,80,100,80,80,80,100
+331,cacnea,67,4,513,"sand-veil, water-absorb",grass,,mega-punch,thunder-punch,swords-dance,cut,sand-attack,50,85,40,85,40,35
+332,cacturne,166,13,774,"sand-veil, water-absorb",grass,dark,mega-punch,thunder-punch,swords-dance,cut,mega-kick,70,115,60,115,60,55
+333,swablu,62,4,12,"natural-cure, cloud-nine",normal,flying,fly,fury-attack,body-slam,take-down,double-edge,45,40,60,40,75,50
+334,altaria,172,11,206,"natural-cure, cloud-nine",dragon,flying,fly,fury-attack,body-slam,take-down,double-edge,75,70,90,70,105,80
+335,zangoose,160,13,403,"immunity, toxic-boost",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,73,115,60,60,60,90
+336,seviper,160,27,525,"shed-skin, infiltrator",poison,,swords-dance,bind,headbutt,body-slam,wrap,73,100,60,100,60,65
+337,lunatone,161,10,1680,levitate,rock,psychic,tackle,body-slam,double-edge,ice-beam,blizzard,90,55,65,95,85,70
+338,solrock,161,12,1540,levitate,rock,psychic,swords-dance,tackle,body-slam,double-edge,flamethrower,90,95,85,55,65,70
+339,barboach,58,4,19,"oblivious, anticipation, hydration",water,ground,headbutt,take-down,thrash,double-edge,water-gun,50,48,43,46,41,60
+340,whiscash,164,9,236,"oblivious, anticipation, hydration",water,ground,headbutt,body-slam,take-down,thrash,double-edge,110,78,73,76,71,60
+341,corphish,62,6,115,"hyper-cutter, shell-armor, adaptability",water,,vice-grip,guillotine,swords-dance,cut,body-slam,43,80,65,50,35,35
+342,crawdaunt,164,11,328,"hyper-cutter, shell-armor, adaptability",water,dark,vice-grip,guillotine,swords-dance,cut,body-slam,63,120,85,90,55,55
+343,baltoy,60,5,215,levitate,ground,psychic,headbutt,double-edge,ice-beam,psybeam,solar-beam,40,40,55,40,70,55
+344,claydol,175,15,1080,levitate,ground,psychic,headbutt,double-edge,ice-beam,psybeam,hyper-beam,60,70,105,70,120,75
+345,lileep,71,10,238,"suction-cups, storm-drain",rock,grass,swords-dance,bind,body-slam,wrap,double-edge,66,41,77,61,87,23
+346,cradily,173,15,604,"suction-cups, storm-drain",rock,grass,swords-dance,bind,headbutt,body-slam,wrap,86,81,97,81,107,43
+347,anorith,71,7,125,"battle-armor, swift-swim",rock,bug,scratch,swords-dance,cut,sand-attack,headbutt,45,95,50,40,50,75
+348,armaldo,173,15,682,"battle-armor, swift-swim",rock,bug,scratch,swords-dance,cut,headbutt,body-slam,75,125,100,70,80,45
+349,feebas,40,6,74,"swift-swim, oblivious, adaptability",water,,tackle,double-edge,mist,surf,ice-beam,20,15,20,10,55,80
+350,milotic,189,62,1620,"marvel-scale, competitive, cute-charm",water,,bind,tackle,body-slam,wrap,take-down,95,60,79,100,125,81
+351,castform,147,3,8,forecast,normal,,headbutt,tackle,body-slam,double-edge,disable,70,70,70,70,70,70
+352,kecleon,154,10,220,"color-change, protean",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,scratch,60,90,70,60,120,40
+353,shuppet,59,6,23,"insomnia, frisk, cursed-body",ghost,,headbutt,body-slam,double-edge,disable,psybeam,44,75,35,63,33,45
+354,banette,159,11,125,"insomnia, frisk, cursed-body",ghost,,swords-dance,headbutt,body-slam,double-edge,psybeam,64,115,65,83,63,65
+355,duskull,59,8,150,"levitate, frisk",ghost,,headbutt,body-slam,double-edge,leer,disable,20,40,90,30,90,25
+356,dusclops,159,16,306,"pressure, frisk",ghost,,mega-punch,fire-punch,ice-punch,thunder-punch,bind,40,70,130,60,130,25
+357,tropius,161,20,1000,"chlorophyll, solar-power, harvest",grass,flying,razor-wind,swords-dance,cut,gust,whirlwind,99,68,83,72,87,51
+358,chimecho,159,6,10,levitate,psychic,,bind,tackle,wrap,take-down,double-edge,75,50,80,95,90,65
+359,absol,163,12,470,"pressure, super-luck, justified",dark,,scratch,razor-wind,swords-dance,cut,headbutt,65,130,60,75,60,75
+360,wynaut,52,6,140,"shadow-tag, telepathy",psychic,,counter,amnesia,splash,destiny-bond,charm,95,23,48,23,48,23
+361,snorunt,60,7,168,"inner-focus, ice-body, moody",ice,,headbutt,body-slam,take-down,double-edge,leer,50,50,50,50,50,50
+362,glalie,168,15,2565,"inner-focus, ice-body, moody",ice,,headbutt,body-slam,take-down,double-edge,leer,80,80,80,80,80,80
+363,spheal,58,8,395,"thick-fat, ice-body, oblivious",ice,water,headbutt,body-slam,double-edge,growl,water-gun,70,40,50,55,50,25
+364,sealeo,144,11,876,"thick-fat, ice-body, oblivious",ice,water,headbutt,body-slam,double-edge,growl,roar,90,60,70,75,70,45
+365,walrein,239,14,1506,"thick-fat, ice-body, oblivious",ice,water,swords-dance,headbutt,body-slam,double-edge,growl,110,80,90,95,90,65
+366,clamperl,69,4,525,"shell-armor, rattled",water,,body-slam,double-edge,supersonic,water-gun,surf,35,64,85,74,55,32
+367,huntail,170,17,270,"swift-swim, water-veil",water,,bind,body-slam,double-edge,bite,water-gun,55,104,105,94,75,52
+368,gorebyss,170,18,226,"swift-swim, hydration",water,,bind,body-slam,double-edge,water-gun,hydro-pump,55,84,105,114,75,52
+369,relicanth,170,10,234,"swift-swim, rock-head, sturdy",water,rock,headbutt,tackle,body-slam,take-down,double-edge,100,90,130,45,65,55
+370,luvdisc,116,6,87,"swift-swim, hydration",water,,tackle,take-down,double-edge,supersonic,water-gun,43,30,55,40,65,97
+371,bagon,60,6,421,"rock-head, sheer-force",dragon,,cut,headbutt,body-slam,take-down,thrash,45,75,60,40,30,50
+372,shelgon,147,11,1105,"rock-head, overcoat",dragon,,cut,headbutt,body-slam,take-down,double-edge,65,95,100,60,50,50
+373,salamence,270,15,1026,"intimidate, moxie",dragon,flying,cut,fly,headbutt,body-slam,take-down,95,135,80,110,80,100
+374,beldum,60,6,952,"clear-body, light-metal",steel,psychic,headbutt,tackle,take-down,iron-defense,zen-headbutt,40,55,80,35,60,30
+375,metang,147,12,2025,"clear-body, light-metal",steel,psychic,ice-punch,thunder-punch,cut,headbutt,tackle,60,75,100,55,80,50
+376,metagross,270,16,5500,"clear-body, light-metal",steel,psychic,ice-punch,thunder-punch,cut,headbutt,tackle,80,135,130,95,90,70
+377,regirock,261,17,2300,"clear-body, sturdy",rock,,mega-punch,fire-punch,ice-punch,thunder-punch,stomp,80,100,200,50,100,50
+378,regice,261,18,1750,"clear-body, ice-body",ice,,mega-punch,ice-punch,thunder-punch,stomp,mega-kick,80,50,100,100,200,50
+379,registeel,261,19,2050,"clear-body, light-metal",steel,,mega-punch,ice-punch,thunder-punch,stomp,mega-kick,80,75,150,75,150,50
+380,latias,270,14,400,levitate,dragon,psychic,cut,fly,body-slam,take-down,double-edge,80,80,90,110,130,110
+381,latios,270,20,600,levitate,dragon,psychic,cut,fly,body-slam,take-down,double-edge,80,90,80,130,110,110
+382,kyogre,302,45,3520,drizzle,water,,headbutt,body-slam,take-down,double-edge,roar,100,100,90,150,140,90
+383,groudon,302,35,9500,drought,ground,,mega-punch,fire-punch,thunder-punch,swords-dance,cut,100,150,140,100,90,90
+384,rayquaza,306,70,2065,air-lock,dragon,flying,swords-dance,fly,bind,headbutt,body-slam,105,150,90,150,90,95
+385,jirachi,270,3,11,serene-grace,steel,psychic,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,100,100,100,100,100,100
+386,deoxys-normal,270,17,608,pressure,psychic,,fire-punch,ice-punch,thunder-punch,cut,bind,50,150,50,150,50,150
+387,turtwig,64,4,102,"overgrow, shell-armor",grass,,swords-dance,cut,headbutt,tackle,body-slam,55,68,64,45,55,31
+388,grotle,142,11,970,"overgrow, shell-armor",grass,,swords-dance,cut,headbutt,tackle,body-slam,75,89,85,55,65,36
+389,torterra,236,22,3100,"overgrow, shell-armor",grass,ground,swords-dance,cut,headbutt,tackle,body-slam,95,109,105,75,85,56
+390,chimchar,62,5,62,"blaze, iron-fist",fire,,fire-punch,thunder-punch,scratch,swords-dance,cut,44,58,44,58,44,61
+391,monferno,142,9,220,"blaze, iron-fist",fire,fighting,fire-punch,thunder-punch,scratch,swords-dance,cut,64,78,52,78,52,81
+392,infernape,240,12,550,"blaze, iron-fist",fire,fighting,fire-punch,thunder-punch,scratch,swords-dance,cut,76,104,71,104,71,108
+393,piplup,63,4,52,"torrent, competitive",water,,pound,cut,headbutt,fury-attack,tackle,53,51,53,61,56,40
+394,prinplup,142,8,230,"torrent, competitive",water,,pound,cut,headbutt,fury-attack,tackle,64,66,68,81,76,50
+395,empoleon,239,17,845,"torrent, competitive",water,steel,pound,swords-dance,cut,headbutt,fury-attack,84,86,88,111,101,60
+396,starly,49,3,20,"keen-eye, reckless",normal,flying,gust,wing-attack,whirlwind,fly,sand-attack,40,55,30,30,30,60
+397,staravia,119,6,155,"intimidate, reckless",normal,flying,gust,wing-attack,whirlwind,fly,tackle,55,75,50,40,40,80
+398,staraptor,218,12,249,"intimidate, reckless",normal,flying,gust,wing-attack,whirlwind,fly,tackle,85,120,70,50,60,100
+399,bidoof,50,5,200,"simple, unaware, moody",normal,,swords-dance,cut,headbutt,tackle,take-down,59,45,40,35,40,31
+400,bibarel,144,10,315,"simple, unaware, moody",normal,water,swords-dance,cut,headbutt,tackle,take-down,79,85,60,55,60,71
+401,kricketot,39,3,22,"shed-skin, run-away",bug,,pound,tackle,growl,absorb,string-shot,37,25,41,25,41,25
+402,kricketune,134,10,255,"swarm, technician",bug,,pound,swords-dance,cut,tackle,take-down,77,85,51,55,51,65
+403,shinx,53,5,95,"rivalry, intimidate, guts",electric,,double-kick,headbutt,tackle,take-down,double-edge,45,65,34,40,34,45
+404,luxio,127,9,305,"rivalry, intimidate, guts",electric,,headbutt,tackle,take-down,double-edge,leer,60,85,49,60,49,60
+405,luxray,235,14,420,"rivalry, intimidate, guts",electric,,headbutt,tackle,body-slam,take-down,double-edge,80,120,79,95,79,70
+406,budew,56,2,12,"natural-cure, poison-point, leaf-guard",grass,poison,swords-dance,cut,poison-sting,pin-missile,absorb,40,30,35,50,70,55
+407,roserade,232,9,145,"natural-cure, poison-point, technician",grass,poison,swords-dance,cut,body-slam,poison-sting,pin-missile,60,70,65,125,105,90
+408,cranidos,70,9,315,"mold-breaker, sheer-force",rock,,fire-punch,thunder-punch,swords-dance,whirlwind,slam,67,125,40,30,30,58
+409,rampardos,173,16,1025,"mold-breaker, sheer-force",rock,,fire-punch,thunder-punch,swords-dance,cut,whirlwind,97,165,60,65,50,58
+410,shieldon,70,5,570,"sturdy, soundproof",rock,steel,headbutt,tackle,body-slam,take-down,double-edge,30,42,118,42,88,30
+411,bastiodon,173,13,1495,"sturdy, soundproof",rock,steel,headbutt,tackle,body-slam,take-down,double-edge,60,52,168,47,138,30
+412,burmy-plant,45,2,34,"shed-skin, overcoat",bug,,tackle,string-shot,snore,protect,hidden-power,40,29,45,29,45,36
+413,wormadam-plant,148,5,65,"anticipation, overcoat",bug,grass,gust,tackle,psybeam,hyper-beam,growth,60,59,85,79,105,36
+414,mothim-plant,148,9,233,"swarm, tinted-lens",bug,flying,gust,tackle,psybeam,hyper-beam,solar-beam,70,94,50,94,50,66
+415,combee,49,3,55,"honey-gather, hustle",bug,flying,gust,string-shot,swift,snore,mud-slap,30,30,42,30,42,70
+416,vespiquen,166,12,385,"pressure, unnerve",bug,flying,cut,gust,take-down,poison-sting,pin-missile,70,80,102,80,102,40
+417,pachirisu,142,4,39,"run-away, pickup, volt-absorb",electric,,thunder-punch,cut,headbutt,take-down,tail-whip,60,45,70,45,90,95
+418,buizel,66,7,295,"swift-swim, water-veil",water,,double-slap,ice-punch,razor-wind,headbutt,tackle,55,65,35,60,30,85
+419,floatzel,173,11,335,"swift-swim, water-veil",water,,ice-punch,razor-wind,headbutt,tackle,body-slam,85,105,55,85,50,115
+420,cherubi,55,4,33,chlorophyll,grass,,swords-dance,tackle,take-down,double-edge,absorb,45,35,45,62,53,35
+421,cherrim-overcast,158,5,93,flower-gift,grass,,swords-dance,tackle,take-down,double-edge,hyper-beam,70,60,70,87,78,85
+422,shellos-west,65,3,63,"sticky-hold, storm-drain, sand-force",water,,headbutt,tackle,body-slam,take-down,mist,76,48,48,57,62,34
+423,gastrodon-west,166,9,299,"sticky-hold, storm-drain, sand-force",water,ground,headbutt,tackle,body-slam,take-down,water-gun,111,83,68,92,82,39
+424,ambipom,169,12,203,"technician, pickup, skill-link",normal,,fire-punch,ice-punch,thunder-punch,scratch,cut,75,100,66,60,66,115
+425,drifloon,70,4,12,"aftermath, unburden, flare-boost",ghost,flying,cut,gust,fly,bind,body-slam,90,50,34,60,44,70
+426,drifblim,174,12,150,"aftermath, unburden, flare-boost",ghost,flying,cut,gust,fly,bind,body-slam,150,80,44,90,54,80
+427,buneary,70,4,55,"run-away, klutz, limber",normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,55,66,44,44,56,85
+428,lopunny,168,12,333,"cute-charm, klutz, limber",normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,65,76,84,54,96,105
+429,mismagius,173,9,44,levitate,ghost,,headbutt,growl,psybeam,hyper-beam,thunderbolt,60,60,60,105,105,105
+430,honchkrow,177,9,273,"insomnia, super-luck, moxie",dark,flying,gust,wing-attack,fly,take-down,double-edge,100,125,52,105,52,71
+431,glameow,62,5,39,"limber, own-tempo, keen-eye",normal,,scratch,cut,sand-attack,headbutt,tackle,49,55,42,42,37,85
+432,purugly,158,10,438,"thick-fat, own-tempo, defiant",normal,,scratch,cut,headbutt,tackle,body-slam,71,82,64,64,59,112
+433,chingling,57,2,6,levitate,psychic,,bind,tackle,wrap,double-edge,growl,45,30,50,65,50,45
+434,stunky,66,4,192,"stench, aftermath, keen-eye",poison,dark,scratch,cut,headbutt,tackle,body-slam,63,63,47,41,41,74
+435,skuntank,168,10,380,"stench, aftermath, keen-eye",poison,dark,scratch,cut,headbutt,tackle,body-slam,103,93,67,71,61,84
+436,bronzor,60,5,605,"levitate, heatproof, heavy-metal",steel,psychic,tackle,body-slam,take-down,solar-beam,earthquake,57,24,86,24,86,23
+437,bronzong,175,13,1870,"levitate, heatproof, heavy-metal",steel,psychic,tackle,body-slam,take-down,psybeam,hyper-beam,67,89,116,79,116,33
+438,bonsly,58,5,150,"sturdy, rock-head, rattled",rock,,slam,headbutt,tackle,body-slam,take-down,50,80,95,10,45,10
+439,mime-jr,62,6,130,"soundproof, filter, technician",psychic,fairy,pound,double-slap,headbutt,psybeam,solar-beam,20,25,45,70,90,60
+440,happiny,110,6,244,"natural-cure, serene-grace, friend-guard",normal,,pound,headbutt,tackle,take-down,double-edge,100,5,5,15,65,30
+441,chatot,144,5,19,"keen-eye, tangled-feet, big-pecks",normal,flying,gust,fly,fury-attack,growl,sing,76,65,45,92,42,91
+442,spiritomb,170,10,1080,"pressure, infiltrator",ghost,dark,body-slam,disable,psybeam,hyper-beam,toxic,50,92,108,92,108,35
+443,gible,60,7,205,"sand-veil, rough-skin",dragon,ground,swords-dance,cut,sand-attack,headbutt,tackle,58,70,45,40,45,42
+444,gabite,144,14,560,"sand-veil, rough-skin",dragon,ground,swords-dance,cut,sand-attack,headbutt,tackle,68,90,65,50,55,82
+445,garchomp,270,19,950,"sand-veil, rough-skin",dragon,ground,swords-dance,cut,sand-attack,headbutt,tackle,108,130,95,80,85,102
+446,munchlax,78,6,1050,"pickup, thick-fat, gluttony",normal,,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,135,85,40,40,85,5
+447,riolu,57,7,202,"steadfast, inner-focus, prankster",fighting,,mega-punch,ice-punch,thunder-punch,swords-dance,mega-kick,40,70,40,35,40,60
+448,lucario,184,12,540,"steadfast, inner-focus, justified",fighting,steel,mega-punch,ice-punch,thunder-punch,swords-dance,mega-kick,70,110,70,115,70,90
+449,hippopotas,66,8,495,"sand-stream, sand-force",ground,,whirlwind,sand-attack,headbutt,tackle,body-slam,68,72,78,38,42,32
+450,hippowdon,184,20,3000,"sand-stream, sand-force",ground,,sand-attack,headbutt,tackle,body-slam,take-down,108,112,118,68,72,47
+451,skorupi,66,8,120,"battle-armor, sniper, keen-eye",poison,bug,swords-dance,cut,whirlwind,sand-attack,headbutt,40,50,90,30,55,65
+452,drapion,175,13,615,"battle-armor, sniper, keen-eye",poison,dark,swords-dance,cut,headbutt,poison-sting,pin-missile,70,90,110,60,75,95
+453,croagunk,60,7,230,"anticipation, dry-skin, poison-touch",poison,fighting,mega-punch,ice-punch,thunder-punch,mega-kick,headbutt,48,61,40,61,40,50
+454,toxicroak,172,13,444,"anticipation, dry-skin, poison-touch",poison,fighting,mega-punch,ice-punch,thunder-punch,swords-dance,cut,83,106,65,86,65,85
+455,carnivine,159,14,270,levitate,grass,,swords-dance,cut,bind,slam,vine-whip,74,100,72,90,72,46
+456,finneon,66,4,70,"swift-swim, storm-drain, water-veil",water,,pound,gust,take-down,water-gun,hydro-pump,49,49,56,49,61,66
+457,lumineon,161,12,240,"swift-swim, storm-drain, water-veil",water,,pound,gust,take-down,water-gun,hydro-pump,69,69,76,69,86,91
+458,mantyke,69,10,650,"swift-swim, water-absorb, water-veil",water,flying,wing-attack,slam,headbutt,tackle,take-down,45,20,50,60,120,50
+459,snover,67,10,505,"snow-warning, soundproof",grass,ice,mega-punch,ice-punch,swords-dance,stomp,headbutt,60,62,50,62,60,40
+460,abomasnow,173,22,1355,"snow-warning, soundproof",grass,ice,mega-punch,ice-punch,swords-dance,mega-kick,headbutt,90,92,75,92,85,60
+461,weavile,179,11,340,"pressure, pickpocket",dark,ice,mega-punch,ice-punch,scratch,swords-dance,cut,70,120,65,45,85,125
+462,magnezone,241,12,1800,"magnet-pull, sturdy, analytic",electric,steel,tackle,body-slam,take-down,double-edge,supersonic,70,70,115,130,90,60
+463,lickilicky,180,17,1400,"own-tempo, oblivious, cloud-nine",normal,,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,110,85,95,80,95,50
+464,rhyperior,241,24,2828,"lightning-rod, solid-rock, reckless",ground,rock,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,115,140,130,55,55,40
+465,tangrowth,187,20,1286,"chlorophyll, leaf-guard, regenerator",grass,,swords-dance,cut,bind,slam,vine-whip,100,100,125,110,50,50
+466,electivire,243,18,1386,"motor-drive, vital-spirit",electric,,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,75,123,67,95,85,95
+467,magmortar,243,16,680,"flame-body, vital-spirit",fire,,mega-punch,fire-punch,thunder-punch,mega-kick,headbutt,75,95,67,125,95,83
+468,togekiss,245,15,380,"hustle, serene-grace, super-luck",fairy,flying,pound,mega-punch,fly,mega-kick,headbutt,85,50,95,120,115,80
+469,yanmega,180,19,515,"speed-boost, tinted-lens, frisk",bug,flying,swords-dance,gust,wing-attack,whirlwind,headbutt,86,76,86,116,56,95
+470,leafeon,184,10,255,"leaf-guard, chlorophyll",grass,,pay-day,swords-dance,sand-attack,headbutt,tackle,65,110,130,60,65,95
+471,glaceon,184,8,259,"snow-cloak, ice-body",ice,,pay-day,sand-attack,headbutt,tackle,body-slam,65,60,110,130,95,65
+472,gliscor,179,20,425,"hyper-cutter, sand-veil, poison-heal",ground,flying,guillotine,swords-dance,cut,wing-attack,sand-attack,75,95,125,45,75,95
+473,mamoswine,239,25,2910,"oblivious, snow-cloak, thick-fat",ice,ground,headbutt,fury-attack,tackle,body-slam,take-down,110,130,80,70,60,80
+474,porygon-z,241,9,340,"adaptability, download, analytic",normal,,tackle,take-down,double-edge,ice-beam,blizzard,85,80,70,135,75,90
+475,gallade,233,16,520,"steadfast, sharpness, justified",psychic,fighting,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,68,125,65,65,115,80
+476,probopass,184,14,3400,"sturdy, magnet-pull, sand-force",rock,steel,fire-punch,ice-punch,thunder-punch,headbutt,tackle,60,55,145,75,150,40
+477,dusknoir,236,22,1066,"pressure, frisk",ghost,,mega-punch,fire-punch,ice-punch,thunder-punch,bind,45,100,135,65,135,45
+478,froslass,168,13,266,"snow-cloak, cursed-body",ice,ghost,ice-punch,headbutt,body-slam,take-down,leer,70,80,70,80,70,110
+479,rotom,154,3,3,levitate,electric,ghost,thunder-shock,thunderbolt,thunder-wave,thunder,toxic,50,50,77,95,77,91
+480,uxie,261,3,3,levitate,psychic,,fire-punch,ice-punch,thunder-punch,headbutt,psybeam,75,75,130,75,130,95
+481,mesprit,261,3,3,levitate,psychic,,fire-punch,ice-punch,thunder-punch,headbutt,double-edge,80,105,105,105,105,80
+482,azelf,261,3,3,levitate,psychic,,fire-punch,ice-punch,thunder-punch,headbutt,double-edge,75,125,70,125,70,115
+483,dialga,306,54,6830,"pressure, telepathy",steel,dragon,cut,headbutt,body-slam,take-down,roar,100,120,120,150,100,90
+484,palkia,306,42,3360,"pressure, telepathy",water,dragon,cut,headbutt,body-slam,take-down,roar,90,120,100,150,120,100
+485,heatran,270,17,4300,"flash-fire, flame-body",fire,steel,headbutt,body-slam,take-down,leer,roar,91,90,106,130,106,77
+486,regigigas,302,37,4200,slow-start,normal,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,110,160,110,80,110,100
+487,giratina-altered,306,45,7500,"pressure, telepathy",ghost,dragon,cut,fly,headbutt,body-slam,take-down,150,100,120,100,120,90
+488,cresselia,270,15,856,levitate,psychic,,tackle,body-slam,mist,ice-beam,psybeam,120,70,110,75,120,85
+489,phione,216,4,31,hydration,water,,supersonic,water-gun,hydro-pump,surf,ice-beam,80,80,80,80,80,80
+490,manaphy,270,3,14,hydration,water,,supersonic,water-gun,hydro-pump,surf,ice-beam,100,100,100,100,100,100
+491,darkrai,270,15,505,bad-dreams,dark,,swords-dance,cut,headbutt,disable,ice-beam,70,90,90,135,90,125
+492,shaymin-land,270,2,21,natural-cure,grass,,swords-dance,headbutt,take-down,double-edge,hyper-beam,100,100,100,100,100,100
+493,arceus-normal,324,32,3200,multitype,normal,,swords-dance,cut,fly,headbutt,body-slam,120,120,120,120,120,120
+494,victini,270,4,40,victory-star,psychic,fire,mega-punch,fire-punch,thunder-punch,mega-kick,headbutt,100,100,100,100,100,100
+495,snivy,62,6,81,"overgrow, contrary",grass,,swords-dance,cut,bind,slam,vine-whip,45,45,55,45,55,63
+496,servine,145,8,160,"overgrow, contrary",grass,,swords-dance,cut,bind,slam,vine-whip,60,60,75,60,75,83
+497,serperior,238,33,630,"overgrow, contrary",grass,,swords-dance,cut,bind,slam,vine-whip,75,75,95,75,95,113
+498,tepig,62,5,99,"blaze, thick-fat",fire,,fire-punch,tackle,body-slam,take-down,thrash,65,63,45,45,45,45
+499,pignite,146,10,555,"blaze, thick-fat",fire,fighting,fire-punch,thunder-punch,tackle,body-slam,take-down,90,93,55,70,55,55
+500,emboar,238,16,1500,"blaze, reckless",fire,fighting,fire-punch,thunder-punch,tackle,body-slam,take-down,110,123,65,100,65,65
+501,oshawott,62,5,59,"torrent, shell-armor",water,,swords-dance,cut,tackle,take-down,tail-whip,55,55,45,63,45,45
+502,dewott,145,8,245,"torrent, shell-armor",water,,swords-dance,cut,tackle,take-down,tail-whip,75,75,60,83,60,60
+503,samurott,238,15,946,"torrent, shell-armor",water,,swords-dance,cut,tackle,body-slam,take-down,95,100,85,108,70,70
+504,patrat,51,5,116,"run-away, keen-eye, analytic",normal,,swords-dance,cut,slam,sand-attack,tackle,45,55,39,35,39,42
+505,watchog,147,11,270,"illuminate, keen-eye, analytic",normal,,fire-punch,ice-punch,thunder-punch,swords-dance,cut,60,85,69,60,69,77
+506,lillipup,55,4,41,"vital-spirit, pickup, run-away",normal,,sand-attack,tackle,take-down,leer,bite,45,60,45,25,45,55
+507,herdier,130,9,147,"intimidate, sand-rush, scrappy",normal,,tackle,take-down,leer,bite,roar,65,80,65,35,65,60
+508,stoutland,225,12,610,"intimidate, sand-rush, scrappy",normal,,tackle,take-down,leer,bite,roar,85,110,90,45,90,80
+509,purrloin,56,4,101,"limber, unburden, prankster",dark,,pay-day,scratch,cut,sand-attack,growl,41,50,37,50,37,66
+510,liepard,156,11,375,"limber, unburden, prankster",dark,,pay-day,scratch,cut,sand-attack,growl,64,88,50,88,50,106
+511,pansage,63,6,105,"gluttony, overgrow",grass,,scratch,cut,vine-whip,leer,bite,50,53,48,53,48,64
+512,simisage,174,11,305,"gluttony, overgrow",grass,,cut,leer,hyper-beam,low-kick,solar-beam,75,98,63,98,63,101
+513,pansear,63,6,110,"gluttony, blaze",fire,,fire-punch,scratch,cut,leer,bite,50,53,48,53,48,64
+514,simisear,174,10,280,"gluttony, blaze",fire,,fire-punch,cut,leer,flamethrower,hyper-beam,75,98,63,98,63,101
+515,panpour,63,6,135,"gluttony, torrent",water,,ice-punch,scratch,cut,leer,bite,50,53,48,53,48,64
+516,simipour,174,10,290,"gluttony, torrent",water,,ice-punch,cut,leer,surf,ice-beam,75,98,63,98,63,101
+517,munna,58,6,233,"forewarn, synchronize, telepathy",psychic,,sonic-boom,psybeam,thunder-wave,toxic,psychic,76,25,45,67,55,24
+518,musharna,170,11,605,"forewarn, synchronize, telepathy",psychic,,psybeam,hyper-beam,thunder-wave,toxic,psychic,116,55,85,107,95,29
+519,pidove,53,3,21,"big-pecks, super-luck, rivalry",normal,flying,razor-wind,gust,fly,leer,growl,50,55,50,36,30,43
+520,tranquill,125,6,150,"big-pecks, super-luck, rivalry",normal,flying,razor-wind,gust,fly,leer,growl,62,77,62,50,42,65
+521,unfezant,220,12,290,"big-pecks, super-luck, rivalry",normal,flying,razor-wind,gust,fly,leer,growl,80,115,80,65,55,93
+522,blitzle,59,8,298,"lightning-rod, motor-drive, sap-sipper",electric,,stomp,double-kick,sand-attack,body-slam,take-down,45,60,32,50,32,76
+523,zebstrika,174,16,795,"lightning-rod, motor-drive, sap-sipper",electric,,stomp,double-kick,sand-attack,body-slam,take-down,75,100,63,80,63,116
+524,roggenrola,56,4,180,"sturdy, weak-armor, sand-force",rock,,sand-attack,headbutt,tackle,take-down,strength,55,75,85,25,25,15
+525,boldore,137,9,1020,"sturdy, weak-armor, sand-force",rock,,sand-attack,headbutt,tackle,strength,earthquake,70,105,105,50,40,20
+526,gigalith,232,17,2600,"sturdy, sand-stream, sand-force",rock,,sand-attack,headbutt,tackle,hyper-beam,strength,85,135,130,60,80,25
+527,woobat,65,4,21,"unaware, klutz, simple",psychic,flying,gust,fly,supersonic,thunder-wave,toxic,65,45,43,55,43,72
+528,swoobat,149,9,105,"unaware, klutz, simple",psychic,flying,gust,fly,hyper-beam,thunder-wave,toxic,67,57,55,77,55,114
+529,drilbur,66,3,85,"sand-rush, sand-force, mold-breaker",ground,,scratch,swords-dance,cut,take-down,double-edge,60,85,40,30,45,68
+530,excadrill,178,7,404,"sand-rush, sand-force, mold-breaker",ground,steel,scratch,swords-dance,cut,horn-drill,body-slam,110,135,60,50,65,88
+531,audino,390,11,310,"healer, regenerator, klutz",normal,,pound,double-slap,mega-punch,fire-punch,ice-punch,103,60,86,60,86,50
+532,timburr,61,6,125,"guts, sheer-force, iron-fist",fighting,,pound,comet-punch,mega-punch,fire-punch,ice-punch,75,80,55,25,35,35
+533,gurdurr,142,12,400,"guts, sheer-force, iron-fist",fighting,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,85,105,85,40,50,40
+534,conkeldurr,227,14,870,"guts, sheer-force, iron-fist",fighting,,pound,mega-punch,fire-punch,ice-punch,thunder-punch,105,140,95,55,65,45
+535,tympole,59,5,45,"swift-swim, hydration, water-absorb",water,,growl,supersonic,acid,mist,hydro-pump,50,50,40,50,40,64
+536,palpitoad,134,8,170,"swift-swim, hydration, water-absorb",water,ground,growl,supersonic,acid,hydro-pump,surf,75,65,55,65,55,69
+537,seismitoad,229,15,620,"swift-swim, poison-touch, water-absorb",water,ground,mega-punch,ice-punch,mega-kick,growl,supersonic,105,95,75,85,75,74
+538,throh,163,13,555,"guts, inner-focus, mold-breaker",fighting,,mega-punch,fire-punch,ice-punch,thunder-punch,bind,120,100,85,30,85,45
+539,sawk,163,14,510,"sturdy, inner-focus, mold-breaker",fighting,,karate-chop,mega-punch,fire-punch,ice-punch,thunder-punch,75,125,75,30,75,85
+540,sewaddle,62,3,25,"swarm, chlorophyll, overcoat",bug,grass,razor-wind,cut,tackle,take-down,razor-leaf,45,53,70,40,60,42
+541,swadloon,133,5,73,"leaf-guard, chlorophyll, overcoat",bug,grass,cut,tackle,take-down,razor-leaf,solar-beam,55,63,90,50,80,42
+542,leavanny,225,12,205,"swarm, chlorophyll, overcoat",bug,grass,swords-dance,cut,tackle,take-down,hyper-beam,75,103,80,70,80,92
+543,venipede,52,4,53,"poison-point, swarm, speed-boost",bug,poison,take-down,double-edge,poison-sting,twineedle,pin-missile,30,45,59,30,39,57
+544,whirlipede,126,12,585,"poison-point, swarm, speed-boost",bug,poison,take-down,double-edge,poison-sting,pin-missile,solar-beam,40,55,99,40,79,47
+545,scolipede,218,25,2005,"poison-point, swarm, speed-boost",bug,poison,swords-dance,cut,take-down,double-edge,poison-sting,60,100,89,55,69,112
+546,cottonee,56,3,6,"prankster, infiltrator, chlorophyll",grass,fairy,absorb,mega-drain,leech-seed,growth,razor-leaf,40,27,60,37,50,66
+547,whimsicott,168,7,66,"prankster, infiltrator, chlorophyll",grass,fairy,gust,hyper-beam,absorb,mega-drain,leech-seed,60,67,85,77,75,116
+548,petilil,56,5,66,"chlorophyll, own-tempo, leaf-guard",grass,,cut,absorb,mega-drain,leech-seed,growth,45,35,50,70,50,30
+549,lilligant,168,11,163,"chlorophyll, own-tempo, leaf-guard",grass,,swords-dance,cut,hyper-beam,absorb,mega-drain,70,60,75,110,75,90
+550,basculin-red-striped,161,10,180,"reckless, adaptability, mold-breaker",water,,cut,headbutt,tackle,take-down,thrash,70,92,65,80,55,98
+551,sandile,58,7,152,"intimidate, moxie, anger-point",ground,dark,cut,sand-attack,body-slam,take-down,thrash,50,72,35,35,35,65
+552,krokorok,123,10,334,"intimidate, moxie, anger-point",ground,dark,mega-punch,cut,mega-kick,sand-attack,body-slam,60,82,45,45,45,74
+553,krookodile,234,15,963,"intimidate, moxie, anger-point",ground,dark,mega-punch,cut,mega-kick,sand-attack,body-slam,95,117,80,65,70,92
+554,darumaka,63,6,375,"hustle, inner-focus",fire,,mega-punch,fire-punch,mega-kick,headbutt,tackle,70,90,45,15,45,50
+555,darmanitan-standard,168,13,929,"sheer-force, zen-mode",fire,,mega-punch,fire-punch,mega-kick,headbutt,tackle,105,140,55,30,55,95
+556,maractus,161,10,280,"water-absorb, chlorophyll, storm-drain",grass,,pin-missile,peck,absorb,mega-drain,leech-seed,75,86,67,106,67,60
+557,dwebble,65,3,145,"sturdy, shell-armor, weak-armor",bug,rock,swords-dance,cut,sand-attack,counter,strength,50,65,85,35,35,55
+558,crustle,170,14,2000,"sturdy, shell-armor, weak-armor",bug,rock,swords-dance,cut,sand-attack,hyper-beam,strength,70,105,125,65,75,45
+559,scraggy,70,6,118,"shed-skin, moxie, intimidate",dark,fighting,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,50,75,70,35,70,48
+560,scrafty,171,11,300,"shed-skin, moxie, intimidate",dark,fighting,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,65,90,115,45,115,58
+561,sigilyph,172,14,140,"wonder-skin, magic-guard, tinted-lens",psychic,flying,gust,whirlwind,fly,ice-beam,psybeam,72,58,80,103,80,97
+562,yamask,61,5,15,mummy,ghost,,disable,toxic,psychic,night-shade,double-team,38,30,85,55,65,30
+563,cofagrigus,169,17,765,mummy,ghost,,disable,hyper-beam,toxic,psychic,night-shade,58,50,145,95,105,30
+564,tirtouga,71,7,165,"solid-rock, sturdy, swift-swim",water,rock,slam,body-slam,bite,water-gun,hydro-pump,54,78,103,53,45,22
+565,carracosta,173,12,810,"solid-rock, sturdy, swift-swim",water,rock,body-slam,bite,water-gun,hydro-pump,surf,74,108,133,83,65,32
+566,archen,71,5,95,defeatist,rock,flying,cut,wing-attack,thrash,leer,bite,55,112,45,74,45,70
+567,archeops,177,14,320,defeatist,rock,flying,cut,wing-attack,fly,thrash,leer,75,140,65,112,65,110
+568,trubbish,66,6,310,"stench, sticky-hold, aftermath",poison,,pound,double-slap,sand-attack,take-down,toxic,50,50,62,40,62,65
+569,garbodor,166,19,1073,"stench, weak-armor, aftermath",poison,,pound,double-slap,body-slam,take-down,hyper-beam,80,95,82,60,82,75
+570,zorua,66,7,125,illusion,dark,,scratch,swords-dance,cut,take-down,leer,40,65,40,80,40,65
+571,zoroark,179,16,811,illusion,dark,,mega-punch,scratch,swords-dance,cut,mega-kick,60,105,60,120,60,105
+572,minccino,60,4,58,"cute-charm, technician, skill-link",normal,,pound,double-slap,slam,take-down,tail-whip,55,50,40,40,40,75
+573,cinccino,165,5,75,"cute-charm, technician, skill-link",normal,,pound,slam,take-down,double-edge,tail-whip,75,95,60,65,60,115
+574,gothita,58,4,58,"frisk, competitive, shadow-tag",psychic,,pound,double-slap,psybeam,thunderbolt,thunder-wave,45,30,50,55,65,45
+575,gothorita,137,7,180,"frisk, competitive, shadow-tag",psychic,,pound,double-slap,psybeam,thunderbolt,thunder-wave,60,45,70,75,85,55
+576,gothitelle,221,15,440,"frisk, competitive, shadow-tag",psychic,,pound,double-slap,body-slam,psybeam,hyper-beam,70,55,95,95,110,65
+577,solosis,58,3,10,"overcoat, magic-guard, regenerator",psychic,,psybeam,thunder-wave,thunder,toxic,confusion,45,30,40,105,50,20
+578,duosion,130,6,80,"overcoat, magic-guard, regenerator",psychic,,psybeam,thunder-wave,thunder,toxic,confusion,65,40,50,125,60,30
+579,reuniclus,221,10,201,"overcoat, magic-guard, regenerator",psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,body-slam,110,65,75,125,85,30
+580,ducklett,61,5,55,"keen-eye, big-pecks, hydration",water,flying,gust,wing-attack,fly,double-edge,water-gun,62,44,50,44,50,55
+581,swanna,166,13,242,"keen-eye, big-pecks, hydration",water,flying,gust,wing-attack,fly,double-edge,water-gun,75,87,63,87,63,98
+582,vanillite,61,4,57,"ice-body, snow-cloak, weak-armor",ice,,mist,ice-beam,blizzard,toxic,double-team,36,50,50,65,60,44
+583,vanillish,138,11,410,"ice-body, snow-cloak, weak-armor",ice,,mist,ice-beam,blizzard,toxic,double-team,51,65,65,80,75,59
+584,vanilluxe,241,13,575,"ice-body, snow-warning, weak-armor",ice,,mist,ice-beam,blizzard,hyper-beam,toxic,71,95,85,110,95,79
+585,deerling-spring,67,6,195,"chlorophyll, sap-sipper, serene-grace",normal,grass,double-kick,jump-kick,sand-attack,headbutt,tackle,60,60,50,40,50,75
+586,sawsbuck-spring,166,19,925,"chlorophyll, sap-sipper, serene-grace",normal,grass,swords-dance,cut,double-kick,jump-kick,sand-attack,80,100,70,60,70,95
+587,emolga,150,4,50,"static, motor-drive",electric,flying,cut,tail-whip,solar-beam,thunder-shock,thunderbolt,55,75,60,75,60,103
+588,karrablast,63,5,59,"swarm, shed-skin, no-guard",bug,,swords-dance,cut,headbutt,horn-attack,fury-attack,50,75,45,40,45,60
+589,escavalier,173,10,330,"swarm, shell-armor, overcoat",bug,steel,swords-dance,cut,headbutt,fury-attack,take-down,70,135,105,60,105,20
+590,foongus,59,2,10,"effect-spore, regenerator",grass,poison,body-slam,absorb,mega-drain,growth,solar-beam,69,55,45,55,55,15
+591,amoonguss,162,6,105,"effect-spore, regenerator",grass,poison,body-slam,hyper-beam,absorb,mega-drain,growth,114,85,70,85,80,30
+592,frillish,67,12,330,"water-absorb, cursed-body, damp",water,ghost,bind,poison-sting,mist,water-gun,hydro-pump,55,40,50,65,85,40
+593,jellicent,168,22,1350,"water-absorb, cursed-body, damp",water,ghost,bind,poison-sting,water-gun,hydro-pump,surf,100,60,70,85,105,60
+594,alomomola,165,12,316,"healer, hydration, regenerator",water,,pound,double-slap,body-slam,take-down,mist,165,75,80,40,45,65
+595,joltik,64,1,6,"compound-eyes, unnerve, swarm",bug,electric,cut,poison-sting,pin-missile,disable,absorb,50,47,50,57,50,65
+596,galvantula,165,8,143,"compound-eyes, unnerve, swarm",bug,electric,cut,poison-sting,pin-missile,hyper-beam,absorb,70,77,60,97,60,108
+597,ferroseed,61,6,188,iron-barbs,grass,steel,tackle,pin-missile,leech-seed,solar-beam,thunderbolt,44,50,91,24,86,10
+598,ferrothorn,171,10,1100,"iron-barbs, anticipation",grass,steel,swords-dance,cut,tackle,pin-missile,hyper-beam,74,94,131,54,116,20
+599,klink,60,3,210,"plus, minus, clear-body",steel,,vice-grip,bind,hyper-beam,thunder-shock,thunderbolt,40,55,70,45,60,30
+600,klang,154,6,510,"plus, minus, clear-body",steel,,vice-grip,bind,hyper-beam,thunder-shock,thunderbolt,60,80,95,70,85,50
+601,klinklang,234,6,810,"plus, minus, clear-body",steel,,vice-grip,bind,hyper-beam,thunder-shock,thunderbolt,60,100,115,70,85,90
+602,tynamo,55,2,3,levitate,electric,,tackle,thunder-wave,spark,charge,knock-off,35,55,40,45,40,60
+603,eelektrik,142,12,220,levitate,electric,,bind,headbutt,body-slam,take-down,thrash,65,85,70,75,70,40
+604,eelektross,232,21,805,levitate,electric,,fire-punch,thunder-punch,cut,bind,headbutt,85,115,80,105,80,50
+605,elgyem,67,5,90,"telepathy, synchronize, analytic",psychic,,headbutt,growl,disable,psybeam,thunderbolt,55,55,55,85,55,30
+606,beheeyem,170,10,345,"telepathy, synchronize, analytic",psychic,,headbutt,growl,psybeam,hyper-beam,thunderbolt,75,75,75,125,95,40
+607,litwick,55,3,31,"flash-fire, flame-body, infiltrator",ghost,fire,acid,ember,flamethrower,solar-beam,fire-spin,50,30,55,65,55,20
+608,lampent,130,6,130,"flash-fire, flame-body, infiltrator",ghost,fire,ember,flamethrower,solar-beam,fire-spin,toxic,60,40,60,95,60,55
+609,chandelure,234,10,343,"flash-fire, flame-body, infiltrator",ghost,fire,ember,flamethrower,hyper-beam,solar-beam,fire-spin,60,55,90,145,90,80
+610,axew,64,6,180,"rivalry, mold-breaker, unnerve",dragon,,scratch,guillotine,razor-wind,swords-dance,cut,46,87,60,30,40,57
+611,fraxure,144,10,360,"rivalry, mold-breaker, unnerve",dragon,,scratch,guillotine,swords-dance,cut,take-down,66,117,70,40,50,67
+612,haxorus,243,18,1055,"rivalry, mold-breaker, unnerve",dragon,,scratch,guillotine,swords-dance,cut,body-slam,76,147,90,60,70,97
+613,cubchoo,61,5,85,"snow-cloak, slush-rush, rattled",ice,,mega-punch,ice-punch,cut,mega-kick,body-slam,55,70,40,60,40,40
+614,beartic,177,26,2600,"snow-cloak, slush-rush, swift-swim",ice,,mega-punch,ice-punch,swords-dance,cut,mega-kick,95,130,80,70,80,50
+615,cryogonal,180,11,1480,levitate,ice,,bind,body-slam,take-down,mist,ice-beam,80,50,50,95,135,105
+616,shelmet,61,4,77,"hydration, shell-armor, overcoat",bug,,body-slam,double-edge,acid,absorb,mega-drain,50,40,85,40,65,25
+617,accelgor,173,8,253,"hydration, sticky-hold, unburden",bug,,body-slam,acid,hyper-beam,absorb,mega-drain,80,70,40,100,60,145
+618,stunfisk,165,7,110,"static, limber, sand-veil",ground,electric,tackle,water-gun,surf,thunder-shock,thunderbolt,109,66,84,81,99,32
+619,mienfoo,70,9,200,"inner-focus, regenerator, reckless",fighting,,pound,double-slap,mega-punch,swords-dance,mega-kick,45,85,50,55,50,65
+620,mienshao,179,14,355,"inner-focus, regenerator, reckless",fighting,,pound,double-slap,mega-punch,swords-dance,mega-kick,65,125,60,95,60,105
+621,druddigon,170,16,1390,"rough-skin, sheer-force, mold-breaker",dragon,,mega-punch,fire-punch,thunder-punch,scratch,cut,77,120,90,60,90,48
+622,golett,61,10,920,"iron-fist, klutz, no-guard",ground,ghost,pound,mega-punch,fire-punch,ice-punch,thunder-punch,59,74,50,35,50,35
+623,golurk,169,28,3300,"iron-fist, klutz, no-guard",ground,ghost,pound,mega-punch,fire-punch,ice-punch,thunder-punch,89,124,80,55,80,55
+624,pawniard,68,5,102,"defiant, inner-focus, pressure",dark,steel,scratch,guillotine,swords-dance,cut,headbutt,45,85,70,40,40,60
+625,bisharp,172,16,700,"defiant, inner-focus, pressure",dark,steel,scratch,guillotine,swords-dance,cut,take-down,65,125,100,60,70,70
+626,bouffalant,172,16,946,"reckless, sap-sipper, soundproof",normal,,swords-dance,cut,stomp,headbutt,horn-attack,95,110,95,40,95,55
+627,rufflet,70,5,105,"keen-eye, sheer-force, hustle",normal,flying,cut,wing-attack,whirlwind,fly,fury-attack,70,83,50,37,50,60
+628,braviary,179,15,410,"keen-eye, sheer-force, defiant",normal,flying,cut,wing-attack,whirlwind,fly,fury-attack,100,123,75,57,75,80
+629,vullaby,74,5,90,"big-pecks, overcoat, weak-armor",dark,flying,cut,gust,whirlwind,fly,fury-attack,70,55,75,45,65,60
+630,mandibuzz,179,12,395,"big-pecks, overcoat, weak-armor",dark,flying,cut,gust,whirlwind,fly,fury-attack,110,65,105,55,95,80
+631,heatmor,169,14,580,"gluttony, flash-fire, white-smoke",fire,,fire-punch,thunder-punch,cut,bind,tackle,85,97,66,105,66,65
+632,durant,169,3,330,"swarm, hustle, truant",bug,steel,vice-grip,guillotine,cut,sand-attack,bite,58,109,112,48,48,109
+633,deino,60,8,173,hustle,dark,dragon,slam,headbutt,tackle,body-slam,take-down,52,65,50,45,50,38
+634,zweilous,147,14,500,hustle,dark,dragon,slam,headbutt,tackle,body-slam,take-down,72,85,70,65,70,58
+635,hydreigon,270,18,1600,levitate,dark,dragon,fly,slam,headbutt,tackle,body-slam,92,105,90,125,90,98
+636,larvesta,72,11,288,"flame-body, swarm",bug,fire,body-slam,take-down,thrash,double-edge,ember,55,85,55,50,55,60
+637,volcarona,248,16,460,"flame-body, swarm",bug,fire,gust,whirlwind,fly,body-slam,take-down,85,60,65,135,105,100
+638,cobalion,261,21,2500,justified,steel,fighting,swords-dance,cut,double-kick,body-slam,take-down,91,90,129,90,72,108
+639,terrakion,261,19,2600,justified,rock,fighting,swords-dance,cut,double-kick,body-slam,take-down,91,129,90,72,90,108
+640,virizion,261,20,2000,justified,grass,fighting,swords-dance,cut,double-kick,body-slam,take-down,91,90,72,90,129,108
+641,tornadus-incarnate,261,15,630,"prankster, defiant",flying,,gust,fly,tackle,body-slam,take-down,79,115,70,125,80,111
+642,thundurus-incarnate,261,15,610,"prankster, defiant",electric,flying,thunder-punch,fly,tackle,body-slam,take-down,79,115,70,125,80,111
+643,reshiram,306,32,3300,turboblaze,dragon,fire,cut,fly,body-slam,take-down,double-edge,100,120,100,150,120,90
+644,zekrom,306,29,3450,teravolt,dragon,electric,thunder-punch,cut,fly,body-slam,take-down,100,150,120,120,100,90
+645,landorus-incarnate,270,15,680,"sand-force, sheer-force",ground,flying,swords-dance,fly,tackle,body-slam,take-down,89,125,90,115,80,101
+646,kyurem,297,30,3250,pressure,dragon,ice,cut,fly,body-slam,take-down,roar,125,130,90,130,90,95
+647,keldeo-ordinary,261,14,485,justified,water,fighting,swords-dance,cut,double-kick,take-down,double-edge,91,72,90,129,90,108
+648,meloetta-aria,270,6,65,serene-grace,normal,psychic,fire-punch,ice-punch,thunder-punch,swords-dance,sing,100,77,77,128,128,90
+649,genesect,270,15,825,download,bug,steel,fly,flamethrower,ice-beam,blizzard,hyper-beam,71,120,95,120,95,99
+650,chespin,63,4,90,"overgrow, bulletproof",grass,,thunder-punch,swords-dance,cut,vine-whip,tackle,56,61,65,48,45,38
+651,quilladin,142,7,290,"overgrow, bulletproof",grass,,thunder-punch,swords-dance,cut,vine-whip,tackle,61,78,95,56,58,57
+652,chesnaught,239,16,900,"overgrow, bulletproof",grass,fighting,thunder-punch,swords-dance,cut,vine-whip,tackle,88,107,122,74,75,64
+653,fennekin,61,4,94,"blaze, magician",fire,,scratch,cut,take-down,tail-whip,ember,40,45,40,62,60,60
+654,braixen,143,10,145,"blaze, magician",fire,,fire-punch,thunder-punch,scratch,cut,take-down,59,59,58,90,70,73
+655,delphox,240,15,390,"blaze, magician",fire,psychic,fire-punch,thunder-punch,scratch,cut,take-down,75,69,72,114,100,104
+656,froakie,63,3,70,"torrent, protean",water,,pound,cut,take-down,growl,water-gun,41,56,40,62,44,71
+657,frogadier,142,6,109,"torrent, protean",water,,pound,ice-punch,swords-dance,cut,take-down,54,63,52,83,56,97
+658,greninja,239,15,400,"torrent, protean",water,dark,pound,ice-punch,swords-dance,cut,take-down,72,95,67,103,71,122
+659,bunnelby,47,4,50,"pickup, cheek-pouch, huge-power",normal,,double-slap,swords-dance,cut,double-kick,tackle,38,36,38,32,36,57
+660,diggersby,148,10,424,"pickup, cheek-pouch, huge-power",normal,ground,double-slap,mega-punch,fire-punch,ice-punch,thunder-punch,85,56,77,50,77,78
+661,fletchling,56,3,17,"big-pecks, gale-wings",normal,flying,razor-wind,swords-dance,fly,tackle,take-down,45,50,43,40,38,62
+662,fletchinder,134,7,160,"flame-body, gale-wings",fire,flying,razor-wind,swords-dance,fly,tackle,take-down,62,73,55,56,52,84
+663,talonflame,175,12,245,"flame-body, gale-wings",fire,flying,razor-wind,swords-dance,fly,tackle,take-down,78,81,71,74,69,126
+664,scatterbug-icy-snow,40,3,25,"shield-dust, compound-eyes, friend-guard",bug,,tackle,poison-powder,stun-spore,string-shot,bug-bite,38,35,40,27,25,35
+665,spewpa-icy-snow,75,3,84,"shed-skin, friend-guard",bug,,harden,protect,iron-defense,bug-bite,struggle-bug,45,22,60,27,30,29
+666,vivillon-meadow,185,12,170,"shield-dust, compound-eyes, friend-guard",bug,flying,gust,supersonic,psybeam,hyper-beam,solar-beam,80,52,50,90,50,89
+667,litleo,74,6,135,"rivalry, unnerve, moxie",fire,normal,headbutt,tackle,body-slam,take-down,double-edge,62,50,58,73,54,72
+668,pyroar,177,15,815,"rivalry, unnerve, moxie",fire,normal,headbutt,tackle,body-slam,take-down,double-edge,86,68,72,109,66,106
+669,flabebe-red,61,1,1,"flower-veil, symbiosis",fairy,,vine-whip,tackle,razor-leaf,solar-beam,petal-dance,44,38,39,61,79,42
+670,floette-red,130,2,9,"flower-veil, symbiosis",fairy,,vine-whip,tackle,razor-leaf,solar-beam,petal-dance,54,45,47,75,98,52
+671,florges-red,248,11,100,"flower-veil, symbiosis",fairy,,hyper-beam,solar-beam,petal-dance,toxic,psychic,78,65,68,112,154,75
+672,skiddo,70,9,310,"sap-sipper, grass-pelt",grass,,vine-whip,tackle,body-slam,take-down,double-edge,66,65,48,62,57,52
+673,gogoat,186,17,910,"sap-sipper, grass-pelt",grass,,vine-whip,tackle,body-slam,take-down,double-edge,123,100,62,97,81,68
+674,pancham,70,6,80,"iron-fist, mold-breaker, scrappy",fighting,,karate-chop,comet-punch,mega-punch,fire-punch,ice-punch,67,82,62,46,48,43
+675,pangoro,173,21,1360,"iron-fist, mold-breaker, scrappy",fighting,dark,karate-chop,comet-punch,mega-punch,fire-punch,ice-punch,95,124,78,69,71,58
+676,furfrou-natural,165,12,280,fur-coat,normal,,sand-attack,headbutt,tackle,take-down,tail-whip,75,80,60,65,90,102
+677,espurr,71,3,35,"keen-eye, infiltrator, own-tempo",psychic,,pay-day,scratch,cut,leer,psybeam,62,48,54,63,60,68
+678,meowstic-male,163,6,85,"keen-eye, infiltrator, prankster",psychic,,pay-day,scratch,cut,leer,psybeam,74,48,76,83,81,104
+679,honedge,65,8,20,no-guard,steel,ghost,swords-dance,cut,tackle,toxic,screech,45,80,100,35,37,28
+680,doublade,157,8,45,no-guard,steel,ghost,swords-dance,cut,tackle,toxic,screech,59,110,150,45,49,35
+681,aegislash-shield,234,17,530,stance-change,steel,ghost,swords-dance,cut,tackle,hyper-beam,toxic,60,50,140,50,140,60
+682,spritzee,68,2,5,"healer, aroma-veil",fairy,,disable,thunderbolt,toxic,psychic,double-team,78,52,60,63,65,23
+683,aromatisse,162,8,155,"healer, aroma-veil",fairy,,hyper-beam,thunderbolt,thunder,toxic,psychic,101,72,72,99,89,29
+684,swirlix,68,4,35,"sweet-veil, unburden",fairy,,tackle,flamethrower,surf,string-shot,thunderbolt,62,48,66,59,57,49
+685,slurpuff,168,8,50,"sweet-veil, unburden",fairy,,tackle,flamethrower,surf,hyper-beam,string-shot,82,80,86,85,75,72
+686,inkay,58,4,35,"contrary, suction-cups, infiltrator",dark,psychic,cut,bind,tackle,wrap,disable,53,54,53,37,46,45
+687,malamar,169,15,470,"contrary, suction-cups, infiltrator",dark,psychic,cut,bind,tackle,wrap,disable,86,92,88,68,75,73
+688,binacle,61,5,310,"tough-claws, sniper, pickpocket",rock,water,scratch,swords-dance,cut,sand-attack,water-gun,42,52,67,39,56,50
+689,barbaracle,175,13,960,"tough-claws, sniper, pickpocket",rock,water,scratch,swords-dance,cut,sand-attack,water-gun,72,105,115,54,86,68
+690,skrelp,64,5,73,"poison-point, poison-touch, adaptability",poison,water,tackle,take-down,tail-whip,acid,water-gun,50,60,60,60,60,30
+691,dragalge,173,18,815,"poison-point, poison-touch, adaptability",poison,dragon,tackle,take-down,tail-whip,acid,water-gun,65,75,90,97,123,44
+692,clauncher,66,5,83,mega-launcher,water,,vice-grip,swords-dance,cut,take-down,water-gun,50,53,62,58,63,44
+693,clawitzer,100,13,353,mega-launcher,water,,vice-grip,swords-dance,cut,body-slam,take-down,71,73,88,120,89,59
+694,helioptile,58,5,60,"dry-skin, sand-veil, solar-power",electric,normal,pound,razor-wind,cut,tail-whip,surf,44,38,33,61,43,70
+695,heliolisk,168,10,210,"dry-skin, sand-veil, solar-power",electric,normal,pound,mega-punch,fire-punch,thunder-punch,razor-wind,62,55,52,109,94,109
+696,tyrunt,72,8,260,"strong-jaw, sturdy",rock,dragon,stomp,horn-drill,tackle,body-slam,thrash,58,89,77,45,45,48
+697,tyrantrum,182,25,2700,"strong-jaw, rock-head",rock,dragon,stomp,horn-drill,tackle,body-slam,thrash,82,121,119,69,59,71
+698,amaura,72,13,252,"refrigerate, snow-warning",rock,ice,body-slam,take-down,growl,roar,mist,77,59,50,67,63,46
+699,aurorus,104,27,2250,"refrigerate, snow-warning",rock,ice,body-slam,take-down,growl,roar,mist,123,77,72,99,92,58
+700,sylveon,184,10,235,"cute-charm, pixilate",fairy,,pay-day,cut,sand-attack,tackle,body-slam,95,65,65,110,130,60
+701,hawlucha,175,8,215,"limber, unburden, mold-breaker",fighting,flying,karate-chop,mega-punch,fire-punch,thunder-punch,swords-dance,78,92,75,74,63,118
+702,dedenne,151,2,22,"cheek-pouch, pickup, plus",electric,fairy,thunder-punch,cut,tackle,take-down,tail-whip,67,58,57,81,67,101
+703,carbink,100,3,57,"clear-body, sturdy",rock,fairy,tackle,body-slam,take-down,double-edge,hyper-beam,50,50,150,50,150,50
+704,goomy,60,3,28,"sap-sipper, hydration, gooey",dragon,,tackle,body-slam,take-down,water-gun,hydro-pump,45,50,35,55,75,40
+705,sliggoo,158,8,175,"sap-sipper, hydration, gooey",dragon,,tackle,body-slam,take-down,water-gun,ice-beam,68,75,53,83,113,60
+706,goodra,270,20,1505,"sap-sipper, hydration, gooey",dragon,,mega-punch,fire-punch,thunder-punch,mega-kick,tackle,90,100,70,110,150,80
+707,klefki,165,2,30,"prankster, magician",steel,fairy,cut,tackle,hyper-beam,thunder-wave,toxic,57,80,91,80,87,75
+708,phantump,62,4,70,"natural-cure, frisk, harvest",ghost,grass,cut,tackle,disable,strength,leech-seed,43,70,48,50,60,38
+709,trevenant,166,15,710,"natural-cure, frisk, harvest",ghost,grass,cut,tackle,take-down,disable,hyper-beam,85,110,76,65,82,56
+710,pumpkaboo-average,67,4,50,"pickup, frisk, insomnia",ghost,grass,disable,flamethrower,leech-seed,razor-leaf,solar-beam,49,66,70,44,55,51
+711,gourgeist-average,173,9,125,"pickup, frisk, insomnia",ghost,grass,flamethrower,hyper-beam,leech-seed,razor-leaf,solar-beam,65,90,122,58,75,84
+712,bergmite,61,10,995,"own-tempo, ice-body, sturdy",ice,,tackle,body-slam,take-down,double-edge,bite,55,69,85,32,35,28
+713,avalugg,180,20,5050,"own-tempo, ice-body, sturdy",ice,,tackle,body-slam,take-down,double-edge,bite,95,117,184,44,46,28
+714,noibat,49,5,80,"frisk, infiltrator, telepathy",flying,dragon,razor-wind,cut,gust,wing-attack,whirlwind,40,30,35,45,40,55
+715,noivern,187,15,850,"frisk, infiltrator, telepathy",flying,dragon,razor-wind,cut,gust,wing-attack,whirlwind,85,70,80,97,80,123
+716,xerneas-active,306,30,2150,fairy-aura,fairy,,cut,tackle,body-slam,take-down,roar,126,131,95,131,98,99
+717,yveltal,306,58,2030,dark-aura,dark,flying,razor-wind,cut,gust,fly,body-slam,126,131,95,131,98,99
+718,zygarde-50,270,50,3050,aura-break,dragon,ground,bind,body-slam,bite,hyper-beam,strength,108,100,121,81,95,95
+719,diancie,270,7,88,clear-body,rock,fairy,tackle,body-slam,take-down,hyper-beam,rock-throw,50,100,150,100,150,50
+720,hoopa,270,5,90,magician,psychic,ghost,fire-punch,ice-punch,thunder-punch,take-down,psybeam,80,110,60,150,130,70
+721,volcanion,270,17,1950,water-absorb,fire,water,cut,stomp,body-slam,take-down,double-edge,80,110,120,130,90,70
+722,rowlet,64,3,15,"overgrow, long-reach",grass,flying,swords-dance,gust,fury-attack,tackle,take-down,68,55,55,50,50,42
+723,dartrix,147,7,160,"overgrow, long-reach",grass,flying,swords-dance,gust,fury-attack,tackle,take-down,78,75,75,70,70,52
+724,decidueye,239,16,366,"overgrow, long-reach",grass,ghost,swords-dance,fury-attack,tackle,take-down,growl,78,107,75,100,100,70
+725,litten,64,4,43,"blaze, intimidate",fire,,pay-day,scratch,swords-dance,double-kick,body-slam,45,65,40,60,40,70
+726,torracat,147,7,250,"blaze, intimidate",fire,,pay-day,scratch,swords-dance,double-kick,body-slam,65,85,50,80,50,90
+727,incineroar,239,18,830,"blaze, intimidate",fire,dark,mega-punch,pay-day,fire-punch,thunder-punch,scratch,95,115,90,80,90,60
+728,popplio,64,4,75,"torrent, liquid-voice",water,,pound,double-slap,growl,sing,water-gun,50,54,54,66,56,40
+729,brionne,147,6,175,"torrent, liquid-voice",water,,pound,double-slap,body-slam,growl,sing,60,69,69,91,81,50
+730,primarina,239,18,440,"torrent, liquid-voice",water,fairy,pound,double-slap,body-slam,growl,sing,80,74,74,126,116,60
+731,pikipek,53,3,12,"keen-eye, skill-link, pickup",normal,flying,swords-dance,fly,fury-attack,take-down,growl,35,75,30,30,30,65
+732,trumbeak,124,6,148,"keen-eye, skill-link, pickup",normal,flying,swords-dance,fly,fury-attack,take-down,growl,55,85,50,40,50,75
+733,toucannon,218,11,260,"keen-eye, skill-link, sheer-force",normal,flying,swords-dance,fly,fury-attack,take-down,growl,80,120,75,75,75,60
+734,yungoos,51,4,60,"stakeout, strong-jaw, adaptability",normal,,sand-attack,tackle,take-down,thrash,double-edge,48,70,30,30,30,45
+735,gumshoos,146,7,142,"stakeout, strong-jaw, adaptability",normal,,fire-punch,ice-punch,thunder-punch,sand-attack,tackle,88,110,60,55,60,45
+736,grubbin,60,4,44,swarm,bug,,vice-grip,take-down,bite,string-shot,thunderbolt,47,62,45,55,45,46
+737,charjabug,140,5,105,battery,bug,electric,vice-grip,take-down,bite,string-shot,thunderbolt,57,82,95,55,75,36
+738,vikavolt,225,15,450,levitate,bug,electric,vice-grip,guillotine,fly,take-down,bite,77,70,90,145,75,43
+739,crabrawler,68,6,70,"hyper-cutter, iron-fist, anger-point",fighting,,ice-punch,thunder-punch,slam,body-slam,take-down,47,82,57,42,47,63
+740,crabominable,167,17,1800,"hyper-cutter, iron-fist, anger-point",fighting,ice,ice-punch,thunder-punch,slam,body-slam,take-down,97,132,77,62,67,43
+741,oricorio-baile,167,6,34,dancer,fire,flying,pound,double-slap,swords-dance,fly,take-down,75,70,70,98,70,93
+742,cutiefly,61,1,2,"honey-gather, shield-dust, sweet-veil",bug,fairy,absorb,stun-spore,toxic,psychic,double-team,40,45,40,55,40,84
+743,ribombee,162,2,5,"honey-gather, shield-dust, sweet-veil",bug,fairy,take-down,hyper-beam,absorb,solar-beam,stun-spore,60,55,60,95,70,124
+744,rockruff,56,5,92,"keen-eye, vital-spirit, steadfast",rock,,swords-dance,sand-attack,tackle,body-slam,take-down,45,65,40,30,40,60
+745,lycanroc-midday,170,8,250,"keen-eye, sand-rush, steadfast",rock,,swords-dance,sand-attack,tackle,body-slam,take-down,75,115,65,55,65,112
+746,wishiwashi-solo,61,2,3,schooling,water,,take-down,double-edge,growl,mist,water-gun,45,20,20,25,25,40
+747,mareanie,61,4,80,"merciless, limber, regenerator",poison,water,poison-sting,pin-missile,bite,hydro-pump,surf,50,53,62,43,52,45
+748,toxapex,173,7,145,"merciless, limber, regenerator",poison,water,body-slam,poison-sting,pin-missile,bite,hydro-pump,50,63,152,53,142,35
+749,mudbray,77,10,1100,"own-tempo, stamina, inner-focus",ground,,stomp,double-kick,mega-kick,body-slam,take-down,70,100,70,45,55,45
+750,mudsdale,175,25,9200,"own-tempo, stamina, inner-focus",ground,,stomp,double-kick,mega-kick,body-slam,take-down,100,125,100,55,85,35
+751,dewpider,54,3,40,"water-bubble, water-absorb",water,bug,headbutt,bite,water-gun,hydro-pump,surf,38,40,52,40,72,27
+752,araquanid,159,18,820,"water-bubble, water-absorb",water,bug,headbutt,body-slam,bite,water-gun,hydro-pump,68,70,92,50,132,42
+753,fomantis,50,3,15,"leaf-guard, contrary",grass,,swords-dance,take-down,growth,razor-leaf,solar-beam,40,55,35,50,35,35
+754,lurantis,168,9,185,"leaf-guard, contrary",grass,,swords-dance,take-down,hyper-beam,growth,razor-leaf,70,105,90,80,90,45
+755,morelull,57,2,15,"illuminate, effect-spore, rain-dish",grass,fairy,absorb,mega-drain,leech-seed,growth,solar-beam,40,35,55,65,75,15
+756,shiinotic,142,10,115,"illuminate, effect-spore, rain-dish",grass,fairy,hyper-beam,absorb,mega-drain,solar-beam,sleep-powder,60,45,80,90,100,30
+757,salandit,64,6,48,"corrosion, oblivious",poison,fire,double-slap,scratch,sand-attack,take-down,ember,48,44,40,71,40,77
+758,salazzle,168,12,222,"corrosion, oblivious",poison,fire,pound,double-slap,scratch,body-slam,take-down,68,64,60,111,60,117
+759,stufful,68,5,68,"fluffy, klutz, cute-charm",normal,fighting,mega-punch,ice-punch,thunder-punch,swords-dance,bind,70,75,50,45,50,50
+760,bewear,175,21,1350,"fluffy, klutz, unnerve",normal,fighting,mega-punch,ice-punch,thunder-punch,swords-dance,bind,120,125,80,55,60,60
+761,bounsweet,42,3,32,"leaf-guard, oblivious, sweet-veil",grass,,take-down,razor-leaf,solar-beam,toxic,double-team,42,30,38,30,38,32
+762,steenee,102,7,82,"leaf-guard, oblivious, sweet-veil",grass,,double-slap,stomp,take-down,razor-leaf,solar-beam,52,40,48,40,48,62
+763,tsareena,230,12,214,"leaf-guard, queenly-majesty, sweet-veil",grass,,double-slap,stomp,mega-kick,take-down,hyper-beam,72,120,98,50,98,72
+764,comfey,170,1,3,"flower-veil, triage, natural-cure",fairy,,bind,vine-whip,wrap,hyper-beam,leech-seed,51,52,90,82,110,100
+765,oranguru,172,15,760,"inner-focus, telepathy, symbiosis",normal,psychic,mega-punch,mega-kick,body-slam,take-down,psybeam,90,60,80,90,110,60
+766,passimian,172,20,828,"receiver, defiant",fighting,,mega-punch,mega-kick,tackle,body-slam,take-down,100,120,90,40,60,80
+767,wimpod,46,5,120,wimp-out,bug,water,sand-attack,surf,toxic,screech,double-team,25,35,40,20,30,80
+768,golisopod,186,20,1080,emergency-exit,bug,water,swords-dance,sand-attack,pin-missile,surf,ice-beam,75,125,140,60,90,40
+769,sandygast,64,5,700,"water-compaction, sand-veil",ghost,ground,sand-attack,absorb,mega-drain,earthquake,toxic,55,55,80,70,45,15
+770,palossand,168,13,2500,"water-compaction, sand-veil",ghost,ground,sand-attack,body-slam,hyper-beam,absorb,mega-drain,85,75,110,100,75,35
+771,pyukumuku,144,3,12,"innards-out, unaware",water,,counter,toxic,screech,double-team,recover,55,60,130,30,130,5
+772,type-null,107,19,1205,battle-armor,normal,,razor-wind,swords-dance,tackle,take-down,double-edge,95,95,95,95,95,59
+773,silvally-normal,257,23,1005,rks-system,normal,,razor-wind,swords-dance,tackle,take-down,double-edge,95,95,95,95,95,95
+774,minior-red-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+775,komala,168,4,199,comatose,normal,,swords-dance,slam,body-slam,take-down,thrash,65,115,65,75,95,65
+776,turtonator,170,20,2120,shell-armor,fire,dragon,mega-punch,mega-kick,tackle,body-slam,roar,60,78,135,91,85,36
+777,togedemaru,152,3,33,"iron-barbs, lightning-rod, sturdy",electric,steel,tackle,twineedle,pin-missile,hyper-beam,thunder-shock,65,98,63,40,73,96
+778,mimikyu-disguised,167,2,7,disguise,ghost,fairy,scratch,swords-dance,take-down,hyper-beam,thunderbolt,55,90,80,50,105,96
+779,bruxish,166,9,190,"dazzling, strong-jaw, wonder-skin",water,psychic,swords-dance,take-down,bite,disable,water-gun,68,105,70,70,70,92
+780,drampa,170,30,1850,"berserk, sap-sipper, cloud-nine",normal,dragon,razor-wind,fly,roar,flamethrower,mist,78,60,85,135,91,36
+781,dhelmise,181,39,2100,steelworker,ghost,grass,swords-dance,slam,wrap,hydro-pump,surf,70,131,100,86,90,40
+782,jangmo-o,60,6,297,"bulletproof, soundproof, overcoat",dragon,,swords-dance,headbutt,tackle,body-slam,take-down,45,55,65,45,45,45
+783,hakamo-o,147,12,470,"bulletproof, soundproof, overcoat",dragon,fighting,mega-punch,swords-dance,mega-kick,headbutt,tackle,55,75,90,65,70,65
+784,kommo-o,270,16,782,"bulletproof, soundproof, overcoat",dragon,fighting,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,75,110,125,100,105,85
+785,tapu-koko,257,18,205,"electric-surge, telepathy",electric,fairy,thunder-punch,fly,roar,hyper-beam,thunder-shock,70,115,85,95,75,130
+786,tapu-lele,257,12,186,"psychic-surge, telepathy",psychic,fairy,psybeam,hyper-beam,thunderbolt,thunder,toxic,70,85,75,130,115,95
+787,tapu-bulu,257,19,455,"grassy-surge, telepathy",grass,fairy,mega-punch,swords-dance,whirlwind,horn-attack,roar,70,130,115,85,95,75
+788,tapu-fini,257,13,212,"misty-surge, telepathy",water,fairy,ice-punch,mist,water-gun,hydro-pump,surf,70,75,115,95,130,85
+789,cosmog,40,2,1,unaware,psychic,,teleport,splash,,,,43,29,31,29,31,37
+790,cosmoem,140,1,9999,sturdy,psychic,,teleport,cosmic-power,,,,43,29,131,29,131,37
+791,solgaleo,306,34,2300,full-metal-body,psychic,steel,body-slam,take-down,double-edge,roar,flamethrower,137,137,107,113,89,97
+792,lunala,306,40,1200,shadow-shield,psychic,ghost,fly,roar,ice-beam,blizzard,hyper-beam,137,113,89,137,107,97
+793,nihilego,257,12,555,beast-boost,rock,poison,pound,bind,headbutt,body-slam,wrap,109,53,47,127,131,103
+794,buzzwole,257,24,3336,beast-boost,bug,fighting,comet-punch,mega-punch,ice-punch,thunder-punch,body-slam,107,139,139,53,53,79
+795,pheromosa,257,18,250,beast-boost,bug,fighting,stomp,double-kick,jump-kick,leer,ice-beam,71,137,37,137,37,151
+796,xurkitree,257,38,1000,beast-boost,electric,,thunder-punch,bind,wrap,hyper-beam,solar-beam,83,89,71,173,71,83
+797,celesteela,257,92,9999,beast-boost,steel,flying,fly,tackle,body-slam,double-edge,flamethrower,97,101,103,107,101,61
+798,kartana,257,3,1,beast-boost,grass,steel,guillotine,swords-dance,cut,razor-leaf,toxic,59,181,131,59,31,109
+799,guzzlord,257,55,8880,beast-boost,dark,dragon,mega-punch,stomp,mega-kick,body-slam,thrash,223,101,53,97,53,43
+800,necrozma,270,24,2300,prism-armor,psychic,,swords-dance,body-slam,hyper-beam,solar-beam,thunder-wave,97,107,101,127,89,79
+801,magearna,270,10,805,soul-heart,steel,fairy,body-slam,take-down,sonic-boom,ice-beam,psybeam,80,95,115,130,115,65
+802,marshadow,270,7,222,technician,fighting,ghost,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,90,125,80,90,90,125
+803,poipole,189,6,18,beast-boost,poison,,fury-attack,pin-missile,growl,acid,peck,67,73,67,73,67,73
+804,naganadel,243,36,1500,beast-boost,poison,dragon,fly,fury-attack,pin-missile,growl,acid,73,73,73,127,73,121
+805,stakataka,257,55,8200,beast-boost,rock,steel,bind,stomp,mega-kick,tackle,body-slam,61,131,211,53,101,13
+806,blacephalon,257,18,130,beast-boost,fire,ghost,fire-punch,ember,flamethrower,hyper-beam,solar-beam,53,127,53,151,79,107
+807,zeraora,270,15,445,volt-absorb,electric,,mega-punch,pay-day,fire-punch,thunder-punch,scratch,88,112,75,102,80,143
+808,meltan,135,2,80,magnet-pull,steel,,headbutt,tail-whip,thunder-shock,thunderbolt,thunder-wave,46,65,65,55,35,34
+809,melmetal,270,25,8000,iron-fist,steel,,mega-punch,ice-punch,thunder-punch,mega-kick,headbutt,135,143,143,80,65,34
+810,grookey,62,3,50,"overgrow, grassy-surge",grass,,mega-punch,scratch,swords-dance,slam,mega-kick,50,65,50,40,40,65
+811,thwackey,147,7,140,"overgrow, grassy-surge",grass,,mega-punch,scratch,swords-dance,slam,mega-kick,70,85,70,55,60,80
+812,rillaboom,265,21,900,"overgrow, grassy-surge",grass,,mega-punch,scratch,swords-dance,slam,mega-kick,100,125,90,60,70,85
+813,scorbunny,62,3,45,"blaze, libero",fire,,double-kick,mega-kick,sand-attack,headbutt,tackle,50,71,40,40,40,69
+814,raboot,147,6,90,"blaze, libero",fire,,swords-dance,double-kick,mega-kick,sand-attack,headbutt,65,86,60,55,60,94
+815,cinderace,265,14,330,"blaze, libero",fire,,fire-punch,swords-dance,double-kick,mega-kick,sand-attack,80,116,75,65,75,119
+816,sobble,62,3,40,"torrent, sniper",water,,pound,bind,take-down,growl,mist,50,40,40,70,40,70
+817,drizzile,147,7,115,"torrent, sniper",water,,pound,bind,take-down,growl,mist,65,60,55,95,55,90
+818,inteleon,265,19,452,"torrent, sniper",water,,pound,swords-dance,bind,take-down,growl,70,85,65,125,65,120
+819,skwovet,55,3,25,"cheek-pouch, gluttony",normal,,tackle,body-slam,take-down,double-edge,tail-whip,70,55,55,35,35,25
+820,greedent,161,6,60,"cheek-pouch, gluttony",normal,,swords-dance,tackle,body-slam,take-down,double-edge,120,95,95,55,75,20
+821,rookidee,49,2,18,"keen-eye, unnerve, big-pecks",flying,,fly,sand-attack,fury-attack,take-down,leer,38,47,35,33,35,57
+822,corvisquire,128,8,160,"keen-eye, unnerve, big-pecks",flying,,fly,fury-attack,take-down,leer,peck,68,67,55,43,55,77
+823,corviknight,248,22,750,"pressure, unnerve, mirror-armor",flying,steel,fly,sand-attack,fury-attack,body-slam,take-down,98,87,105,53,85,67
+824,blipbug,36,4,80,"swarm, compound-eyes, telepathy",bug,,supersonic,recover,struggle-bug,sticky-web,infestation,25,20,20,25,45,45
+825,dottler,117,4,195,"swarm, compound-eyes, telepathy",bug,psychic,solar-beam,confusion,psychic,light-screen,reflect,50,35,80,50,90,30
+826,orbeetle,253,4,408,"swarm, frisk, telepathy",bug,psychic,psybeam,hyper-beam,solar-beam,confusion,psychic,60,45,110,80,120,90
+827,nickit,49,6,89,"run-away, unburden, stakeout",dark,,tail-whip,dig,agility,quick-attack,screech,40,28,28,47,52,50
+828,thievul,159,12,199,"run-away, unburden, stakeout",dark,,tail-whip,hyper-beam,dig,psychic,agility,70,58,58,87,92,90
+829,gossifleur,50,4,22,"cotton-down, regenerator, effect-spore",grass,,sing,leech-seed,growth,razor-leaf,solar-beam,40,40,60,40,60,10
+830,eldegoss,161,5,25,"cotton-down, regenerator, effect-spore",grass,,sing,hyper-beam,razor-leaf,solar-beam,light-screen,60,50,90,80,120,60
+831,wooloo,122,6,60,"fluffy, run-away, bulletproof",normal,,stomp,double-kick,headbutt,tackle,take-down,42,40,55,40,45,48
+832,dubwool,172,13,430,"fluffy, steadfast, bulletproof",normal,,swords-dance,double-kick,mega-kick,headbutt,tackle,72,80,100,60,90,88
+833,chewtle,57,3,85,"strong-jaw, shell-armor, swift-swim",water,,headbutt,tackle,body-slam,take-down,bite,50,64,50,38,38,44
+834,drednaw,170,10,1155,"strong-jaw, shell-armor, swift-swim",water,rock,swords-dance,headbutt,tackle,body-slam,take-down,90,115,90,48,68,74
+835,yamper,54,3,135,"ball-fetch, rattled",electric,,sand-attack,tackle,double-edge,tail-whip,bite,59,45,50,40,50,26
+836,boltund,172,10,340,"strong-jaw, competitive",electric,,tackle,tail-whip,bite,roar,hyper-beam,69,90,60,90,60,121
+837,rolycoly,48,3,120,"steam-engine, heatproof, flash-fire",rock,,tackle,body-slam,take-down,dig,smokescreen,30,40,50,40,50,30
+838,carkol,144,11,780,"steam-engine, flame-body, flash-fire",rock,fire,tackle,body-slam,take-down,flamethrower,fire-spin,80,60,90,60,70,50
+839,coalossal,255,28,3105,"steam-engine, flame-body, flash-fire",rock,fire,mega-punch,fire-punch,mega-kick,tackle,body-slam,110,80,120,80,90,30
+840,applin,52,2,5,"ripen, gluttony, bulletproof",grass,dragon,withdraw,defense-curl,rollout,attract,recycle,40,40,80,40,40,20
+841,flapple,170,3,10,"ripen, gluttony, hustle",grass,dragon,wing-attack,fly,take-down,hyper-beam,leech-seed,70,110,80,95,60,70
+842,appletun,170,4,130,"ripen, gluttony, thick-fat",grass,dragon,stomp,headbutt,body-slam,take-down,hyper-beam,110,85,80,100,80,30
+843,silicobra,63,22,76,"sand-spit, shed-skin, sand-veil",ground,,slam,sand-attack,headbutt,body-slam,wrap,52,57,75,35,50,46
+844,sandaconda,179,38,655,"sand-spit, shed-skin, sand-veil",ground,,slam,sand-attack,headbutt,body-slam,wrap,72,107,125,65,70,71
+845,cramorant,166,8,180,gulp-missile,flying,water,fly,fury-attack,take-down,thrash,water-gun,70,85,55,85,95,85
+846,arrokuda,56,5,10,"swift-swim, propeller-tail",water,,fury-attack,take-down,thrash,double-edge,bite,41,63,40,40,30,66
+847,barraskewda,172,13,300,"swift-swim, propeller-tail",water,,fury-attack,take-down,double-edge,bite,hydro-pump,61,123,60,60,50,136
+848,toxel,48,4,110,"rattled, static, klutz",electric,poison,growl,acid,rest,substitute,snore,40,38,35,54,35,40
+849,toxtricity-amped,176,16,400,"punk-rock, plus, technician",electric,poison,mega-punch,fire-punch,thunder-punch,mega-kick,take-down,75,98,70,114,70,75
+850,sizzlipede,61,7,10,"flash-fire, white-smoke, flame-body",fire,bug,slam,wrap,bite,ember,fire-spin,50,65,45,50,50,45
+851,centiskorch,184,30,1200,"flash-fire, white-smoke, flame-body",fire,bug,slam,wrap,bite,ember,flamethrower,100,115,65,90,90,65
+852,clobbopus,62,6,40,"limber, technician",fighting,,mega-punch,ice-punch,bind,body-slam,leer,50,68,60,50,50,32
+853,grapploct,168,16,390,"limber, technician",fighting,,mega-punch,ice-punch,bind,body-slam,leer,80,118,90,70,80,42
+854,sinistea-phony,62,1,2,"weak-armor, cursed-body",ghost,,psybeam,mega-drain,psychic,night-shade,confuse-ray,40,45,45,74,54,50
+855,polteageist-phony,178,2,4,"weak-armor, cursed-body",ghost,,psybeam,hyper-beam,mega-drain,psychic,night-shade,60,65,65,134,114,70
+856,hatenna,53,4,34,"healer, anticipation, magic-bounce",psychic,,psybeam,thunder-wave,confusion,psychic,light-screen,42,30,45,56,53,39
+857,hattrem,130,6,48,"healer, anticipation, magic-bounce",psychic,,psybeam,thunder-wave,confusion,psychic,light-screen,57,40,65,86,73,49
+858,hatterene,255,21,51,"healer, anticipation, magic-bounce",psychic,fairy,swords-dance,psybeam,hyper-beam,thunder-wave,confusion,57,90,95,136,103,29
+859,impidimp,53,4,55,"prankster, frisk, pickpocket",dark,fairy,mega-punch,mega-kick,take-down,bite,low-kick,45,45,30,55,40,50
+860,morgrem,130,8,125,"prankster, frisk, pickpocket",dark,fairy,mega-punch,mega-kick,take-down,bite,low-kick,65,60,45,75,55,70
+861,grimmsnarl,255,15,610,"prankster, frisk, pickpocket",dark,fairy,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,95,120,65,95,75,60
+862,obstagoon,260,16,460,"reckless, guts, defiant",dark,normal,mega-punch,fire-punch,ice-punch,thunder-punch,mega-kick,93,90,101,60,81,95
+863,perrserker,154,8,280,"battle-armor, tough-claws, steely-spirit",steel,,pay-day,scratch,swords-dance,body-slam,take-down,70,110,100,50,60,50
+864,cursola,179,10,4,"weak-armor, perish-body",ghost,,tackle,body-slam,pin-missile,disable,hydro-pump,60,95,50,145,130,30
+865,sirfetchd,177,8,1170,"steadfast, scrappy",fighting,,swords-dance,slam,sand-attack,body-slam,leer,62,135,95,68,82,65
+866,mr-rime,182,15,582,"tangled-feet, screen-cleaner, ice-body",ice,psychic,pound,mega-punch,ice-punch,double-kick,mega-kick,80,85,75,110,100,70
+867,runerigus,169,16,666,wandering-spirit,ground,ghost,slam,disable,hyper-beam,earthquake,psychic,58,95,145,50,105,30
+868,milcery,54,2,3,"sweet-veil, aroma-veil",fairy,,tackle,recover,acid-armor,rest,substitute,45,40,40,50,61,34
+869,alcremie-vanilla-cream-strawberry-sweet,173,3,5,"sweet-veil, aroma-veil",fairy,,tackle,hyper-beam,solar-beam,psychic,recover,65,60,75,110,121,64
+870,falinks,165,30,620,"battle-armor, defiant",fighting,,swords-dance,headbutt,tackle,body-slam,take-down,65,100,100,70,60,75
+871,pincurchin,152,3,10,"lightning-rod, electric-surge",electric,,fury-attack,body-slam,take-down,pin-missile,water-gun,48,101,95,91,85,15
+872,snom,37,3,38,"shield-dust, ice-scales",ice,bug,rest,substitute,snore,powder-snow,protect,30,25,35,45,30,20
+873,frosmoth,166,13,420,"shield-dust, ice-scales",ice,bug,take-down,mist,ice-beam,blizzard,aurora-beam,70,65,60,125,90,65
+874,stonjourner,165,25,5200,power-spot,rock,,stomp,mega-kick,body-slam,take-down,hyper-beam,100,125,135,20,20,70
+875,eiscue-ice,165,14,890,ice-face,ice,,ice-punch,headbutt,tackle,body-slam,take-down,75,80,110,65,90,50
+876,indeedee-male,166,9,280,"inner-focus, synchronize, psychic-surge",psychic,normal,pay-day,body-slam,take-down,psybeam,psychic,60,65,55,105,95,95
+877,morpeko-full-belly,153,3,30,hunger-switch,electric,dark,thunder-punch,take-down,thrash,double-edge,tail-whip,58,95,58,70,58,97
+878,cufant,66,12,1000,"sheer-force, heavy-metal",steel,,whirlwind,slam,stomp,mega-kick,tackle,72,80,49,40,49,40
+879,copperajah,175,30,6500,"sheer-force, heavy-metal",steel,,stomp,mega-kick,tackle,body-slam,take-down,122,130,69,80,69,30
+880,dracozolt,177,18,1900,"volt-absorb, hustle, sand-rush",electric,dragon,mega-punch,thunder-punch,slam,stomp,mega-kick,90,100,90,80,70,75
+881,arctozolt,177,23,1500,"volt-absorb, static, slush-rush",electric,ice,mega-punch,thunder-punch,slam,mega-kick,body-slam,90,100,90,90,80,55
+882,dracovish,177,23,2150,"water-absorb, strong-jaw, sand-rush",water,dragon,stomp,mega-kick,tackle,body-slam,bite,90,90,100,70,80,75
+883,arctovish,177,20,1750,"water-absorb, ice-body, slush-rush",water,ice,body-slam,bite,water-gun,hydro-pump,surf,90,90,100,80,90,55
+884,duraludon,187,18,400,"light-metal, heavy-metal, stalwart",steel,dragon,swords-dance,body-slam,take-down,double-edge,leer,70,95,115,120,50,85
+885,dreepy,54,5,20,"clear-body, infiltrator, cursed-body",dragon,ghost,bite,disable,thunder-wave,quick-attack,double-team,28,60,30,40,30,82
+886,drakloak,144,14,110,"clear-body, infiltrator, cursed-body",dragon,ghost,take-down,double-edge,bite,flamethrower,hydro-pump,68,80,50,60,50,102
+887,dragapult,300,30,500,"clear-body, infiltrator, cursed-body",dragon,ghost,fly,body-slam,take-down,double-edge,bite,88,120,75,100,75,142
+888,zacian,335,28,1100,intrepid-sword,fairy,,swords-dance,body-slam,take-down,bite,hyper-beam,92,120,115,80,115,138
+889,zamazenta,335,29,2100,dauntless-shield,fighting,,body-slam,take-down,bite,roar,hyper-beam,92,120,115,80,115,138
+890,eternatus,345,200,9500,pressure,poison,dragon,fly,body-slam,take-down,flamethrower,hyper-beam,140,85,95,145,95,130
+891,kubfu,77,6,120,inner-focus,fighting,,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,60,90,60,53,50,72
+892,urshifu-single-strike,275,19,1050,unseen-fist,fighting,dark,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,100,130,100,63,60,97
+893,zarude,300,18,700,leaf-guard,dark,grass,mega-punch,scratch,swords-dance,bind,vine-whip,105,120,105,70,95,105
+894,regieleki,290,12,1450,transistor,electric,,body-slam,take-down,thrash,hyper-beam,thunder-shock,80,100,50,100,50,200
+895,regidrago,290,21,2000,dragons-maw,dragon,,vice-grip,body-slam,take-down,thrash,bite,200,100,50,100,50,80
+896,glastrier,290,22,8000,chilling-neigh,ice,,swords-dance,stomp,double-kick,tackle,body-slam,100,145,130,65,110,30
+897,spectrier,290,20,445,grim-neigh,ghost,,stomp,double-kick,tackle,body-slam,take-down,100,65,60,145,80,130
+898,calyrex,250,11,77,unnerve,psychic,grass,pound,pay-day,take-down,psybeam,hyper-beam,100,80,80,80,80,80
+899,wyrdeer,263,18,951,"intimidate, frisk, sap-sipper",normal,psychic,stomp,sand-attack,tackle,body-slam,take-down,103,105,72,105,75,65
+900,kleavor,175,18,890,"swarm, sheer-force, sharpness",bug,rock,swords-dance,take-down,double-edge,leer,hyper-beam,70,135,95,45,70,85
+901,ursaluna,275,24,2900,"guts, bulletproof, unnerve",ground,normal,fire-punch,ice-punch,thunder-punch,scratch,swords-dance,130,140,105,45,80,50
+902,basculegion-male,265,30,1100,"swift-swim, adaptability, mold-breaker",water,ghost,headbutt,tackle,take-down,thrash,double-edge,120,112,65,80,75,78
+903,sneasler,102,13,430,"pressure, unburden, poison-touch",fighting,poison,fire-punch,scratch,swords-dance,take-down,leer,80,130,60,40,80,120
+904,overqwil,179,25,605,"poison-point, swift-swim, intimidate",dark,poison,swords-dance,tackle,take-down,double-edge,poison-sting,85,115,95,65,65,85
+905,enamorus-incarnate,116,16,480,"cute-charm, contrary",fairy,flying,fly,tackle,body-slam,take-down,bite,74,115,70,135,80,106
+906,sprigatito,62,4,41,"overgrow, protean",grass,,scratch,take-down,tail-whip,bite,leech-seed,40,61,54,45,45,65
+907,floragato,144,9,122,"overgrow, protean",grass,,thunder-punch,scratch,take-down,tail-whip,bite,61,80,63,60,63,83
+908,meowscarada,265,15,312,"overgrow, protean",grass,dark,thunder-punch,scratch,take-down,tail-whip,bite,76,110,70,81,70,123
+909,fuecoco,62,4,98,"blaze, unaware",fire,,tackle,body-slam,take-down,leer,bite,67,45,59,63,40,36
+910,crocalor,144,10,307,"blaze, unaware",fire,,tackle,body-slam,take-down,leer,bite,81,55,78,90,58,49
+911,skeledirge,265,16,3265,"blaze, unaware",fire,ghost,tackle,body-slam,take-down,leer,bite,104,75,100,110,75,66
+912,quaxly,62,5,61,"torrent, moxie",water,,pound,wing-attack,take-down,growl,water-gun,55,65,45,50,45,50
+913,quaxwell,144,12,215,"torrent, moxie",water,,pound,wing-attack,take-down,growl,water-gun,70,85,65,65,60,65
+914,quaquaval,265,18,619,"torrent, moxie",water,fighting,pound,swords-dance,wing-attack,mega-kick,take-down,85,120,80,85,75,85
+915,lechonk,51,5,102,"aroma-veil, gluttony, thick-fat",normal,,headbutt,tackle,body-slam,take-down,double-edge,54,45,40,35,45,35
+916,oinkologne-male,171,10,1200,"lingering-aroma, gluttony, thick-fat",normal,,headbutt,tackle,body-slam,take-down,double-edge,110,100,75,59,80,65
+917,tarountula,42,3,40,"insomnia, stakeout",bug,,headbutt,tackle,body-slam,take-down,counter,35,41,45,29,40,20
+918,spidops,141,10,165,"insomnia, stakeout",bug,,headbutt,tackle,body-slam,take-down,low-kick,60,79,92,52,86,35
+919,nymble,42,2,10,"swarm, tinted-lens",bug,,double-kick,tackle,take-down,leer,counter,33,46,40,21,25,45
+920,lokix,158,10,175,"swarm, tinted-lens",bug,dark,swords-dance,double-kick,tackle,take-down,double-edge,71,102,78,52,55,92
+921,pawmi,48,3,25,"static, natural-cure, iron-fist",electric,,scratch,slam,take-down,bite,growl,45,50,20,40,25,60
+922,pawmo,123,4,65,"volt-absorb, natural-cure, iron-fist",electric,fighting,thunder-punch,scratch,slam,take-down,bite,60,75,40,50,40,85
+923,pawmot,245,9,410,"volt-absorb, natural-cure, iron-fist",electric,fighting,fire-punch,ice-punch,thunder-punch,scratch,slam,70,115,70,70,60,105
+924,tandemaus,61,3,18,"run-away, pickup, own-tempo",normal,,pound,take-down,double-edge,bite,low-kick,50,50,45,40,45,75
+925,maushold-family-of-four,165,3,23,"friend-guard, cheek-pouch, technician",normal,,pound,take-down,double-edge,hyper-beam,low-kick,74,75,70,65,75,111
+926,fidough,62,3,109,"own-tempo, klutz",fairy,,tackle,body-slam,take-down,double-edge,tail-whip,37,55,70,30,55,65
+927,dachsbun,167,5,149,"well-baked-body, aroma-veil",fairy,,tackle,body-slam,take-down,double-edge,tail-whip,57,80,115,50,80,95
+928,smoliv,52,3,65,"early-bird, harvest",grass,normal,tackle,absorb,mega-drain,leech-seed,growth,41,35,45,58,51,30
+929,dolliv,124,6,119,"early-bird, harvest",grass,normal,tackle,absorb,mega-drain,leech-seed,growth,52,53,60,78,78,33
+930,arboliva,255,14,482,"seed-sower, harvest",grass,normal,tackle,hyper-beam,absorb,mega-drain,leech-seed,78,69,90,125,109,39
+931,squawkabilly-green-plumage,146,6,24,"intimidate, hustle, guts",normal,flying,fly,fury-attack,take-down,double-edge,growl,82,96,51,45,51,92
+932,nacli,56,4,160,"purifying-salt, sturdy, clear-body",rock,,headbutt,tackle,body-slam,take-down,rock-throw,55,55,75,35,35,25
+933,naclstack,124,6,1050,"purifying-salt, sturdy, clear-body",rock,,headbutt,tackle,body-slam,take-down,double-edge,60,60,100,35,65,35
+934,garganacl,250,23,2400,"purifying-salt, sturdy, clear-body",rock,,fire-punch,ice-punch,thunder-punch,headbutt,tackle,100,100,130,45,90,35
+935,charcadet,51,6,105,"flash-fire, flame-body",fire,,take-down,leer,disable,ember,flamethrower,40,50,40,50,40,35
+936,armarouge,263,15,850,"flash-fire, weak-armor",fire,psychic,take-down,leer,ember,flamethrower,psybeam,85,60,100,125,80,75
+937,ceruledge,263,16,620,"flash-fire, weak-armor",fire,ghost,swords-dance,take-down,leer,ember,flamethrower,75,125,80,60,100,85
+938,tadbulb,54,3,4,"own-tempo, static, damp",electric,,tackle,water-gun,thunder-shock,thunderbolt,thunder-wave,61,31,41,59,35,45
+939,bellibolt,173,12,1130,"electromorphosis, static, damp",electric,,tackle,water-gun,hyper-beam,thunder-shock,thunderbolt,109,64,91,103,83,45
+940,wattrel,56,4,36,"wind-power, volt-absorb, competitive",electric,flying,fly,take-down,growl,peck,thunder-shock,40,40,35,55,40,70
+941,kilowattrel,172,14,386,"wind-power, volt-absorb, competitive",electric,flying,fly,take-down,growl,hyper-beam,peck,70,70,60,105,60,125
+942,maschiff,68,5,160,"intimidate, run-away, stakeout",dark,,headbutt,tackle,body-slam,take-down,double-edge,60,78,60,40,51,51
+943,mabosstiff,177,11,610,"intimidate, guard-dog, stakeout",dark,,headbutt,tackle,body-slam,take-down,double-edge,80,120,90,60,70,85
+944,shroodle,58,2,7,"unburden, pickpocket, prankster",poison,normal,scratch,swords-dance,take-down,double-edge,leer,40,65,35,40,35,75
+945,grafaiai,170,7,272,"unburden, poison-touch, prankster",poison,normal,scratch,swords-dance,take-down,double-edge,leer,63,95,65,80,72,110
+946,bramblin,55,6,6,"wind-rider, infiltrator",grass,ghost,disable,absorb,mega-drain,leech-seed,solar-beam,40,65,30,45,35,60
+947,brambleghast,168,12,60,"wind-rider, infiltrator",grass,ghost,disable,hyper-beam,absorb,mega-drain,leech-seed,55,115,70,80,70,90
+948,toedscool,67,9,330,"mycelium-might, mycelium-might",ground,grass,tackle,wrap,supersonic,absorb,mega-drain,40,40,35,50,100,70
+949,toedscruel,180,19,580,"mycelium-might, mycelium-might",ground,grass,tackle,wrap,supersonic,hyper-beam,absorb,80,70,65,80,120,100
+950,klawf,158,13,790,"anger-shell, shell-armor, regenerator",rock,,guillotine,swords-dance,body-slam,take-down,hyper-beam,70,100,115,35,55,75
+951,capsakid,61,3,30,"chlorophyll, insomnia, klutz",grass,,headbutt,take-down,leer,bite,leech-seed,50,62,40,62,40,50
+952,scovillain,170,9,150,"chlorophyll, insomnia, moody",grass,fire,headbutt,take-down,leer,bite,flamethrower,65,108,65,108,65,75
+953,rellor,54,2,10,"compound-eyes, shed-skin",bug,,sand-attack,tackle,take-down,dig,recover,41,50,60,31,58,30
+954,rabsca,165,3,35,"synchronize, telepathy",bug,psychic,sand-attack,tackle,take-down,psybeam,hyper-beam,75,50,85,115,100,45
+955,flittle,51,2,15,"anticipation, frisk, speed-boost",psychic,,take-down,growl,psybeam,peck,confusion,30,35,30,55,30,75
+956,espathra,168,19,900,"opportunist, frisk, speed-boost",psychic,,body-slam,take-down,double-edge,growl,psybeam,95,60,60,101,60,105
+957,tinkatink,59,4,89,"mold-breaker, own-tempo, pickpocket",fairy,steel,swords-dance,slam,thunder-wave,light-screen,reflect,50,45,45,35,64,58
+958,tinkatuff,133,7,591,"mold-breaker, own-tempo, pickpocket",fairy,steel,swords-dance,slam,thunder-wave,light-screen,reflect,65,55,55,45,82,78
+959,tinkaton,253,7,1128,"mold-breaker, own-tempo, pickpocket",fairy,steel,swords-dance,slam,thunder-wave,light-screen,reflect,85,75,77,70,105,94
+960,wiglett,49,12,18,"gooey, rattled, sand-veil",water,,slam,sand-attack,headbutt,wrap,take-down,10,55,25,35,25,95
+961,wugtrio,149,12,54,"gooey, rattled, sand-veil",water,,slam,sand-attack,headbutt,wrap,take-down,35,100,50,50,70,120
+962,bombirdier,243,15,429,"big-pecks, keen-eye, rocky-payload",flying,dark,wing-attack,whirlwind,fly,take-down,leer,70,103,85,60,85,82
+963,finizen,63,13,602,"water-veil, water-veil",water,,body-slam,take-down,supersonic,mist,water-gun,70,45,40,45,40,75
+964,palafin-zero,160,13,602,"zero-to-hero, zero-to-hero",water,,ice-punch,body-slam,take-down,supersonic,mist,100,70,72,53,62,100
+965,varoom,60,10,350,"overcoat, slow-start",steel,poison,headbutt,body-slam,take-down,double-edge,toxic,45,70,63,30,45,47
+966,revavroom,175,18,1200,"overcoat, filter",steel,poison,headbutt,body-slam,take-down,double-edge,hyper-beam,80,119,90,54,67,90
+967,cyclizar,175,16,630,"shed-skin, regenerator",dragon,normal,tackle,body-slam,take-down,double-edge,bite,70,95,65,85,65,121
+968,orthworm,240,25,3100,"earth-eater, sand-veil",steel,,tackle,body-slam,wrap,take-down,double-edge,70,85,145,60,55,65
+969,glimmet,70,7,80,"toxic-debris, corrosion",rock,poison,rock-throw,toxic,harden,confuse-ray,light-screen,48,35,42,105,60,60
+970,glimmora,184,15,450,"toxic-debris, corrosion",rock,poison,hyper-beam,solar-beam,rock-throw,toxic,harden,83,55,90,130,81,86
+971,greavard,58,6,350,"pickup, fluffy",ghost,,headbutt,tackle,take-down,double-edge,tail-whip,50,61,60,30,55,34
+972,houndstone,171,20,150,"sand-rush, fluffy",ghost,,headbutt,tackle,take-down,double-edge,tail-whip,72,101,100,50,97,68
+973,flamigo,175,16,370,"scrappy, tangled-feet, costar",flying,fighting,swords-dance,wing-attack,fly,double-kick,mega-kick,82,115,74,75,64,90
+974,cetoddle,67,12,450,"thick-fat, snow-cloak, sheer-force",ice,,tackle,body-slam,take-down,double-edge,growl,108,68,45,30,40,43
+975,cetitan,182,45,7000,"thick-fat, slush-rush, sheer-force",ice,,ice-punch,tackle,body-slam,take-down,double-edge,170,113,65,45,55,73
+976,veluza,167,25,900,"mold-breaker, sharpness",water,psychic,tackle,body-slam,take-down,thrash,double-edge,90,102,73,78,65,70
+977,dondozo,265,120,2200,"unaware, oblivious, water-veil",water,,tackle,body-slam,take-down,thrash,double-edge,150,100,115,65,65,35
+978,tatsugiri-curly,166,3,80,"commander, storm-drain",dragon,water,take-down,water-gun,hydro-pump,surf,hyper-beam,68,50,60,120,95,82
+979,annihilape,268,12,560,"vital-spirit, inner-focus, defiant",fighting,ghost,fire-punch,ice-punch,thunder-punch,scratch,body-slam,110,115,80,50,90,90
+980,clodsire,151,18,2230,"poison-point, water-absorb, unaware",poison,ground,slam,body-slam,take-down,double-edge,tail-whip,130,75,60,45,100,20
+981,farigiraf,260,32,1600,"cud-chew, armor-tail, sap-sipper",normal,psychic,stomp,tackle,body-slam,take-down,double-edge,120,90,70,110,70,60
+982,dudunsparce-two-segment,182,36,392,"serene-grace, run-away, rattled",normal,,body-slam,take-down,double-edge,flamethrower,ice-beam,125,100,80,85,75,55
+983,kingambit,275,20,1200,"defiant, supreme-overlord, pressure",dark,steel,scratch,guillotine,swords-dance,take-down,leer,100,135,120,60,85,50
+984,great-tusk,285,22,3200,protosynthesis,ground,fighting,horn-attack,body-slam,take-down,double-edge,roar,115,131,131,53,53,87
+985,scream-tail,285,12,80,protosynthesis,fairy,psychic,pound,fire-punch,ice-punch,thunder-punch,body-slam,115,65,99,65,115,111
+986,brute-bonnet,285,12,210,protosynthesis,grass,dark,body-slam,thrash,double-edge,hyper-beam,absorb,111,127,99,79,99,55
+987,flutter-mane,285,14,40,protosynthesis,ghost,fairy,psybeam,hyper-beam,thunderbolt,thunder-wave,thunder,55,55,55,135,135,135
+988,slither-wing,285,32,920,protosynthesis,bug,fighting,gust,whirlwind,stomp,body-slam,take-down,85,135,79,85,105,81
+989,sandy-shocks,285,23,600,protosynthesis,electric,ground,body-slam,take-down,supersonic,hyper-beam,thunder-shock,85,81,97,121,85,101
+990,iron-treads,285,9,2400,quark-drive,ground,steel,horn-attack,body-slam,take-down,double-edge,hyper-beam,90,112,120,72,70,106
+991,iron-bundle,285,6,110,quark-drive,ice,water,ice-punch,body-slam,take-down,hydro-pump,ice-beam,56,80,114,124,60,136
+992,iron-hands,285,18,3807,quark-drive,fighting,electric,fire-punch,ice-punch,thunder-punch,swords-dance,whirlwind,154,140,108,50,68,50
+993,iron-jugulis,285,13,1110,quark-drive,dark,flying,fly,body-slam,take-down,double-edge,roar,94,80,86,122,80,108
+994,iron-moth,285,12,360,quark-drive,fire,poison,gust,whirlwind,take-down,ember,flamethrower,80,70,60,140,110,110
+995,iron-thorns,285,16,3030,quark-drive,rock,electric,fire-punch,ice-punch,thunder-punch,swords-dance,body-slam,100,134,110,70,84,72
+996,frigibax,64,5,170,"thermal-exchange, ice-body",dragon,ice,swords-dance,tackle,body-slam,take-down,leer,65,75,45,35,45,55
+997,arctibax,148,8,300,"thermal-exchange, ice-body",dragon,ice,swords-dance,tackle,body-slam,take-down,leer,90,95,66,45,65,62
+998,baxcalibur,300,21,2100,"thermal-exchange, ice-body",dragon,ice,swords-dance,tackle,body-slam,take-down,double-edge,115,145,92,75,86,87
+999,gimmighoul-chest,60,3,50,rattled,ghost,,tackle,take-down,night-shade,confuse-ray,light-screen,45,30,70,75,70,10
+1000,gholdengo,275,12,300,good-as-gold,steel,ghost,thunder-punch,tackle,take-down,hyper-beam,low-kick,87,60,95,133,91,84
+1001,wo-chien,285,15,742,tablets-of-ruin,dark,grass,body-slam,take-down,hyper-beam,absorb,mega-drain,85,85,100,95,135,70
+1002,chien-pao,285,19,1522,sword-of-ruin,dark,ice,swords-dance,take-down,mist,blizzard,hyper-beam,80,120,80,90,65,135
+1003,ting-lu,285,27,6997,vessel-of-ruin,dark,ground,whirlwind,stomp,body-slam,take-down,thrash,155,110,125,55,80,45
+1004,chi-yu,285,4,49,beads-of-ruin,dark,fire,take-down,ember,flamethrower,hyper-beam,fire-spin,55,80,80,135,120,100
+1005,roaring-moon,295,20,3800,protosynthesis,dragon,dark,fly,headbutt,body-slam,take-down,double-edge,105,139,71,55,101,119
+1006,iron-valiant,295,14,350,quark-drive,fairy,fighting,fire-punch,ice-punch,thunder-punch,swords-dance,disable,74,130,90,120,60,116
+1007,koraidon-apex-build,335,25,3030,orichalcum-pulse,fighting,dragon,swords-dance,body-slam,take-down,double-edge,roar,100,135,115,85,100,135
+1008,miraidon-ultimate-mode,335,35,2400,hadron-engine,electric,dragon,swords-dance,body-slam,take-down,hyper-beam,solar-beam,100,85,100,135,115,135
+1009,walking-wake,295,35,2800,protosynthesis,water,dragon,body-slam,take-down,double-edge,leer,bite,99,83,91,125,83,109
+1010,iron-leaves,295,15,1250,quark-drive,grass,psychic,swords-dance,take-down,double-edge,leer,hyper-beam,90,130,88,70,108,104
+1011,dipplin,170,4,97,"supersweet-syrup, gluttony, sticky-hold",grass,dragon,body-slam,take-down,hyper-beam,growth,solar-beam,80,80,110,95,80,40
+1012,poltchageist-counterfeit,62,1,11,"hospitality, heatproof",grass,ghost,absorb,mega-drain,solar-beam,stun-spore,night-shade,40,45,45,74,54,50
+1013,sinistcha-unremarkable,178,2,22,"hospitality, heatproof",grass,ghost,hyper-beam,absorb,mega-drain,solar-beam,stun-spore,71,60,106,121,80,70
+1014,okidogi,278,18,922,"toxic-chain, guard-dog",poison,fighting,fire-punch,ice-punch,thunder-punch,body-slam,take-down,88,128,115,58,86,80
+1015,munkidori,278,10,122,"toxic-chain, frisk",poison,psychic,scratch,psybeam,hyper-beam,toxic,confusion,88,75,66,130,90,106
+1016,fezandipiti,278,14,301,"toxic-chain, technician",poison,fairy,swords-dance,wing-attack,fly,double-kick,take-down,88,91,82,70,125,99
+1017,ogerpon,275,12,398,defiant,grass,,swords-dance,slam,vine-whip,double-kick,take-down,80,120,84,60,96,110
+1018,archaludon,300,20,600,"stamina, sturdy, stalwart",steel,dragon,swords-dance,body-slam,take-down,double-edge,leer,90,105,130,125,65,85
+1019,hydrapple,270,18,930,"supersweet-syrup, regenerator, sticky-hold",grass,dragon,body-slam,take-down,double-edge,hydro-pump,hyper-beam,106,80,110,120,80,44
+1020,gouging-fire,295,35,5900,protosynthesis,fire,dragon,stomp,double-kick,body-slam,take-down,double-edge,105,115,121,65,93,91
+1021,raging-bolt,295,52,4800,protosynthesis,electric,dragon,stomp,body-slam,take-down,double-edge,roar,125,73,91,137,89,75
+1022,iron-boulder,295,15,1625,quark-drive,rock,psychic,swords-dance,horn-attack,body-slam,take-down,double-edge,90,120,80,68,108,124
+1023,iron-crown,295,16,1560,quark-drive,steel,psychic,swords-dance,body-slam,take-down,double-edge,leer,90,72,100,122,108,98
+1024,terapagos,90,2,65,tera-shift,normal,,headbutt,body-slam,take-down,double-edge,roar,90,65,85,65,85,60
+1025,pecharunt,300,3,3,poison-puppeteer,poison,ghost,toxic,night-shade,recover,withdraw,defense-curl,88,88,160,88,88,88
+10001,deoxys-attack,270,17,608,pressure,psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,cut,50,180,20,180,20,150
+10002,deoxys-defense,270,17,608,pressure,psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,cut,50,70,160,70,160,90
+10003,deoxys-speed,270,17,608,pressure,psychic,,mega-punch,fire-punch,ice-punch,thunder-punch,cut,50,95,90,95,90,180
+10004,wormadam-sandy,148,5,65,"anticipation, overcoat",bug,ground,gust,tackle,psybeam,hyper-beam,solar-beam,60,79,105,59,85,36
+10005,wormadam-trash,148,5,65,"anticipation, overcoat",bug,steel,gust,tackle,psybeam,hyper-beam,solar-beam,60,69,95,69,95,36
+10006,shaymin-sky,270,4,52,serene-grace,grass,flying,swords-dance,headbutt,take-down,double-edge,hyper-beam,100,103,75,120,75,127
+10007,giratina-origin,340,69,6500,levitate,ghost,dragon,cut,fly,headbutt,body-slam,take-down,150,120,100,120,100,90
+10008,rotom-heat,182,3,3,levitate,electric,fire,thunder-shock,thunderbolt,thunder-wave,thunder,toxic,50,65,107,105,107,86
+10009,rotom-wash,182,3,3,levitate,electric,water,hydro-pump,thunder-shock,thunderbolt,thunder-wave,thunder,50,65,107,105,107,86
+10010,rotom-frost,182,3,3,levitate,electric,ice,blizzard,thunder-shock,thunderbolt,thunder-wave,thunder,50,65,107,105,107,86
+10011,rotom-fan,182,3,3,levitate,electric,flying,thunder-shock,thunderbolt,thunder-wave,thunder,toxic,50,65,107,105,107,86
+10012,rotom-mow,182,3,3,levitate,electric,grass,thunder-shock,thunderbolt,thunder-wave,thunder,toxic,50,65,107,105,107,86
+10013,castform-sunny,147,3,8,forecast,fire,,headbutt,tackle,body-slam,double-edge,disable,70,70,70,70,70,70
+10014,castform-rainy,147,3,8,forecast,water,,headbutt,tackle,body-slam,double-edge,disable,70,70,70,70,70,70
+10015,castform-snowy,147,3,8,forecast,ice,,headbutt,tackle,body-slam,double-edge,disable,70,70,70,70,70,70
+10016,basculin-blue-striped,161,10,180,"rock-head, adaptability, mold-breaker",water,,cut,headbutt,tackle,take-down,thrash,70,92,65,80,55,98
+10017,darmanitan-zen,189,13,929,"sheer-force, zen-mode",fire,psychic,mega-punch,fire-punch,mega-kick,headbutt,tackle,105,30,105,140,105,55
+10018,meloetta-pirouette,270,6,65,serene-grace,normal,fighting,fire-punch,ice-punch,thunder-punch,swords-dance,sing,100,128,90,77,77,128
+10019,tornadus-therian,290,14,630,regenerator,flying,,gust,fly,body-slam,take-down,thrash,79,100,80,110,90,121
+10020,thundurus-therian,290,30,610,volt-absorb,electric,flying,thunder-punch,fly,body-slam,take-down,thrash,79,105,70,145,80,101
+10021,landorus-therian,300,13,680,intimidate,ground,flying,swords-dance,fly,body-slam,take-down,leer,89,145,90,105,80,91
+10022,kyurem-black,350,33,3250,teravolt,dragon,ice,cut,fly,body-slam,take-down,roar,125,170,100,120,90,95
+10023,kyurem-white,350,36,3250,turboblaze,dragon,ice,cut,fly,body-slam,take-down,roar,125,120,90,170,100,95
+10024,keldeo-resolute,290,14,485,justified,water,fighting,swords-dance,cut,double-kick,take-down,double-edge,91,72,90,129,90,108
+10025,meowstic-female,163,6,85,"keen-eye, infiltrator, competitive",psychic,,pay-day,scratch,cut,leer,psybeam,74,48,76,83,81,104
+10026,aegislash-blade,250,17,530,stance-change,steel,ghost,swords-dance,cut,tackle,hyper-beam,toxic,60,140,50,140,50,60
+10027,pumpkaboo-small,67,3,35,"pickup, frisk, insomnia",ghost,grass,disable,flamethrower,leech-seed,razor-leaf,solar-beam,44,66,70,44,55,56
+10028,pumpkaboo-large,67,5,75,"pickup, frisk, insomnia",ghost,grass,disable,flamethrower,leech-seed,razor-leaf,solar-beam,54,66,70,44,55,46
+10029,pumpkaboo-super,67,8,150,"pickup, frisk, insomnia",ghost,grass,disable,flamethrower,leech-seed,razor-leaf,solar-beam,59,66,70,44,55,41
+10030,gourgeist-small,173,7,95,"pickup, frisk, insomnia",ghost,grass,flamethrower,hyper-beam,leech-seed,razor-leaf,solar-beam,55,85,122,58,75,99
+10031,gourgeist-large,173,11,140,"pickup, frisk, insomnia",ghost,grass,flamethrower,hyper-beam,leech-seed,razor-leaf,solar-beam,75,95,122,58,75,69
+10032,gourgeist-super,173,17,390,"pickup, frisk, insomnia",ghost,grass,flamethrower,hyper-beam,leech-seed,razor-leaf,solar-beam,85,100,122,58,75,54
+10033,venusaur-mega,281,24,1555,thick-fat,grass,poison,swords-dance,cut,bind,vine-whip,headbutt,80,100,123,122,120,80
+10034,charizard-mega-x,285,17,1105,tough-claws,fire,dragon,fire-punch,thunder-punch,scratch,swords-dance,cut,78,130,111,130,85,100
+10035,charizard-mega-y,285,17,1005,drought,fire,flying,fire-punch,thunder-punch,scratch,swords-dance,cut,78,104,78,159,115,100
+10036,blastoise-mega,284,16,1011,mega-launcher,water,,ice-punch,headbutt,tackle,tail-whip,bite,79,103,120,135,115,78
+10037,alakazam-mega,270,12,480,trace,psychic,,fire-punch,ice-punch,thunder-punch,headbutt,disable,55,50,65,175,105,150
+10038,gengar-mega,270,14,405,shadow-tag,ghost,poison,fire-punch,ice-punch,thunder-punch,headbutt,disable,60,65,80,170,95,130
+10039,kangaskhan-mega,207,22,1000,parental-bond,normal,,comet-punch,mega-punch,fire-punch,ice-punch,thunder-punch,105,125,100,60,100,100
+10040,pinsir-mega,210,17,590,aerilate,bug,flying,vice-grip,guillotine,swords-dance,cut,bind,65,155,120,65,90,105
+10041,gyarados-mega,224,65,3050,mold-breaker,water,dark,bind,headbutt,thrash,leer,bite,95,155,109,70,130,81
+10042,aerodactyl-mega,215,21,790,tough-claws,rock,flying,wing-attack,whirlwind,fly,headbutt,take-down,80,135,85,70,95,150
+10043,mewtwo-mega-x,351,23,1270,steadfast,psychic,fighting,pay-day,fire-punch,ice-punch,thunder-punch,headbutt,106,190,100,154,100,130
+10044,mewtwo-mega-y,351,15,330,insomnia,psychic,,pay-day,fire-punch,ice-punch,thunder-punch,headbutt,106,150,70,194,120,140
+10045,ampharos-mega,275,14,615,mold-breaker,electric,dragon,fire-punch,thunder-punch,tackle,take-down,growl,90,95,105,165,110,45
+10046,scizor-mega,210,20,1250,technician,bug,steel,razor-wind,swords-dance,cut,leer,hyper-beam,70,150,140,65,100,75
+10047,heracross-mega,210,17,625,skill-link,bug,fighting,swords-dance,cut,horn-attack,fury-attack,tackle,80,185,115,40,105,75
+10048,houndoom-mega,210,19,495,solar-power,dark,fire,leer,bite,roar,ember,flamethrower,75,90,90,140,90,115
+10049,tyranitar-mega,315,25,2550,sand-stream,rock,dark,fire-punch,ice-punch,thunder-punch,cut,thrash,100,164,150,95,120,71
+10050,blaziken-mega,284,19,520,speed-boost,fire,fighting,fire-punch,thunder-punch,scratch,swords-dance,cut,80,160,80,130,80,100
+10051,gardevoir-mega,278,16,484,pixilate,psychic,fairy,fire-punch,ice-punch,thunder-punch,growl,hyper-beam,68,85,65,165,135,100
+10052,mawile-mega,168,10,235,huge-power,steel,fairy,ice-punch,thunder-punch,vice-grip,swords-dance,slam,50,105,125,55,95,50
+10053,aggron-mega,284,22,3950,filter,steel,,fire-punch,ice-punch,thunder-punch,cut,headbutt,70,140,230,60,80,50
+10054,medicham-mega,179,13,315,pure-power,fighting,psychic,fire-punch,ice-punch,thunder-punch,hyper-beam,low-kick,60,100,85,80,85,100
+10055,manectric-mega,201,18,440,intimidate,electric,,tackle,leer,bite,roar,flamethrower,70,75,80,135,80,135
+10056,banette-mega,194,12,130,prankster,ghost,,hyper-beam,thunderbolt,thunder-wave,thunder,toxic,64,165,75,93,83,75
+10057,absol-mega,198,12,490,magic-bounce,dark,,scratch,razor-wind,swords-dance,cut,double-edge,65,150,60,115,60,115
+10058,garchomp-mega,315,19,950,sand-force,dragon,ground,swords-dance,cut,sand-attack,tackle,take-down,108,170,115,120,95,92
+10059,lucario-mega,219,13,575,adaptability,fighting,steel,ice-punch,thunder-punch,swords-dance,roar,hyper-beam,70,145,88,140,70,112
+10060,abomasnow-mega,208,27,1850,snow-warning,grass,ice,ice-punch,swords-dance,leer,mist,ice-beam,90,132,105,132,105,30
+10061,floette-eternal,243,2,9,"flower-veil, symbiosis",fairy,,vine-whip,tackle,razor-leaf,solar-beam,petal-dance,74,65,67,125,128,92
+10062,latias-mega,315,18,520,levitate,dragon,psychic,cut,fly,roar,surf,ice-beam,80,100,120,140,150,110
+10063,latios-mega,315,23,700,levitate,dragon,psychic,cut,fly,roar,surf,ice-beam,80,130,100,160,120,110
+10064,swampert-mega,286,19,1020,swift-swim,water,ground,ice-punch,tackle,take-down,growl,roar,100,150,110,95,110,70
+10065,sceptile-mega,284,19,552,lightning-rod,grass,dragon,pound,thunder-punch,swords-dance,cut,slam,70,110,75,145,85,145
+10066,sableye-mega,168,5,1610,magic-bounce,dark,ghost,fire-punch,ice-punch,thunder-punch,scratch,cut,50,85,125,85,115,20
+10067,altaria-mega,207,15,206,pixilate,dragon,fairy,fly,fury-attack,take-down,growl,roar,75,110,110,110,105,80
+10068,gallade-mega,278,16,564,inner-focus,psychic,fighting,fire-punch,ice-punch,thunder-punch,swords-dance,cut,68,165,95,65,115,110
+10069,audino-mega,425,15,320,healer,normal,fairy,pound,double-slap,fire-punch,ice-punch,thunder-punch,103,60,126,80,126,50
+10070,sharpedo-mega,196,25,1303,strong-jaw,water,dark,leer,bite,roar,surf,ice-beam,70,140,70,110,65,105
+10071,slowbro-mega,207,20,1200,shell-armor,water,psychic,pay-day,ice-punch,stomp,headbutt,tackle,95,75,180,130,80,30
+10072,steelix-mega,214,105,7400,sand-force,steel,ground,cut,bind,slam,tackle,double-edge,75,125,230,55,95,30
+10073,pidgeot-mega,261,22,505,no-guard,normal,flying,razor-wind,gust,wing-attack,whirlwind,fly,83,80,80,135,80,121
+10074,glalie-mega,203,21,3502,refrigerate,ice,,headbutt,leer,bite,ice-beam,blizzard,80,120,80,120,80,100
+10075,diancie-mega,315,11,278,magic-bounce,rock,fairy,tackle,hyper-beam,rock-throw,toxic,psychic,50,160,110,160,110,110
+10076,metagross-mega,315,25,9429,tough-claws,steel,psychic,ice-punch,thunder-punch,cut,take-down,hyper-beam,80,145,150,105,110,110
+10077,kyogre-primal,347,98,4300,primordial-sea,water,,body-slam,double-edge,roar,hydro-pump,surf,100,150,90,180,160,90
+10078,groudon-primal,347,50,9997,desolate-land,ground,fire,fire-punch,thunder-punch,swords-dance,cut,roar,100,180,160,150,90,90
+10079,rayquaza-mega,351,108,3920,delta-stream,dragon,flying,swords-dance,fly,bind,roar,flamethrower,105,180,100,180,100,115
+10080,pikachu-rock-star,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10081,pikachu-belle,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10082,pikachu-pop-star,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10083,pikachu-phd,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10084,pikachu-libre,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10085,pikachu-cosplay,112,4,60,"static, lightning-rod",electric,,thunder-punch,slam,tail-whip,growl,strength,35,55,40,50,50,90
+10086,hoopa-unbound,306,65,4900,magician,psychic,dark,fire-punch,ice-punch,thunder-punch,take-down,psybeam,80,160,60,170,130,80
+10087,camerupt-mega,196,25,3205,sheer-force,fire,ground,tackle,take-down,growl,roar,ember,70,120,100,145,105,20
+10088,lopunny-mega,203,13,283,scrappy,normal,fighting,pound,fire-punch,ice-punch,thunder-punch,cut,65,136,94,54,96,135
+10089,salamence-mega,315,18,1126,aerilate,dragon,flying,cut,fly,headbutt,double-edge,leer,95,145,130,120,90,120
+10090,beedrill-mega,223,14,405,adaptability,bug,poison,swords-dance,cut,headbutt,fury-attack,twineedle,65,150,40,15,80,145
+10091,rattata-alola,51,3,38,"gluttony, hustle, thick-fat",dark,normal,headbutt,tackle,double-edge,tail-whip,bite,30,56,35,25,35,72
+10092,raticate-alola,145,7,255,"gluttony, hustle, thick-fat",dark,normal,swords-dance,headbutt,tackle,double-edge,tail-whip,75,71,70,40,80,77
+10093,raticate-totem-alola,145,14,1050,"gluttony, hustle, thick-fat",dark,normal,swords-dance,tackle,double-edge,tail-whip,bite,75,71,70,40,80,77
+10094,pikachu-original-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10095,pikachu-hoenn-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10096,pikachu-sinnoh-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10097,pikachu-unova-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10098,pikachu-kalos-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10099,pikachu-alola-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10100,raichu-alola,243,7,210,surge-surfer,electric,psychic,mega-punch,pay-day,thunder-punch,slam,mega-kick,60,85,50,95,85,110
+10101,sandshrew-alola,60,7,400,"snow-cloak, slush-rush",ice,steel,ice-punch,scratch,swords-dance,headbutt,body-slam,50,75,90,10,35,40
+10102,sandslash-alola,158,12,550,"snow-cloak, slush-rush",ice,steel,ice-punch,scratch,swords-dance,headbutt,body-slam,75,100,120,25,65,65
+10103,vulpix-alola,60,6,99,"snow-cloak, snow-warning",ice,,headbutt,tackle,body-slam,take-down,double-edge,38,41,40,50,65,65
+10104,ninetales-alola,177,11,199,"snow-cloak, snow-warning",ice,fairy,headbutt,tackle,body-slam,take-down,double-edge,73,67,75,81,100,109
+10105,diglett-alola,53,2,10,"sand-veil, tangling-hair, sand-force",ground,steel,scratch,swords-dance,sand-attack,headbutt,body-slam,10,55,30,35,45,90
+10106,dugtrio-alola,149,7,666,"sand-veil, tangling-hair, sand-force",ground,steel,scratch,swords-dance,sand-attack,headbutt,body-slam,35,100,60,50,70,110
+10107,meowth-alola,58,4,42,"pickup, technician, rattled",dark,,pay-day,scratch,headbutt,body-slam,take-down,40,35,35,50,40,90
+10108,persian-alola,154,11,330,"fur-coat, technician, rattled",dark,,pay-day,scratch,headbutt,body-slam,take-down,65,60,60,75,65,115
+10109,geodude-alola,60,4,203,"magnet-pull, sturdy, galvanize",rock,electric,fire-punch,thunder-punch,headbutt,tackle,body-slam,40,80,100,30,30,20
+10110,graveler-alola,137,10,1100,"magnet-pull, sturdy, galvanize",rock,electric,fire-punch,thunder-punch,headbutt,tackle,body-slam,55,95,115,45,45,35
+10111,golem-alola,223,17,3160,"magnet-pull, sturdy, galvanize",rock,electric,mega-punch,fire-punch,thunder-punch,headbutt,tackle,80,120,130,55,65,45
+10112,grimer-alola,65,7,420,"poison-touch, gluttony, power-of-alchemy",poison,dark,pound,fire-punch,ice-punch,thunder-punch,headbutt,80,80,50,40,50,25
+10113,muk-alola,175,10,520,"poison-touch, gluttony, power-of-alchemy",poison,dark,pound,fire-punch,ice-punch,thunder-punch,headbutt,105,105,75,65,100,50
+10114,exeggutor-alola,186,109,4156,"frisk, harvest",grass,dragon,swords-dance,headbutt,body-slam,take-down,double-edge,95,105,85,125,75,45
+10115,marowak-alola,149,10,340,"cursed-body, lightning-rod, rock-head",fire,ghost,mega-punch,fire-punch,thunder-punch,swords-dance,mega-kick,60,80,110,50,80,45
+10116,greninja-battle-bond,239,15,400,battle-bond,water,dark,pound,ice-punch,growl,hydro-pump,surf,72,95,67,103,71,122
+10117,greninja-ash,288,15,400,battle-bond,water,dark,pound,ice-punch,swords-dance,take-down,growl,72,145,67,153,71,132
+10118,zygarde-10-power-construct,243,12,335,power-construct,dragon,ground,bind,body-slam,bite,hyper-beam,earthquake,54,100,71,61,85,115
+10119,zygarde-50-power-construct,300,50,3050,power-construct,dragon,ground,bind,body-slam,bite,hyper-beam,earthquake,108,100,121,81,95,95
+10120,zygarde-complete,354,45,6100,power-construct,dragon,ground,bind,body-slam,bite,hyper-beam,earthquake,216,100,121,91,95,85
+10121,gumshoos-totem,146,14,600,"stakeout, strong-jaw, adaptability",normal,,fire-punch,ice-punch,thunder-punch,sand-attack,tackle,88,110,60,55,60,45
+10122,vikavolt-totem,225,26,1475,levitate,bug,electric,vice-grip,guillotine,bite,hyper-beam,solar-beam,77,70,90,145,75,43
+10123,oricorio-pom-pom,167,6,34,dancer,electric,flying,pound,double-slap,swords-dance,fly,take-down,75,70,70,98,70,93
+10124,oricorio-pau,167,6,34,dancer,psychic,flying,pound,double-slap,swords-dance,fly,take-down,75,70,70,98,70,93
+10125,oricorio-sensu,167,6,34,dancer,ghost,flying,pound,double-slap,swords-dance,fly,take-down,75,70,70,98,70,93
+10126,lycanroc-midnight,170,11,250,"keen-eye, vital-spirit, no-guard",rock,,mega-punch,fire-punch,thunder-punch,swords-dance,mega-kick,85,115,75,55,75,82
+10127,wishiwashi-school,217,82,786,schooling,water,,take-down,double-edge,growl,mist,water-gun,45,140,130,140,135,30
+10128,lurantis-totem,168,15,580,"leaf-guard, contrary",grass,,swords-dance,hyper-beam,growth,razor-leaf,solar-beam,70,105,90,80,90,45
+10129,salazzle-totem,168,21,810,"corrosion, oblivious",poison,fire,pound,double-slap,disable,ember,flamethrower,68,64,60,111,60,117
+10130,minior-orange-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10131,minior-yellow-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10132,minior-green-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10133,minior-blue-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10134,minior-indigo-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10135,minior-violet-meteor,154,3,400,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,60,100,60,100,60
+10136,minior-red,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10137,minior-orange,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10138,minior-yellow,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10139,minior-green,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10140,minior-blue,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10141,minior-indigo,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10142,minior-violet,175,3,3,shields-down,rock,flying,tackle,take-down,double-edge,hyper-beam,solar-beam,60,100,60,100,60,120
+10143,mimikyu-busted,167,2,7,disguise,ghost,fairy,scratch,swords-dance,take-down,surf,hyper-beam,55,90,80,50,105,96
+10144,mimikyu-totem-disguised,167,4,28,disguise,ghost,fairy,scratch,swords-dance,hyper-beam,thunderbolt,thunder-wave,55,90,80,50,105,96
+10145,mimikyu-totem-busted,167,4,28,disguise,ghost,fairy,scratch,swords-dance,surf,hyper-beam,thunderbolt,55,90,80,50,105,96
+10146,kommo-o-totem,270,24,2075,"bulletproof, soundproof, overcoat",dragon,fighting,fire-punch,ice-punch,thunder-punch,swords-dance,headbutt,75,110,125,100,105,85
+10147,magearna-original,300,10,805,soul-heart,steel,fairy,body-slam,take-down,sonic-boom,ice-beam,psybeam,80,95,115,130,115,65
+10148,pikachu-partner-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10149,marowak-totem,149,17,980,"cursed-body, lightning-rod, rock-head",fire,ghost,fire-punch,thunder-punch,swords-dance,thrash,tail-whip,60,80,110,50,80,45
+10150,ribombee-totem,162,4,20,"honey-gather, shield-dust, sweet-veil",bug,fairy,absorb,solar-beam,stun-spore,toxic,psychic,60,55,60,95,70,124
+10151,rockruff-own-tempo,56,5,92,own-tempo,rock,,swords-dance,sand-attack,tackle,body-slam,take-down,45,65,40,30,40,60
+10152,lycanroc-dusk,170,8,250,tough-claws,rock,,swords-dance,sand-attack,tackle,take-down,thrash,75,117,65,55,65,110
+10153,araquanid-totem,159,31,2175,"water-bubble, water-absorb",water,bug,bite,surf,ice-beam,blizzard,bubble-beam,68,70,92,50,132,42
+10154,togedemaru-totem,152,6,130,"iron-barbs, lightning-rod, sturdy",electric,steel,tackle,twineedle,pin-missile,thunder-shock,thunderbolt,65,98,63,40,73,96
+10155,necrozma-dusk,340,38,4600,prism-armor,psychic,steel,swords-dance,body-slam,hyper-beam,solar-beam,thunder-wave,97,157,127,113,109,77
+10156,necrozma-dawn,340,42,3500,prism-armor,psychic,ghost,swords-dance,body-slam,hyper-beam,solar-beam,thunder-wave,97,113,109,157,127,77
+10157,necrozma-ultra,339,75,2300,neuroforce,psychic,dragon,swords-dance,hyper-beam,solar-beam,thunder-wave,earthquake,97,167,97,167,97,129
+10158,pikachu-starter,86,4,60,"static, lightning-rod",electric,,pay-day,thunder-punch,slam,double-kick,headbutt,45,80,50,75,60,120
+10159,eevee-starter,87,3,65,"run-away, adaptability, anticipation",normal,,pay-day,double-kick,sand-attack,headbutt,tackle,65,75,70,65,85,75
+10160,pikachu-world-cap,112,4,60,"static, lightning-rod",electric,,mega-punch,pay-day,thunder-punch,slam,mega-kick,35,55,40,50,50,90
+10161,meowth-galar,58,4,75,"pickup, tough-claws, unnerve",steel,,pay-day,scratch,swords-dance,body-slam,take-down,50,65,55,40,40,40
+10162,ponyta-galar,82,8,240,"run-away, pastel-veil, anticipation",psychic,,stomp,double-kick,horn-drill,tackle,body-slam,50,85,55,65,65,90
+10163,rapidash-galar,175,17,800,"run-away, pastel-veil, anticipation",psychic,fairy,pay-day,swords-dance,stomp,tackle,body-slam,65,100,70,80,80,105
+10164,slowpoke-galar,63,12,360,"gluttony, own-tempo, regenerator",psychic,,pay-day,stomp,headbutt,tackle,body-slam,90,65,65,40,40,15
+10165,slowbro-galar,172,16,705,"quick-draw, own-tempo, regenerator",poison,psychic,mega-punch,pay-day,ice-punch,mega-kick,headbutt,95,100,95,100,70,30
+10166,farfetchd-galar,132,8,420,"steadfast, scrappy",fighting,,swords-dance,slam,sand-attack,body-slam,double-edge,52,95,55,58,62,55
+10167,weezing-galar,172,30,160,"levitate, neutralizing-gas, misty-surge",poison,fairy,tackle,body-slam,take-down,double-edge,flamethrower,65,90,120,85,70,60
+10168,mr-mime-galar,161,14,568,"vital-spirit, screen-cleaner, ice-body",ice,psychic,pound,mega-punch,ice-punch,double-kick,mega-kick,50,65,65,90,90,100
+10169,articuno-galar,290,17,509,competitive,psychic,flying,gust,fly,take-down,psybeam,hyper-beam,90,85,85,125,100,95
+10170,zapdos-galar,290,16,582,defiant,fighting,flying,fly,mega-kick,take-down,double-edge,hyper-beam,90,125,90,85,90,100
+10171,moltres-galar,290,20,660,berserk,dark,flying,gust,wing-attack,fly,take-down,leer,90,85,90,100,125,90
+10172,slowking-galar,172,18,795,"curious-medicine, own-tempo, regenerator",poison,psychic,mega-punch,pay-day,fire-punch,ice-punch,thunder-punch,95,65,80,110,110,30
+10173,corsola-galar,144,6,5,"weak-armor, cursed-body",ghost,,tackle,body-slam,disable,hydro-pump,surf,60,55,100,65,100,30
+10174,zigzagoon-galar,56,4,175,"pickup, gluttony, quick-feet",dark,normal,sand-attack,headbutt,tackle,body-slam,take-down,38,30,41,30,41,60
+10175,linoone-galar,147,5,325,"pickup, gluttony, quick-feet",dark,normal,sand-attack,headbutt,tackle,body-slam,take-down,78,70,61,50,61,100
+10176,darumaka-galar,63,7,400,"hustle, inner-focus",ice,,mega-punch,fire-punch,ice-punch,mega-kick,headbutt,70,90,45,15,45,50
+10177,darmanitan-galar-standard,168,17,1200,"gorilla-tactics, zen-mode",ice,,mega-punch,fire-punch,ice-punch,mega-kick,headbutt,105,140,55,30,55,95
+10178,darmanitan-galar-zen,189,17,1200,"gorilla-tactics, zen-mode",ice,fire,mega-punch,fire-punch,ice-punch,mega-kick,headbutt,105,160,55,30,55,135
+10179,yamask-galar,61,5,15,wandering-spirit,ground,ghost,slam,disable,earthquake,psychic,night-shade,38,55,85,30,65,30
+10180,stunfisk-galar,165,7,205,mimicry,ground,steel,bind,tackle,water-gun,surf,counter,109,81,99,66,84,32
+10181,zygarde-10,243,12,335,aura-break,dragon,ground,bind,body-slam,bite,hyper-beam,earthquake,54,100,71,61,85,115
+10182,cramorant-gulping,166,8,180,gulp-missile,flying,water,fly,fury-attack,thrash,water-gun,hydro-pump,70,85,55,85,95,85
+10183,cramorant-gorging,166,8,180,gulp-missile,flying,water,fly,fury-attack,thrash,water-gun,hydro-pump,70,85,55,85,95,85
+10184,toxtricity-low-key,176,16,400,"punk-rock, minus, technician",electric,poison,mega-punch,fire-punch,thunder-punch,mega-kick,take-down,75,98,70,114,70,75
+10185,eiscue-noice,165,14,890,ice-face,ice,,ice-punch,headbutt,tackle,body-slam,take-down,75,80,70,65,50,130
+10186,indeedee-female,166,9,280,"own-tempo, synchronize, psychic-surge",psychic,normal,pay-day,body-slam,take-down,psybeam,psychic,70,55,65,95,105,85
+10187,morpeko-hangry,153,3,30,hunger-switch,electric,dark,thunder-punch,take-down,thrash,double-edge,tail-whip,58,95,58,70,58,97
+10188,zacian-crowned,360,28,3550,intrepid-sword,fairy,steel,swords-dance,body-slam,take-down,bite,hyper-beam,92,150,115,80,115,148
+10189,zamazenta-crowned,360,29,7850,dauntless-shield,fighting,steel,body-slam,take-down,bite,roar,hyper-beam,92,120,140,80,140,128
+10190,eternatus-eternamax,563,1000,0,pressure,poison,dragon,fly,flamethrower,hyper-beam,solar-beam,toxic,255,115,250,125,250,130
+10191,urshifu-rapid-strike,275,19,1050,unseen-fist,fighting,water,mega-punch,fire-punch,ice-punch,thunder-punch,swords-dance,100,130,100,63,60,97
+10192,zarude-dada,300,18,700,leaf-guard,dark,grass,mega-punch,scratch,swords-dance,bind,vine-whip,105,120,105,70,95,105
+10193,calyrex-ice,340,24,8091,as-one-glastrier,psychic,ice,pound,pay-day,swords-dance,stomp,double-kick,100,165,150,85,130,50
+10194,calyrex-shadow,340,24,536,as-one-spectrier,psychic,ghost,pound,pay-day,stomp,double-kick,tackle,100,85,80,165,100,150
+10195,venusaur-gmax,236,240,10000,"overgrow, chlorophyll",grass,poison,,,,,,80,82,83,100,100,80
+10196,charizard-gmax,240,280,10000,"blaze, solar-power",fire,flying,,,,,,78,84,78,109,85,100
+10197,blastoise-gmax,239,250,10000,"torrent, rain-dish",water,,,,,,,79,83,100,85,105,78
+10198,butterfree-gmax,178,170,10000,"compound-eyes, tinted-lens",bug,flying,,,,,,60,45,50,90,80,70
+10199,pikachu-gmax,112,210,10000,"static, lightning-rod",electric,,,,,,,35,55,40,50,50,90
+10200,meowth-gmax,58,330,10000,"pickup, technician, unnerve",normal,,,,,,,40,45,35,40,40,90
+10201,machamp-gmax,227,250,10000,"guts, no-guard, steadfast",fighting,,,,,,,90,130,80,65,85,55
+10202,gengar-gmax,225,200,10000,cursed-body,ghost,poison,,,,,,60,65,60,130,75,110
+10203,kingler-gmax,166,190,10000,"hyper-cutter, shell-armor, sheer-force",water,,,,,,,55,130,115,50,50,75
+10204,lapras-gmax,187,240,10000,"water-absorb, shell-armor, hydration",water,ice,,,,,,130,85,80,85,95,60
+10205,eevee-gmax,65,180,10000,"run-away, adaptability, anticipation",normal,,,,,,,55,55,50,45,65,55
+10206,snorlax-gmax,189,350,10000,"immunity, thick-fat, gluttony",normal,,,,,,,160,110,65,65,110,30
+10207,garbodor-gmax,166,210,10000,"stench, weak-armor, aftermath",poison,,,,,,,80,95,82,60,82,75
+10208,melmetal-gmax,270,250,10000,iron-fist,steel,,,,,,,135,143,143,80,65,34
+10209,rillaboom-gmax,265,280,10000,"overgrow, grassy-surge",grass,,,,,,,100,125,90,60,70,85
+10210,cinderace-gmax,265,270,10000,"blaze, libero",fire,,,,,,,80,116,75,65,75,119
+10211,inteleon-gmax,265,400,10000,"torrent, sniper",water,,,,,,,70,85,65,125,65,120
+10212,corviknight-gmax,248,140,10000,"pressure, unnerve, mirror-armor",flying,steel,,,,,,98,87,105,53,85,67
+10213,orbeetle-gmax,253,140,10000,"swarm, frisk, telepathy",bug,psychic,,,,,,60,45,110,80,120,90
+10214,drednaw-gmax,170,240,10000,"strong-jaw, shell-armor, swift-swim",water,rock,,,,,,90,115,90,48,68,74
+10215,coalossal-gmax,255,420,10000,"steam-engine, flame-body, flash-fire",rock,fire,,,,,,110,80,120,80,90,30
+10216,flapple-gmax,170,240,10000,"ripen, gluttony, hustle",grass,dragon,,,,,,70,110,80,95,60,70
+10217,appletun-gmax,170,240,10000,"ripen, gluttony, thick-fat",grass,dragon,,,,,,110,85,80,100,80,30
+10218,sandaconda-gmax,179,220,10000,"sand-spit, shed-skin, sand-veil",ground,,,,,,,72,107,125,65,70,71
+10219,toxtricity-amped-gmax,176,240,10000,"punk-rock, plus, technician",electric,poison,,,,,,75,98,70,114,70,75
+10220,centiskorch-gmax,184,750,10000,"flash-fire, white-smoke, flame-body",fire,bug,,,,,,100,115,65,90,90,65
+10221,hatterene-gmax,255,260,10000,"healer, anticipation, magic-bounce",psychic,fairy,,,,,,57,90,95,136,103,29
+10222,grimmsnarl-gmax,255,320,10000,"prankster, frisk, pickpocket",dark,fairy,,,,,,95,120,65,95,75,60
+10223,alcremie-gmax,173,300,10000,"sweet-veil, aroma-veil",fairy,,,,,,,65,60,75,110,121,64
+10224,copperajah-gmax,175,230,10000,"sheer-force, heavy-metal",steel,,,,,,,122,130,69,80,69,30
+10225,duraludon-gmax,187,430,10000,"light-metal, heavy-metal, stalwart",steel,dragon,,,,,,70,95,115,120,50,85
+10226,urshifu-single-strike-gmax,275,290,10000,unseen-fist,fighting,dark,,,,,,100,130,100,63,60,97
+10227,urshifu-rapid-strike-gmax,275,260,10000,unseen-fist,fighting,water,,,,,,100,130,100,63,60,97
+10228,toxtricity-low-key-gmax,176,240,10000,"punk-rock, minus, technician",electric,poison,,,,,,75,98,70,114,70,75
+10229,growlithe-hisui,70,8,227,"intimidate, flash-fire, rock-head",fire,rock,double-kick,tackle,body-slam,take-down,thrash,60,75,45,65,50,55
+10230,arcanine-hisui,194,20,1680,"intimidate, flash-fire, rock-head",fire,rock,tackle,body-slam,take-down,double-edge,leer,95,115,80,95,80,90
+10231,voltorb-hisui,66,5,130,"soundproof, static, aftermath",electric,grass,tackle,take-down,double-edge,leech-seed,solar-beam,40,30,50,55,55,100
+10232,electrode-hisui,172,12,710,"soundproof, static, aftermath",electric,grass,tackle,take-down,double-edge,hyper-beam,solar-beam,60,50,70,80,80,150
+10233,typhlosion-hisui,240,16,698,"blaze, frisk",fire,ghost,fire-punch,thunder-punch,tackle,body-slam,take-down,73,84,78,119,85,95
+10234,qwilfish-hisui,88,5,39,"poison-point, swift-swim, intimidate",dark,poison,swords-dance,tackle,take-down,double-edge,poison-sting,65,95,85,55,55,85
+10235,sneasel-hisui,86,9,270,"inner-focus, keen-eye, pickpocket",fighting,poison,scratch,swords-dance,take-down,leer,low-kick,55,95,55,35,75,115
+10236,samurott-hisui,238,15,582,"torrent, sharpness",water,dark,swords-dance,tackle,body-slam,take-down,tail-whip,90,108,80,100,65,85
+10237,lilligant-hisui,168,12,192,"chlorophyll, hustle, leaf-guard",grass,fighting,swords-dance,mega-kick,take-down,hyper-beam,low-kick,70,105,75,50,75,105
+10238,zorua-hisui,66,7,125,illusion,normal,ghost,scratch,take-down,leer,roar,hyper-beam,35,60,40,85,40,70
+10239,zoroark-hisui,179,16,730,illusion,normal,ghost,scratch,swords-dance,body-slam,take-down,leer,55,100,60,125,60,110
+10240,braviary-hisui,179,17,434,"keen-eye, sheer-force, tinted-lens",psychic,flying,wing-attack,whirlwind,fly,body-slam,take-down,110,83,70,112,70,65
+10241,sliggoo-hisui,158,7,685,"sap-sipper, shell-armor, gooey",steel,dragon,tackle,body-slam,take-down,water-gun,hydro-pump,58,75,83,83,113,40
+10242,goodra-hisui,270,17,3341,"sap-sipper, shell-armor, gooey",steel,dragon,fire-punch,thunder-punch,tackle,body-slam,take-down,80,100,100,110,150,60
+10243,avalugg-hisui,180,14,2624,"strong-jaw, ice-body, sturdy",ice,rock,tackle,body-slam,take-down,double-edge,bite,95,127,184,34,36,38
+10244,decidueye-hisui,239,16,370,"overgrow, scrappy",grass,fighting,swords-dance,gust,tackle,take-down,growl,88,112,80,95,95,60
+10245,dialga-origin,306,70,8487,"pressure, telepathy",steel,dragon,body-slam,take-down,flamethrower,ice-beam,blizzard,100,100,120,150,120,90
+10246,palkia-origin,306,63,6590,"pressure, telepathy",water,dragon,body-slam,take-down,flamethrower,hydro-pump,surf,90,100,100,150,120,120
+10247,basculin-white-striped,161,10,180,"rattled, adaptability, mold-breaker",water,,headbutt,tackle,take-down,thrash,double-edge,70,92,65,80,55,98
+10248,basculegion-female,265,30,1100,"swift-swim, adaptability, mold-breaker",water,ghost,headbutt,tackle,take-down,thrash,double-edge,120,92,65,100,75,78
+10249,enamorus-therian,116,16,480,overcoat,fairy,flying,fly,body-slam,take-down,hyper-beam,psychic,74,115,110,135,100,46
+10250,tauros-paldea-combat-breed,172,14,1150,"intimidate, anger-point, cud-chew",fighting,,double-kick,headbutt,tackle,body-slam,take-down,75,110,105,30,70,100
+10251,tauros-paldea-blaze-breed,172,14,850,"intimidate, anger-point, cud-chew",fighting,fire,double-kick,headbutt,tackle,body-slam,take-down,75,110,105,30,70,100
+10252,tauros-paldea-aqua-breed,172,14,1100,"intimidate, anger-point, cud-chew",fighting,water,double-kick,headbutt,tackle,body-slam,take-down,75,110,105,30,70,100
+10253,wooper-paldea,42,4,110,"poison-point, water-absorb, unaware",poison,ground,slam,double-kick,tackle,body-slam,take-down,55,45,45,25,25,15
+10254,oinkologne-female,171,10,1200,"aroma-veil, gluttony, thick-fat",normal,,headbutt,tackle,body-slam,take-down,double-edge,115,90,70,59,90,65
+10255,dudunsparce-three-segment,182,45,474,"serene-grace, run-away, rattled",normal,,body-slam,take-down,double-edge,flamethrower,ice-beam,125,100,80,85,75,55
+10256,palafin-hero,160,18,974,"zero-to-hero, zero-to-hero",water,,ice-punch,body-slam,take-down,supersonic,mist,100,160,97,106,87,100
+10257,maushold-family-of-three,165,3,28,"friend-guard, cheek-pouch, technician",normal,,pound,take-down,double-edge,hyper-beam,low-kick,74,75,70,65,75,111
+10258,tatsugiri-droopy,166,3,80,"commander, storm-drain",dragon,water,take-down,water-gun,hydro-pump,surf,hyper-beam,68,50,60,120,95,82
+10259,tatsugiri-stretchy,166,3,80,"commander, storm-drain",dragon,water,take-down,water-gun,hydro-pump,surf,hyper-beam,68,50,60,120,95,82
+10260,squawkabilly-blue-plumage,146,6,24,"intimidate, hustle, guts",normal,flying,fly,fury-attack,take-down,double-edge,growl,82,96,51,45,51,92
+10261,squawkabilly-yellow-plumage,146,6,24,"intimidate, hustle, sheer-force",normal,flying,fly,fury-attack,take-down,double-edge,growl,82,96,51,45,51,92
+10262,squawkabilly-white-plumage,146,6,24,"intimidate, hustle, sheer-force",normal,flying,fly,fury-attack,take-down,double-edge,growl,82,96,51,45,51,92
+10263,gimmighoul-roaming,60,1,10,"run-away, run-away",ghost,,tackle,take-down,night-shade,confuse-ray,light-screen,45,30,25,75,45,80
+10264,koraidon-limited-build,335,35,3030,"orichalcum-pulse, orichalcum-pulse",fighting,dragon,swords-dance,body-slam,take-down,roar,flamethrower,100,135,115,85,100,135
+10265,koraidon-sprinting-build,335,35,3030,"orichalcum-pulse, orichalcum-pulse",fighting,dragon,swords-dance,body-slam,take-down,roar,flamethrower,100,135,115,85,100,135
+10266,koraidon-swimming-build,335,35,3030,"orichalcum-pulse, orichalcum-pulse",fighting,dragon,swords-dance,body-slam,take-down,roar,flamethrower,100,135,115,85,100,135
+10267,koraidon-gliding-build,335,35,3030,"orichalcum-pulse, orichalcum-pulse",fighting,dragon,swords-dance,body-slam,take-down,roar,flamethrower,100,135,115,85,100,135
+10268,miraidon-low-power-mode,335,28,2400,"hadron-engine, hadron-engine",electric,dragon,swords-dance,body-slam,take-down,hyper-beam,solar-beam,100,85,100,135,115,135
+10269,miraidon-drive-mode,335,28,2400,"hadron-engine, hadron-engine",electric,dragon,swords-dance,body-slam,take-down,hyper-beam,solar-beam,100,85,100,135,115,135
+10270,miraidon-aquatic-mode,335,28,2400,"hadron-engine, hadron-engine",electric,dragon,swords-dance,body-slam,take-down,hyper-beam,solar-beam,100,85,100,135,115,135
+10271,miraidon-glide-mode,335,28,2400,"hadron-engine, hadron-engine",electric,dragon,swords-dance,body-slam,take-down,hyper-beam,solar-beam,100,85,100,135,115,135
+10272,ursaluna-bloodmoon,275,24,2900,minds-eye,ground,normal,fire-punch,ice-punch,thunder-punch,scratch,swords-dance,113,70,120,135,65,52
+10273,ogerpon-wellspring-mask,275,12,398,water-absorb,grass,water,swords-dance,slam,vine-whip,double-kick,take-down,80,120,84,60,96,110
+10274,ogerpon-hearthflame-mask,275,12,398,mold-breaker,grass,fire,swords-dance,slam,vine-whip,double-kick,take-down,80,120,84,60,96,110
+10275,ogerpon-cornerstone-mask,275,12,398,sturdy,grass,rock,swords-dance,slam,vine-whip,double-kick,take-down,80,120,84,60,96,110
+10276,terapagos-terastal,90,3,160,tera-shell,normal,,headbutt,body-slam,take-down,double-edge,roar,95,95,110,105,110,85
+10277,terapagos-stellar,90,17,770,teraform-zero,normal,,headbutt,body-slam,take-down,double-edge,roar,160,105,110,130,110,85
