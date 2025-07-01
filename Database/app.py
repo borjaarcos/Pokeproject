@@ -7,26 +7,36 @@ CORS(app)  # Permitir peticiones externas (como desde Spring Boot)
 
 # Cargar los datos
 dat_base = pd.read_csv("pokemon_data_mod.csv")
+
+
+# Rellenar valores nulos para evitar problemas
+dat_base = dat_base.fillna("")
+
+# Definir tipos adecuados (solo ejemplo, ajusta según tu CSV)
+tipos = {
+    "name": "string",
+    "abilities": "string",
+
 dat_base = dat_base.astype({
     "name": "string",
     "types": "string",
     "abilities": "string",
     "moves": "string",
     "stats": "string",
-    "primary_type": "string",
-    "secondary_type": "string",
-    "move_1": "string",
-    "move_2": "string",
-    "move_3": "string",
-    "move_4": "string",
-    "move_5": "string",
-    "hp": "string",
-    "attack": "string",
-    "defense": "string",
-    "special-attack": "string",
-    "special-defense": "string",
-    "speed": "string"
-})
+
+    "hp": "Int64",
+    "attack": "Int64",
+    "defense": "Int64",
+    "special-attack": "Int64",
+    "special-defense": "Int64",
+    "speed": "Int64"
+}
+dat_base = dat_base.astype(tipos)
+
+#dat_base.info()
+#print("Cantidad de nulos por columna:")
+#print(dat_base.isnull().sum())
+
 
 # Ruta para obtener todos los Pokémon
 @app.route('/pokemons/getAllPokemons', methods=['GET'])
