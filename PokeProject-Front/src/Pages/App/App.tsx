@@ -3,6 +3,9 @@ import { useState, useEffect } from 'react'
 //import viteLogo from '/vite.svg'
 import './App.css'
 import SearchBar from './SearchBar.tsx'
+import HexChart from './HexChart.tsx'
+import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis } from 'recharts';
+
 
 
 function App() {
@@ -31,16 +34,12 @@ function App() {
     return `${p.primary_type}${p.secondary_type ? ' / ' + p.secondary_type : ''}`;
   };
   return (
+
     <div>
       <SearchBar onSearch={handleSearch} />
       <h2>Pokémon List</h2>
         <table>
-            <thead>
-              <tr>
-                <th></th>
-                <th></th>
-              </tr>
-             </thead>
+           
               <tbody>
                 {pokemonList.map((p, i) => (
                 <tr key = {i}>
@@ -50,6 +49,7 @@ function App() {
                  <td >
                    {pokemonTypes(p)}
                  </td>
+
                 </tr>
                 ))}
             </tbody>
