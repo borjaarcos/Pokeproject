@@ -2,6 +2,7 @@ package Pokeproject.Pokeproject.service;
 
 import Pokeproject.Pokeproject.model.Pokemon;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,12 +11,10 @@ import java.util.List;
 public class PokemonService implements IPokemonService{
 
     @Override
-    public List<Pokemon>  getAllPokemon() {
-        Pokemon pokemon = new Pokemon();
-        List<Pokemon> pokemons = new ArrayList<>();
-
-        pokemon.setName("Pikachu");
-        pokemons.add(pokemon);
+    public Pokemon[]  getAllPokemon() {
+        RestTemplate restTemplate = new RestTemplate();
+        String url = "http://localhost:5000/pokemons/getAllPokemons";
+        Pokemon[] pokemons = restTemplate.getForObject(url, Pokemon[].class);
 
         return pokemons;
     }

@@ -5,5 +5,5 @@ import Pokeproject.Pokeproject.model.Pokemon;
 import java.util.List;
 
 public interface IPokemonService {
-    List<Pokemon> getAllPokemon();
+    Pokemon[] getAllPokemon();
 }
