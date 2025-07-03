@@ -39,7 +39,7 @@ function App() {
       <SearchBar onSearch={handleSearch} />
       <h2>Pokémon List</h2>
         <table>
-           
+
               <tbody>
                 {pokemonList.map((p, i) => (
                 <tr key = {i}>
