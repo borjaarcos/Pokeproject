@@ -18,4 +18,5 @@ public class Pokemon {
     private String special_attack;
     private String special_defense;
     private String speed;
+    private String url;
 }

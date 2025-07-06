@@ -33,22 +33,26 @@ function App() {
   const pokemonTypes = (p) => {
     return `${p.primary_type}${p.secondary_type ? ' / ' + p.secondary_type : ''}`;
   };
+
   return (
 
     <div>
-      <SearchBar onSearch={handleSearch} />
+      <div className="searchbar-container">
+        <div className="searchbar-wrapper">
+          <SearchBar onSearch={handleSearch} />
+        </div>
+      </div>
       <h2>Pokémon List</h2>
         <table>
 
               <tbody>
-                {pokemonList.map((p, i) => (
+                {pokemonList.slice(0, 50).map((p, i) => (
                 <tr key = {i}>
-                 <td>
-                   {p.name}
-                 </td>
-                 <td >
-                   {pokemonTypes(p)}
-                 </td>
+                 <td> <img src={p.url}/> </td>
+                 <td> {p.name} </td>
+
+                 <td > {pokemonTypes(p)} </td>
+
 
                 </tr>
                 ))}
