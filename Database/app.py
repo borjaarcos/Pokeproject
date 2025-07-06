@@ -7,14 +7,17 @@ CORS(app)  # Permitir peticiones externas (como desde Spring Boot)
 
 # Cargar los datos
 dat_base = pd.read_csv("pokemon_data_mod.csv")
+
 img_pokemons = pd.read_csv("pokemons_img_url.csv")
 
 dat_base['url'] = img_pokemons['img_url']
+
 
 # Rellenar valores nulos para evitar problemas
 dat_base = dat_base.fillna("")
 
 dat_base.info()
+
 # Definir tipos adecuados (solo ejemplo, ajusta según tu CSV)
 tipos = {
     "name": "string",
