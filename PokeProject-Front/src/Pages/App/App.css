@@ -4,20 +4,16 @@
   padding: 2rem;
   text-align: center;
 }
+.searchbar-container {
+  position: fixed;
+  top: 0;
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
+  background-color: white;
+  z-index: 1000;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
 
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
