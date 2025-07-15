@@ -1,4 +1,4 @@
-id,name,base_experience,height,weight,abilities,primary_type,secondary_type,move_1,move_2,move_3,move_4,move_5,hp,attack,defense,special-attack,special-defense,speed
+id,name,base_experience,height,weight,abilities,primary_type,secondary_type,move_1,move_2,move_3,move_4,move_5,hp,attack,defense,special_attack,special_defense,speed
 1,bulbasaur,64,7,69,"overgrow, chlorophyll",grass,poison,razor-wind,swords-dance,cut,bind,vine-whip,45,49,49,65,65,45
 2,ivysaur,142,10,130,"overgrow, chlorophyll",grass,poison,swords-dance,cut,bind,vine-whip,headbutt,60,62,63,80,80,60
 3,venusaur,236,20,1000,"overgrow, chlorophyll",grass,poison,swords-dance,cut,bind,vine-whip,headbutt,80,82,83,100,100,80
