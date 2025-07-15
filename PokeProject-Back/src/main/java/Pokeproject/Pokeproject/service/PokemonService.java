@@ -24,7 +24,6 @@ public class PokemonService implements IPokemonService{
 
     @Override
     public Pokemon[] getDamagePokemon(String pokemonName) {
-        System.out.println("PokemonName: "+pokemonName);
         RestTemplate restTemplate = new RestTemplate();
         String jsonBody = "{\"nombre\": \"" + pokemonName + "\"}";
 
@@ -44,12 +43,12 @@ public class PokemonService implements IPokemonService{
         PokeDamageResponse[] pokemonsResponse = response.getBody();
 
         Pokemon p = new Pokemon();
-        p.PokeDamageToPokemon(pokemonsResponse[0]);
-        System.out.println("PokemonName: "+p);
-        List<Pokemon> p2 = new ArrayList<>();
-        p2.add(p);
-        Pokemon[] pokemons = p2.toArray(new Pokemon[0]);
-
-        return pokemons;
+        List<Pokemon> pokemonList = new ArrayList<>();
+        for (PokeDamageResponse pR : pokemonsResponse ){
+            p.PokeDamageToPokemon(pR);
+            pokemonList.add(p);
+        }
+        Pokemon[] pokemonReturn = pokemonList.toArray(new Pokemon[0]);
+        return pokemonReturn;
     }
 }
