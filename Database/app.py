@@ -7,9 +7,9 @@ app = Flask(__name__)
 CORS(app)  # Permitir peticiones externas (como desde Spring Boot)
 
 # Cargar los datos
-dat_base = pd.read_csv("data/pokemon_data_mod.csv")
-info_movimientos = pd.read_csv("data/movimientos_pokemon_info.csv")
-img_pokemons = pd.read_csv("data/pokemons_img_url.csv")
+dat_base = pd.read_csv("pokemon_data_mod.csv")
+info_movimientos = pd.read_csv("movimientos_pokemon_info.csv")
+img_pokemons = pd.read_csv("pokemons_img_url.csv")
 
 #Metemos la url de los pokémons en la base de datos
 dat_base['url'] = img_pokemons['img_url']
