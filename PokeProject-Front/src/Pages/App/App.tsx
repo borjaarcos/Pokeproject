@@ -1,16 +1,12 @@
 import { useState, useEffect } from 'react'
-//import reactLogo from './assets/react.svg'
-//import viteLogo from '/vite.svg'
 import './App.css'
-import SearchBar from './SearchBar.tsx'
-import HexChart from './HexChart.tsx'
-import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis } from 'recharts';
-
-
+import SearchBar from '../../Components/SearchBar/SearchBar.tsx'
+import { useNavigate } from 'react-router-dom';
 
 function App() {
   const [pokemons, setPokemons] = useState([]);
   const [pokemonList, setPokemon] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetch("http://localhost:8080/pokemon/getPokemons")
@@ -21,7 +17,7 @@ function App() {
       })
       .catch((err) => console.error("Error fetching pokemons:", err));
   }, []);
-
+  console.log({pokemons});
   const handleSearch = (query) => {
     const inputSearch = query.toLowerCase();
     setPokemon(
@@ -33,7 +29,12 @@ function App() {
   const pokemonTypes = (p) => {
     return `${p.primary_type}${p.secondary_type ? ' / ' + p.secondary_type : ''}`;
   };
-
+  const handleImageClick = (pokemon) => {
+  console.log(pokemon);
+    navigate(`/detalle/${pokemon.name}`, {
+        state: { pokemon }
+      });
+  };
   return (
 
     <div>
@@ -48,7 +49,10 @@ function App() {
               <tbody>
                 {pokemonList.slice(0, 50).map((p, i) => (
                 <tr key = {i}>
-                 <td> <img src={p.url}/> </td>
+                 <td> <img src={p.url}
+                        onClick={() => handleImageClick(p)}
+                        style={{ cursor: 'pointer' }}
+                 /> </td>
                  <td> {p.name} </td>
 
                  <td > {pokemonTypes(p)} </td>

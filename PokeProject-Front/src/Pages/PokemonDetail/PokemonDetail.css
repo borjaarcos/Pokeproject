@@ -1,0 +1,88 @@
+/* PokemonDetail.css */
+
+.detail-card {
+  max-width: 400px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  overflow: hidden;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.detail-card:hover {
+  transform: translateY(-5px);
+}
+
+.detail-card .header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.detail-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background: #f9f9f9;
+}
+
+.detail-card .title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.detail-card .types {
+  margin-bottom: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.detail-card .type {
+  padding: 0.25rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: white;
+}
+
+.detail-card .type.primary {
+  background-color: var(--primary-color);
+}
+
+.detail-card .type.secondary {
+  background-color: var(--secondary-color, #999);
+}
+
+.detail-card .chart-container {
+  width: 100%;
+}
+/* En PokemonDetail.css */
+
+.tipos {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.tipo {
+  padding: 0.25rem 1rem;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-transform: capitalize;
+  color: white;
+  user-select: none;
+}

@@ -6,4 +6,5 @@ import java.util.List;
 
 public interface IPokemonService {
     Pokemon[] getAllPokemon();
+    Pokemon[] getDamagePokemon(String pokemonName);
 }
