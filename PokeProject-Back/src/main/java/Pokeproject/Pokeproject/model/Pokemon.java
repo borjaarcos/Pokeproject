@@ -1,5 +1,6 @@
 package Pokeproject.Pokeproject.model;
 
+import Pokeproject.Pokeproject.model.DTO.PokeDamageResponse;
 import lombok.Data;
 
 @Data
@@ -19,4 +20,12 @@ public class Pokemon {
     private String special_defense;
     private String speed;
     private String url;
+    private int receivedDamage;
+    public void PokeDamageToPokemon(PokeDamageResponse pokeDamage){
+        this.setName(pokeDamage.getPokemon_defensor());
+        this.setMove_1(pokeDamage.getNombre_mov());
+        this.setReceivedDamage(pokeDamage.getDaño_estimado());
+        this.setDefense(String.valueOf(pokeDamage.getDef()));
+        this.setSpecial_defense(String.valueOf(pokeDamage.getDef_esp()));
+    }
 }

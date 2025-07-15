@@ -72,7 +72,7 @@ def generar_tabla_efectos(pokemon_test, df_moves, dat_base, efectividad):
             nombre_poke = poke['name']
             tipos_defensor = [poke['primary_type'], poke['secondary_type']]
             defensa = poke['defense']
-            def_esp = poke['special-defense']
+            def_esp = poke['special_defense']
             mult = obtener_multiplicador(tipo_mov, tipos_defensor, efectividad)
 
             filas.append({
@@ -96,7 +96,7 @@ def calcular_dano_base(nivel, poder, ataque_atacante, defensa_defensor, multipli
 def simular_dano(pokemon_test, dat_base, info_movimientos, efectividad, nivel=50):
     nombre_ataque = pokemon_test["name"]
     ataque = pokemon_test["attack"]
-    ataque_esp = pokemon_test["special-attack"]
+    ataque_esp = pokemon_test["special_attack"]
     tipo_ataque = [pokemon_test["primary_type"], pokemon_test["secondary_type"]]
 
     print(f"\n→ Calculando daño causado por {nombre_ataque}:\n")

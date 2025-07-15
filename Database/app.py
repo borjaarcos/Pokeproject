@@ -31,8 +31,8 @@ tipos = {
     "hp": "Int64",
     "attack": "Int64",
     "defense": "Int64",
-    "special-attack": "Int64",
-    "special-defense": "Int64",
+    "special_attack": "Int64",
+    "special_defense": "Int64",
     "speed": "Int64",
     "url": "string"
 }

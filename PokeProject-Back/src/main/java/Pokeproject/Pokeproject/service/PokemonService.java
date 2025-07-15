@@ -1,5 +1,6 @@
 package Pokeproject.Pokeproject.service;
 
+import Pokeproject.Pokeproject.model.DTO.PokeDamageResponse;
 import Pokeproject.Pokeproject.model.Pokemon;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
@@ -33,17 +34,22 @@ public class PokemonService implements IPokemonService{
         HttpEntity<String> request = new HttpEntity<>(jsonBody, headers);
         String urlDamage = "http://localhost:5000/pokemons/calculateDamage";
 
-        ResponseEntity<Pokemon[]> response = restTemplate.exchange(
+        ResponseEntity<PokeDamageResponse[]> response = restTemplate.exchange(
                 urlDamage,
                 HttpMethod.POST,
                 request,
-                Pokemon[].class
+                PokeDamageResponse[].class
         );
 
-        Pokemon[] pokemons = response.getBody();
+        PokeDamageResponse[] pokemonsResponse = response.getBody();
 
-        System.out.println("Respuesta del daño:");
+        Pokemon p = new Pokemon();
+        p.PokeDamageToPokemon(pokemonsResponse[0]);
+        System.out.println("PokemonName: "+p);
+        List<Pokemon> p2 = new ArrayList<>();
+        p2.add(p);
+        Pokemon[] pokemons = p2.toArray(new Pokemon[0]);
 
-        return new Pokemon[0];
+        return pokemons;
     }
 }
