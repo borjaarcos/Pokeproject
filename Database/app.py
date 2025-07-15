@@ -7,18 +7,15 @@ app = Flask(__name__)
 CORS(app)  # Permitir peticiones externas (como desde Spring Boot)
 
 # Cargar los datos
-dat_base = pd.read_csv("pokemon_data_mod.csv")
-
-info_movimientos = pd.read_csv("movimientos_pokemon_info.csv")
-img_pokemons = pd.read_csv("pokemons_img_url.csv")
+dat_base = pd.read_csv("data/pokemon_data_mod.csv")
+info_movimientos = pd.read_csv("data/movimientos_pokemon_info.csv")
+img_pokemons = pd.read_csv("data/pokemons_img_url.csv")
 
 #Metemos la url de los pokémons en la base de datos
 dat_base['url'] = img_pokemons['img_url']
 
-
 # Rellenar valores nulos para evitar problemas
 dat_base = dat_base.fillna("")
-
 
 # Definir tipos adecuados
 tipos = {
@@ -41,10 +38,6 @@ tipos = {
 }
 dat_base = dat_base.astype(tipos)
 
-#dat_base.info()
-#print("Cantidad de nulos por columna:")
-#print(dat_base.isnull().sum())
-
 # ---------------------- ENDPOINTS ---------------------- #
 # Ruta para obtener el daño de un Pokémon
 @app.route('/pokemons/calculateDamage', methods=['POST'])
@@ -66,6 +59,17 @@ def calcular_dano_pokemon():
     df_resultado = simular_dano(pokemon_test, dat_base, info_movimientos, efectividad)
     df_resultado = df_resultado.fillna("")
 
+    # Ordenar el DataFrame por la columna 'damage' de mayor a menor
+    df_sorted = df_resultado.sort_values(by="daño_estimado", ascending=False)
+
+    # Obtener las 5 con mayor daño
+    top_5 = df_sorted.head(5)
+
+    # Obtener las 5 con menor daño
+    bottom_5 = df_sorted.tail(5)
+
+    df_limit5 = pd.concat([top_5, bottom_5], axis=0, ignore_index=True)
+
     tipos_resultado = {
     "pokemon_atacante": "string",
     "pokemon_defensor": "string",
@@ -74,10 +78,10 @@ def calcular_dano_pokemon():
     "clase_daño": "string",
     "tipos_defensor": "string",
     }
-    df_resultado = df_resultado.astype(tipos_resultado)
+    df_limit5 = df_limit5.astype(tipos_resultado)
     
     # Devolver resultados
-    return jsonify(df_resultado.to_dict(orient="records"))
+    return jsonify(df_limit5.to_dict(orient="records"))
 
 # Ruta para obtener todos los Pokémon
 @app.route('/pokemons/getAllPokemons', methods=['GET'])
@@ -86,3 +90,4 @@ def get_pokemons():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+
